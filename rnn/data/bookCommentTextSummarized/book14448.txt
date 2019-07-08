@@ -1,0 +1,80 @@
+https://www.goodreads.com/book/show/56829.Hackers
+So they were the ones who got computing and the hacker ethos out into the world.Another thing that I kept running into: I'd be excited about the hackers' excitement, totally understanding that sense of flow...and then: ugh, thoroughly unpleasant people.
+I found that most true of the MIT hackers and the gamers, FWIW.Possibly related: the overwhelming maleness of the hacker culture throughout the entire book.
+So the idea of the MIT hackers that there's some biological difference that kept women out of their world is nuts.
+Why weren't they able to become part of the hacker community?)As I said, I'm still processing.And that said, it was a well-written book; fantastic story-telling.
+This book, the original version, changed my life when I read it in high school. It, along with "The Cuckoo's Egg", put me on the road to computer science in college.
+No; it had a bug that caused it to consider illegal moves, and it took one.
+It's hard to imagine confusing one (bug that causes program to take illegal moves) with the other (sentient program that changes the rules of chess for increased enjoyment).
+It's also hard to imagine a good editor failing to flag such an ignorant statement.I have the 25th-anniversary edition and, to be fair, the portions of the book added later (when Levy was older and more experienced) are better written.
+John Carmack said it was the most inspiring book for him and I can understand why.The word Hackers is not the same these days, but the Hacker Ethics still lives in some of the programmers out there.
+Those guys that keep hacking (and/or programming) for hours and hours just for the joy of create and modify things still exists.It made me think about the old times when I used to use part of my "sleep time" to work on some C++/SDL code just to understand how could I bring 2D game to life with these tools.
+This book (and these old hackers) motivated me to bring my hacker lifestyle again.
+Some of the people in that section of the book have disappeared into obscurity, so the book is amazing for capturing this lost part of tech history.
+It covers the Altair machine, the Apple I / II and other microcomputers of its class.
+This part made me realise for the first time how much of a key player Apple were at the beginning.
+The third part is about games, and the programmers and companies that created them for the early computers.
+It focuses on a few key developers and companies, mostly Sierra.
+This book is divided into three basic sections. The first, about MIT hackers in the 1950's and 1960's, is outstanding. The second, about homebrew hardware culture in the Bay Area in the 1960's and 1970's, is decent but bloated. The third, about game hackers and Sierra On-Line, is mostly worthless. I'd recommend reading the MIT section and then readily giving up on the book after that.
+I find a lot of computer users look at the things like they're magic boxes, likely run by black magic and/or hamsters running in wheels; I confess to having moments where I've felt that way myself, but I'm trying to educate myself a bit more on how computers actually think and operate, and this book helped cement that understanding a bit more.Additionally, this book reinforced two of the truisms I've repeatedly encountered when studying subcultures.The market will replace your values with its own.
+One of the main recurring conflicts in Hackers relates to who has access to computer information - we see this with the MIT gurus in the 50s trying to limit access to their computers, and again with the tales of early software users wanting to freely share programs vs.
+Let's get this out of the way up front—the term "hackers" here refers to the original ideology of the word from the earlier days of computing, when hackers blazed the trail of our modern hardware and software systems.
+It serves as a rich history of the genesis of modern day computing, from the earliest days at MIT, the birth of languages such as Lisp and BASIC, the origins of modern video games from Space War and Colossal Cave, to the natural evolution of microcomputing.
+After reading this, you'll want to fire up Emacs, dust off Space War, and find out just how powerful this Lisp language from 1959 still really is ;-)
+F'n awesome, obviously. Everyone should have read this by now, or by several years ago rather.
+
+It's also very interesting to read a book that maps the relatively obscure hacker culture (back in 1983, when it was first published).
+The book got popular in the following years, made its own impact on the very culture it described.
+And then it got updates.
+There was an afterword with an update from 1993 (that is, ten years later) and then another one from 2010, so the author had an opportunity to update the book with some comments on its own role within the community.I'd wanted to read this book for a long time; even more so after I'd read in Masters of Doom that it was instrumental to John Carmack in the formation of some of his views.
+And finding that Carmack got a mention in the 2010 update was quite satisfying.
+There are lots of very interesting parts of Computer Science History, but this book isn't one of them.
+when you are used to genuinely absorbing computer science history, this book just doesn't cut the mustard.
+It also only cares about a particular era of young, obnoxious male Americans and acts casually as though their contribution to computer science is the only one that counts for anything.
+It doesn't even include young Female Americans who contributed, like Grace Hopper, Klara dan Von Neumann, Margaret Fox, Katherine Johnson etc.
+As another commenter mentioned - you could cut out a heck of a lot of this book with some decent editing.
+There were a few oddities (claiming brøderbund was Scandinavian for "brotherhood" (last I checked, Scandinavian wasn't a language...think maybe he meant Norwegian?), and that Bill Gates wrote DOS for the IBM PC (didn't he buy it from some guy for like $400?).
+The only other drawback for me was that some of the early chapters were a bit dull for me (sorry, nothing specific to report), but of course did love hearing about hacks of many varieties (jokes, stunts as well as clever coding tricks).
+Or maybe he wasn't anywhere near these guys till long after events took place.
+This is a book about the early age of hacking before computers controlled so much of our world that "hacking" became a science of exploitation.
+This is the original meaning of hacking, which is to squeeze extra performance out of equipment by bending the "proper" rules, which often have to do more with administrative control than technological limitations.
+I find this encouraging as an outlook as it is what all of us should always do to whatever limitations we find in life: work around the unreasonable ones by understanding the raw reality (science/logic/common sense) of a situation more than its human-imposed administrative, social and political -- these words seem to mean the same thing in this context -- controls.
+One of my absolute favorite tech-related books of all time.
+Read it a half-dozen times, at least.It's somewhat better-written than most of Levy's books (like the painful "In the Plex"), though it bears the same biases that his other work does.
+I don't know if it's a long-form journalist tendency, but Levy's books and articles all seem to be written as if they're telling The Whole Story, though they are heavily skewed by the people who were most willing to be interviewed extensively.
+
+This was somewhat mediocre. The book started ok, with the AI lab in MIT and the hackers there, but then got into some stuff which has nothing to do with hacking in any form, and the focus on Sierra On-line is unjustified.All things considered, not a useful book beyond the first 100-150 pages.
+An interesting look at the early hackers & computers. Especially for those in the computer field, it's a fun look at history. Well written & engaging.
+OK. It's too long, and, in places, too long-winded, even semi-religious in its fervour.
+Had it not been for Marvin Minsky who let the hackers run free, the legends who hacked all night at MIT would probably not have been created or maybe they would have found their way around bureaucracies anyways for their inquisitiveness.Through this I learnt it was the Community Memory group which first built the computerized communication system which allowed people to contact each other.
+Lee Felsenstein who was part of it also dreamed of bringing computers to people.The homebrew computer club which allowed free exchange of ideas and information led the the second generation of hackers, the hardware hackers.
+They believed in freely giving away all programs they wrote.The second part is the story of hardware hackers in California who dreamt of new machines and wrote the initial software to make those machines come to life.
+This section includes the initial experiences of now-famous people like Bill Gates, Steve Wozniak, and also some lesser known but profoundly influential figures like Lee Felsenstein.The third part deals with the "third generation of hackers".
+Back then it was impossible to know which of these figures would go on to become legends, and who would remain obscure.Overall my yardstick for judging a book is based on how much I learn from it.
+Amazing, inspiring, informative. A mandatory read for anyone who loves what they do, even if not necessarily tech related.
+A historical view of hackers and their adventures through evolution of modern computing!
+It's one of those things that textbooks just can't do, and I enjoyed reading how people figured stuff out and experimented while having relatively few resources.Hackers won't give any concrete help to people looking to learn any specific program.
+But there are so many incidents in and it goes in here that relate how people learned before there was an Internet, and how they wanted to learn and some of the atrocious mistakes they made before a big breakthrough, that blows the now vaguely remembered 'I programmed with 8k and switches and punch cards and liked it' stories away.
+
+In the early eighties, Apple II aficionado Steven Levy wrote a history of the early personalities involved in computers.
+Roughly speaking, this regards access to computers and information as paramount, judging all by their skills and talents with computers - not their salaries or station in life.I read this history in the summer after high school, having had a taste of TRS-80 and timeshare computers at school, plus a TI-99 at home.
+This re-read some 30 years later shows me some of the cracks in the foundation - the journalism and editing could have been a smidge better.
+The lens focuses on Apple, with Commodore, PC and TRS-80 getting only a few mentions.
+Especially if a narrative just "forgets" to mention people who aren't men.
+This book goes a step further to imply that women aren't as good at hacking/math/computers as men which is bullshit.
+As if the first programmer wasn't a woman (Ada Lovelace).
+As if the first compiler wasn't written by a woman (Grace Hopper).
+As if there aren't a million kickass women and non binary folks who are hackers today.
+This is a really good book.
+Goes deep into the roots of the hacker movement, way back to the model railroad club at MIT in the 50's.
+The book describes various 'heroes' in several stages of the hacker movement, until somewhere in the early eighties where Stallman keeps the flame burning as the last of the Mohicans (he still is).Not only describes the hackers from a technical perspective but also goes into their social context.
+Successful disorganised chaos, brilliance, creativity, discipline, autism, party, business, envy, pride, weirdness and everything in between.You must read this if you are in any way involved in programming or the open source movement.
+Hackers are the ones that push the envelope, that try to do things with computers that have not been done before.
+They are those that push the boundaries from what you can do with computers, smartphones, internet and any other technology.Their culture arose in the late 60s through the early 80s almost simultaneously at MIT and Silicon Valley.
+This culture lives today, for the good and bad, with us still.
+This book is more than 25 years old, but it is still on the shelves of a Mark Zuckerberg and the other hackers who drives our lives today.
+This book is timeless and will never really become old.
+I can safely say that this book really changed the way I think.
+From now on I can say that my life has been changed by this book.
+What a great think to learn the great history of the industry you are working in.
+I have always considered myself living only to understand computers and to work with computers, but after reading this book, I found out that because people thought the same thing, they changed the world.I have a lot to say about this book but whatever I say will not be enough.

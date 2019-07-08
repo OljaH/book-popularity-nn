@@ -1,0 +1,74 @@
+https://www.goodreads.com/book/show/677285.Ignition_
+This book really had me giggling (descriptions of bizarre characters who were in rocketry, mentioning dioxygen diflouride in a mere aside) or gasping (ordering dimethyl mercury by the barrel).
+As implied by the title, you won't hear very much about solid fuels or hydrogen-fueled rocketry here, alas.A ton of fun for anyone who really likes science and can read or at least look past a few reaction equations (maybe 25 in the whole book, not essential to understanding).You essentially cannot find this book in print, but if you enter "mad science" in a search engine, there it is for download in PDF form.
+By the end of Ignition!, one should not be surprised to find a bundle of laughs even in a dry explanation of how yet another ill-advised exotic chemical freezes too soon to be useful.Because by the end of the book, even for someone such as myself whose memory of Chemistry 101 is about as fresh as a tank of sludgy RFNA, the reader will have acquired some kind of the knowledge and sense these applied science heroes learned the hard way about rocket propellants, and likely some of same looney mentality towards horrifyingly unstable sounding compounds: "tetranitromethane?
+Let's burn it and see what happens!"For rocket history and chemistry enthusiasts, I have no reservations recommending this book.
+This is a curious book: one part memoir, one part scientific history, one part technical primer.The topic is the development of liquid rocket propellants (fuels, oxidizers, and monopropellants) roughly 1940 - 1970.
+One of the major themes in the book is the development of hypergolic compounds -- those that ignite promptly on contact.
+You should know what a eutectic is and what connection it has to freezing points.For a prose sample: the specification for JP-3 jet fuel "...was remarkably liberal, with a wide cut (range of distillation temperatures) and with such permissive limits on olefins and aromatics that any refinery above the level of a Kentucky moonshiner's pot still could convert at least half of any crude to jet fuel."In addition to illuminating the technical challenges of propellant engineers, the book is also a fascinating view into the social dynamics of the rocket world.
+And by the middle of the century there was a consensus: a rocket engine fueled by chemical reaction would propel humans into -- and through -- outer space.Physicists and engineers determined that the object of a rocket engine is to produce thrust —a force.
+(Thus, kilograms per second times meters per second gives the thrust in Newtons.)It was up to the propulsion chemists to discover and develop the ingredients -- the chemical fuels -- that could be used to produce the necessary thrust to propel rockets into space."Ignition: An Informal History of Liquid Rocket Propellants" by John D.
+it's like you read about the wild west of science; that's what uncharted territorry and defense money combust into. foreword by asimov if you weren't convinced.
+Highly amusing, serious and complete. Spontaneous Self Disassembly shall never be forgotten.
+If you are wanting a very technical primer on the history of liquid fuel rocket propellants between 1940 and 1970, this is your book.
+It's highly informative and very chemistry heavy, so if you don't have a year or two of college level chemistry in the back of your mind, a lot of information is going to slip through the cracks.
+I really enjoyed this book, but it made me very frustrated at times due to the high pace while trying to keep track of all of the chemicals, stoichiometry, etc.
+Not for the general public but more for chemists or engineers in the rocket business. Too many details on chemistry makes it hard to enjoy the witty parts. I should have tried the sample on Kindle before buying.
+One of the most hilarious and refreshing reads I had in a very long time. A true classic for space enthusiasts!
+Author was one of the chemists active in the field at the time and draws on first-hand personal experiences as well as broader professional competence to give comprehensive and detailed annals of the craft.
+The text mentions main actors in the field at the time, as well as describes important milestones of the research.
+The text reads quite well for a book that mentions more that one chemical compound on every single page.
+It is strurctured by the main type of propellant, each chapter describes the basic science involved so that a reader without specific background in chemistry can appreciate the details of the story.
+The first third of this book is pretty entertaining, the second bogs down with chemistry, and I may get around to finishing the last someday. There's enough dry wit on show from the author to make for outburst of laughter, but there's a lot of data in here. I also felt faintly disappointed about the horizon from time to time - there's some footnoted references to interesting projects in hopeful tones, but it generally turns out that they've failed in one way or another since the book was published in the early 70s.
+While Clark claims that you don't need a chemistry background to understand this book, it's definitely something I'd recommend. Nonetheless it is a great primer on early rocket work in this country (though because of when it was written, not such a good primer on work done behind the Iron Curtain). It's also a pretty funny read.
+For my own part, I am well versed in the history so it wasn't a problem.The irony of the book is that it has relatively little to say about those propellants that have come to dominate the human space program and commercial rocket launches because those same propellants were not militarily useful.
+Much of the rest of Clark's book is taken up with other forms of storable propellant, including monopropellants (usually mixed oxidizer/fuel combinations) that are truly alarming.
+The book also does not address solid fuels, which in the end replaced liquid propellants for all tactical military purposes as well as for the bulk of the nation's ICBM force.
+This is a snarky historical account of the development of rocket fuels, post-World War II, by one of the participants.
+Good rocket fuels are one step away from explosives and good oxidizers eagerly burn things.
+Research in rocket science involves lots of explosions and lots of things burning up.
+Again unsurprisingly, the fuel in a hypergolic propellant is likely to burn very quickly with things that aren’t its intended oxidizer like, say, air.
+On the way, a basic discussion of how to evaluate a rocket fuel is given.
+The amount of energy and material spent on developing military rockets was huge, and the fuels used were explosive and highly toxic.
+Part of this is certainly Clarke's writing style, which exudes a sort of flippant humour even when he is detailing something as dry as the chemical structure of some complex hydrocarbon.
+Clarke is abundant with these sorts of anecdotes, punctuating each chapter with remarkable attempts and catastrophes.
+However, this is not merely a slapstick surface history -- Clarke genuinely does communicate the history of his field, detailing the many fuel and oxidiser combinations which have been attempted, their chemistry, the intuition for test systems and standards, and the hurdles and the many secondary issues which prevent fuels from taking off.
+The obvious one is suggested by equation (6): increase the concentration (or, in the case of the oxygen, the pressure) of the species on the right hand side of the equation, and force the equilibrium back.
+M. Mason and his crew at JPL and Kay and his group at Ohio State who undertook —and completed — the heroic task of mapping the phase behavior and equilibrium pressure and composition of the nitric acid-N204-H20 system over the whole composition range of interest, up to 50% N2O4 and up to 10 percent or so H 2 O - and from room temperature up to 120°C.
+He visited me some weeks later, and I asked him what Jefferson's substituted piperazines were used for. He answered, in a drawl as flat as Texas, "Well, they're a lot of farmers down our way, and they raise a lot of hawgs. And the hawgs get intestinal worms, and don't fatten up the way they should. So the farmer puts some of the piperazine in their feed, and the worm goes to sleep and forgets to hold on. And when he wakes up the hawg isn't there any more!" Even if you don't much like chemistry
+And the hawgs get intestinal worms, and don't fatten up the way they should.
+Even if you don't much like chemistry (and Lord knows I strategically wormed my way out of science classes in college), Clark sure as heck is an interesting guy to read!
+His morbid sense of humor and chemistry war-stories were what made this an engaging read for me.
+Overall, I liked it -- and I bet if Clark's book made its way into high school or college chemistry classes, we might have a lot more future rocket scientists.
+The funniest technology history book I've ever read.
+Written with good portion of irony over past thinking and gives a reader chuckles now and then.
+Several cites from the book have landed in wikipedia.
+The most commonly mentioned one is this one about Chlorine Trifluoride:It is, of course, extremely toxic, but that's the least of the problem.
+If, however, this coat is melted or scrubbed off, and has no chance to reform, the operator is confronted with the problem of coping with a metal-fluorine fire.
+For dealing with this situation, I have always recommended a good pair of running shoes.
+Ignition was written by one of the scientists working on rocket propellants from the 1940s to the 1970s.
+While I won't pretend to understand much of the actual science, I was drawn in by Dr. Clark's bone-dry prose and hilariously understated anecdotes, as well as his humourously cynical view of government research projects.
+The period described was a golden age for propellant research, and government agencies were throwing around silly money to projects with little or no chance of success, in the hope that something would stick.
+It was an early intro to terms such as specific impulse - a metric for how efficiently a rocket uses propellant.
+Dimensionally, thrust/mass flow ratehydrazine - apparently this and flouride where the gold starred fuels of the book.
+Other interesting notes - calculating the results to what would be emitted out of the rocket nozzle was among the hardest things to do in the launch of Saturn 5, because of the lack of computing power available.
+- Propellant chemists had among the hardest jobs, as they often had to say to the engineers above them that the fuel compounds they were recommended would melt at a higher temp, is unstable, and would violate the laws of thermodynamics.
+I really enjoyed this book, although dry it sometimes seemed to be, and so full of chemistry.
+It's humorous and accessible - to a point.
+When reviews call this book accessible, they mean that if you have a basic understanding of chemistry, you'll get along just fine, but if you don't then I do believe some of it will go over your head.
+I wish I did back in college if only to better understand that chemistry is nowhere near as rigid and known as I once believed (although this is an older book).
+It's science as you grew up believing science to be: lots of experimentation.
+I work at a rocket company and found this book a joy to read. With my training in chemical engineering, I found the history of trial and error chemistry an incredibly engaging read. The synthesis, analysis, and optimization of liquid rocket fuels is fascinating. Their is little text on solids or hydrogen-based fuels. The vast majority is dedicated to hypergolics and storable propellants. These propellants needed to satisfy certain energy requirements, melting point, metal compatibility, ignition delay, and sensitivity requirements. This is a very informative read and Clarke writes with wit and humor.
+First of all if you have not taken some form of chemistry I cannot recommend this book to you.
+If you have and are interested in space I couldn't recommend this book more.
+You would be surprised how humorous a book about rocket fuel can be.
+I had to do a lot of research to understand what was going on in the book.
+Admittedly even though I tried my best to keep up there was still some terminology that went over my head.
+The author did a pretty good job of making it entertaining for both experienced engineers and layman alike.
+
+Dr Clark lays out the history, timeline, challenges and foibles of a small group of smart people charged with finding the best rocket fuels for a variety of applications. Many promising things were tried, and many things turned out not to be a simple as they seemed on paper. Thanks to funding from various government sources, no stone was left unturned in conventional chemistry.The chemistry does get a little dense, but its a good read regardless.
+Did not enjoy this one as much as I'd hoped I would. I was duly warned in other reviews about how much of a slog the chemistry could become, but I underestimated the intensity, it seems. There wasn't quite enough humor or action to make up for it either, in my opinion - although I do have to admit the section on Mike Pino and the mercaptans was a high point!
+Very very niche. I work for a rocket company and still found most of this pretty dry. Clark has a pretty great sense of humor, but the scattered jokes and jocular attitude doesn't get around the fact that this is a few hundred pages of trial-and-error chemistry. Mostly discussion of hypergolics
+Not for everyone, quite technical and it lost me on the chemistry very fast. But the humor was great and it followed space history in a new way. I found it quite interesting and it kept me hooked up to the end.
+A detailed and surprisingly funny history on some epic chemistry done on liquid rocket propellants during the height of the Cold War. They made stuff that could burn sand and concrete. How badass is that?A must read if you love chemistry.
+Fun HistoryI liked the fun tone of the storytelling of how various liquid fuel systems were developed for rockets. There was also quite a bit of respect given to how likely things were to just blow up.

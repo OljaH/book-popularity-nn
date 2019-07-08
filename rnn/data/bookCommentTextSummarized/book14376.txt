@@ -1,0 +1,41 @@
+https://www.goodreads.com/book/show/569775.The_Art_of_Electronics
+My only regret about this book is that I didn't get it years ago.
+Kind of like the Mishnah of analog electronics, if you will.
+If you are an undergraduate starting an Electronic or Electrical engineering program, shell out the $90-odd now and use this as a supplement and/or reference.
+You won't regret it.
+You might be better off starting with something simpler (and cheaper) and working up to this.On the other hand, there is something to be said for swinging for the fences, and if you get through this, you will have a pretty good start on the basics.
+Probably the best Electronics book ever written. Very readable, practical, and understandable even for those without good background. Makes the subject fun !A new edition is in the works so I'm told.
+this is a minor cult classic among EE's and CmpE's, or at least was at GT. i saw it on someone's desk today at NVIDIA, was reminded that i'd intended to look into it, and needed only a few pages to convince me of a winner. looks fantastic!
+I've been regularly reading this book for two years now as a reference.
+What I would say is that: This book does a poor job at explaining individual topics but that's fine.
+It does a better job than anything I've seen in any medium of telling me enough about a topic to allow me to then look up more elsewhere.
+If this is the only thing you plan on reading you probably won't learn much about electronics.
+If you use this as the vessel for which you explore electronics I have no doubt you'll learn a lot.
+Last update to this classic was in 1989. Still quite useful (=timeless) and my fave electronics reference. This book is actually FUN to read.Looking forward to the much-anticipated forthcoming 3rd edition:http://en.wikipedia.org/wiki/The_Art_...
+This book favors an intuitive understanding over the endless math found in electrical engineering textbooks. It is the perfect "what they don't teach in school" electronics book. I highly recommend it for any electrical engineering student or graduate for the transistor chapters alone. I gave it 4 stars instead of 5 because it is dated. However, for those interested in 1960s-1980s vintage analog synthesizers, this turns out to be a plus.
+I have just started reading this. Currently reading the third chapter. I wish i would have come across and read this book in my college days. It makes one aware of how to do design, for example, a common emitter amplifier, as if it's a piece of cake. This book seems to be damn good on its own. Use it along with a good book which covers the analysis of circuits and it should cover most of the needs of any practicing engineer.
+I haven't read this, technically; it's a large book I use for reference. But it's very well-written and explains things in an intuitive way that I never really learned in college. Much better than the typical textbook.
+The godfather of all electronics books , love it
+Great book for anyone dealing with electronics. Even bad circuit ideas are included for reference ;-).
+Know as the bible of Electronics, it is the must have knowledge source to master the exciting world of electronics and devices.
+Read this book and you will not need anything else on the same subject.
+this book makes anyone fell in love with electronics. Shows actual practical applications of electronics.A classic and must read for any enthusiast.
+), and other interesting fields of electrical engineering such as Power Electronics, EMC (only concerning about Low Noise Practice), Measuring and Precision Technology to name a few.
+These above topics are typically stretching in many others contemporary textbooks, yet the author surprisingly managed to condense all the things required to know in only around 1200 pages -the common length for technology-related textbooks.
+Because of this, I believe it is one of the best books, if not the best, in introductory levels about Electronics not only for those working in the fields of Electrical/Electronics Engineering (EE) but also for those who want to pursue electronics-related hobbies.
+This text is great as a reference for all problems in basic semiconductor circuitry.
+Con toda el agua que ha corrido desde la última edición de este clásico, bien podría suponerse que un libro de Electrónica de esta edad es tan pintoresco y caduco como un manual renacentista de metalurgia. Sin embargo la claridad de los esquemas y la sabiduría que atesora son un referente firme y sensato en medio de un mar de recetarios advenedizos, 'datasheets' no muy bien revisados y kits irreflexivos. Bien podría fundarse una fe en este libro que sabe recomendar qué hacer y qué no (sus "bad circuits" son un legado de la modernidad).
+I got this book far into my EE life. I wish I had a copy of it when I was 10. I suspect that if I had, my entire electronic education would have been vastly different. This book is suburb at taking simple concepts and explaining them well. I use it often for a reference and I like to leaf through it for fun. Every person who has the slightest interest in electronics should have a copy.
+This is *the* classic text on electronics, bar none. My copy is 20 years old (still saving for that 3rd edition, but never mind) and I used it only a few days back as a source for circuit design. If you are an electronics engineer or technician, you simply must have this book.
+http://www.amazon.com/Art-Electronics...
+Great reference book. Covers some hairy electronics with relatively easy to read/easy to understand language.
+The old time classic reference book in electronics
+best electronics reference book
+Серьезная книга для серьезного чтения. Мозг взрывает хорошо.
+Buku wajib para pecinta dunia elektronika. Buku ini disertai ilustrasi-ilustrasi yang konyol namun informatif. Membuat pembaca, lebih mudah memahami konsep-konsep khayalan di bidang elektronika.
+How is it
+One book that covers end to end of electronics. I you understand basic physics and maths, you can understand electronics through this book.
+authoritative text on electronics
+Generic Will need to have a second read after reading a book based on more mathematics
+gg
+Probably dated now. But this is the book I read after getting my EE degree to learn how to do real design in the real world.

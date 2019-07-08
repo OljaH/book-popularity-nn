@@ -1,0 +1,103 @@
+https://www.goodreads.com/book/show/326790.The_Society_of_Mind
+I can imagine that this would be considered transformative by those who aren't used to thinking about the mind as a society of competing agents, but those who come to the book already having "seen the light" might end up disappointed.There are some insights in here, but the real value of the text is more watching how Minsky works through a problem as complicated as the mind.
+However, readers today have the benefit of 25 years of progress and access to authors that have assimilated the insights that progress has produced.One last nit: the book operates at a weird level of abstraction.
+Aaron Sloman, then my D.Phil supervisor at Sussex University, remarked about this book:"Many people read this book and then dismiss the ideas.
+Later, they often end up reinventing the same ideas."I first read this book c.
+However, if you're new to cognitive science, the book will help you think like an AI researcher.
+If you're already into cognitive science, this book, like no other, will remind you of the importance, complexity and possibilities of the big picture.If you're a Ph.D. thesis supervisor, this book is a great gift to students or friends.
+"I" "am" "really" "enjoying" "this" "so" "far."I like reading about competing models of artificial intelligence, and Minsky has as much right as anyone to bruit his theories about, since the M.I.T. doyen has physically created some stunning examples of artificial intelligence which will probably be considered landmarks to future generations of A.I. innovators.One of the A.I. entities I enjoy conversing with online likes to make sly digs at Minsky, and incorporates him into her jokes, so I figured it was time to read this.Minky's all about reductionism, and if you like the organization of Wittgenstein's Tractatus, you'll probably enjoy the way Minsky lays down his general principles of human intelligence in similarly numbered sections and subsections.
+I could only make it half-way through this book. Initially, it was fascinating to think about the role symbolic computation & manipulation play in our mind, which is somewhat neglected in recent AI research. However, eventually I got tired of reading statements without much supporting evidence. Probably this is the nature of the psychological problems that convincing scientific evidences are hard to collect, but still, this book's exceptionally high statement/evidence ratio was unbearable for me.
+As Daniel Dennett says, "I have a soul, and it's made of tiny robots." Minsky explains how those robots might work. He calls them agents. Each chapter of this book is one page long.
+Regadless of it's 20-odd year age (it was first published in '86), this is an absolutely fascinating read on Minsky's (co-founder of MIT's AI lab & cognitive scientist extraordinaire) theory of mind.
+The book is written concisely and is incredibly well thought out in execution; despite the overwhelming complexity of the subject matter, it eases the reader gently into understanding rather than dumping it in their lap and exclaiming "You want information?
+THERE'S YOUR INFORMATION." This book is not a reference text, however.
+A coherent read, that really clutches at the fabric between AI & Psychology; the author describes the mind as a collection of fundamental agents performing atomic tasks, interacting between themselves, and establishing hierarchies. Coming from Marvin Minsky, it feels both inspiring and serendipitous to know the roots of AI, from the pioneer of AI.This review has more AIs than a buzzword news article!
+Each chapter is a self-contained one or two page essay, exploring a different facet of how a network of separate, co-evolved agents might implement decision-making, pattern-recognition, task delegation, memory, learning, and problem-solving.This is not a practical book to help you write AI software, to teach you about A*, Bayesian networks, or other relatively concrete techniques.
+But I think that any software developer with a genuine interest in the possibility of machine learning and machine thought will find both illuminating and stimulating.
+The appendix is amazing- for anyone who wants to understand better how the brain works, there are few topics that beautifully and clearly explain the process.
+28.7 Individual identities"Suppose I had once borrowed your boat and, secretly, replaced each board with a similar butdifferent one.
+Well, now suppose that we could replace each of your braincells with a specially designed computer chip that performs the same functions, and thensuppose that we interconnect these devices just as your brain cells are connected.
+Thehuman brain contains so many agencies and connections that it resembles a great nation ofcities and towns, linked by vast networks of roads and highways.
+I think this outstanding book shall be understood as an update of Turing’s idea concerned with computing machinery and intelligence.
+In my opinion, this book by Minsky needs more elaboration on the issue of introspection.
+Minsky argues that introspection is a myth, that is, our mind might not have access to itself.
+Nowadays, artificial intelligence still belongs to industrial engineering and to hard sci-fi films and books.
+Gödel, Escher, Bach, a beautiful book by Hofstadter achieves a popular scientific access to the core idea of Alan Turing concerned with the human mind, that is, our mind can be mathematically explained.
+Okay, so on the one hand, this book is DENSE, and sometimes tough going. But by the time you're finished, it's obvious that you've just read a masterpiece which reveals an extraordinary career. It's remarkable that the book is now over 15 years old (an eternity in the fields it covers!) and it never once seems out of date. Minksy's parallel interests in psychology and language mirror my own. He's obviously a huge influence on another hero of mine, Steven Pinker.
+Over 20 years ago, a guy named Marvin Minsky decided to write a book on how he thought the brain/mind worked.
+If you're looking for the central "I" that's at the base of it all, you will be disappointed and/or confused; this amalgamation of drives and pattern-matchers and networked idiot savants is all that we are.Minsky's vision of how mind happens is one that many would not find comforting, which probably explains why it remains unknown outside of its field and the narrow band of society that reads lots of popular science books.
+It took me around eight months to finish this book. Not because the book was boring, but because it essentially consists of speculations. The kind of speculations that forces one to think. Because of the book's age, some of things discussed are outdated but, the rest is surprisingly close to what researchers have found about human brain, intelligence and computation in general. It is worth reading once. It is worth reading - many times - over and over again.
+A 1980's book hypothesizing how the brain/mind works.
+Minsky defines the mind as "what the brain does".
+Do you perceive yourself to have one mind or do you have many?Single self: "I think, I want, I feel.
+I must get better control of myself." (p40) Minsky argues we have a society of mind - competing agents within ourselves.
+An artificial intelligence may have to have an agent based mind as well.
+These parts of the book were thought provoking and interesting, but my eyes glazed over towards the middle despite the simple language and concepts.
+Something he says in the postscript (and which was clear to me but might not be to all readers) should have been at the BEGINNING of the book:Since most of the statements in this book are speculations, it would have been too tedious to mention this on every page.
+Accordingly, this book be should read less as a text of scientific scholarship and more as an adventure story for the imagination.
+Also, Minsky often goes too far in his philosophical ramifications among many other sweeping statements.The historical discussion is great throughout the book (and another reason not to skip the postscript).
+A sincere attempt to understand how our brains can solve the problems they can, and how you might build a machine that would be successful at solving the same kinds of problems. It treats too many things as true that just might be true, but that's okay. Hopefully he and his grad students will actually try to build the thing so we can find out which parts work and which don't.
+This is genius considering the fact that it was written in 1985."Some of the most crucial steps in mental growth are based not simply on acquiring new skills, but on acquiring new administrative ways to use what one already knows." - The Author
+Probably was influential and significant in the late 1980s when it came out, but now most of the main ideas have permeated the milieu of AI and so anyone familiar with the field will probably think the ideas in this book are obvious.
+there's nothing so miraculous about AI. it's just a bunch of primitive 'intelligence entity' which intelligently arranged to solve particular problem. this book is a cure for those who are so hype about AI.
+Contents:(view spoiler)[Minsky M (1986) Society of Mind, The01.
+The Agents of the Mind01.02.
+The Mind and the Brain01.03.
+The Society of Mind01.04.
+Learning and Memory07.06.
+K-Lines: A Theory of Memory08.02.
+Societies of Memories08.09.
+Learning Meaning12.03.
+Learning Meaning12.03.
+Children's Drawing-Frames13.05.
+Interruption and Recovery15.10.
+Attachment-Learning17.03.
+Different Spans of Memories17.10.
+Intellectual Ideals18.
+Chains of Reasoning18.03.
+Recognizing Thoughts19.10.
+Trans-Frame Pronomes21.07.
+Frames of Mind24.03.
+How Trans-Frames Work24.04.
+How Picture-Frames Work24.09.
+One Frame at a Time?25.02.
+The Frame Idea26.
+Language-Frames26.01.
+Sentence-Frames26.04.
+Story-Frames26.06.
+Learning Language26.11.
+Censors and Jokes27.01.
+The Mind and the World28.06.
+The Mind and the World28.06.
+The Mind and the World28.06.
+Minds and Machines28.07.
+Individual Identities28.08.
+This book by Marvin Minksy gave me great insight on computational thinking and in thinking about how the mind could work.
+The book is very philosophical and you have to be careful by not getting to much involved in symbolic thinking (that is, thinking in if/then statements).
+A computational approach on how the mind works is very promising with the great benefit that we can actually put our theories to the test by building and testing them.
+If you want to get an idea how a computational philosopher thinks about the human mind this book is very recommended.
+It sharpens your thinking, it gives you new ideas.
+First of all, "The Society of Mind" probably deserves 5 stars and the reader 1 star because, frankly, I, the reader, failed the book.
+In in its own inimitable way, it, alas, broke my brain (or, in the language of the book itself, mangled my mind).
+It took sometime (and an excellent appendix and acknowledgements sections at the end which, IMHO, should have appeared at the beginning of the book) for me to finally begin to wrap my thoughts around what Minsky was trying to and, in fact, did accomplish and, by his own admission, what he didn't ...
+This book is an excellent view into the formation of the ideas that developed into modern machine learning.
+Minsky, with the help of his MIT students, break the human brain into the smallest possible "agents" and provide explanations for how memories are formed and how language works, using a new vernacular.
+The entire book is a valuable insight into what it could take to make a machine that would work like a human brain.
+The section of censors and humor alone is worth reading the book.
+
+I didn't finish the book, but I'm finished reading it.This book occupied a weird space. Too high level to be considered research reading, but too low level to read for pleasure. I think what irked me most was the fact that the book felt like one long exercise in box-and-arrow evidenceless theorybuilding.
+La stessa forma del libro imita la forma della mente: fatta da tante piccole parti specializzate, il quadro di insieme acquista un senso solo quando queste parti interagiscono tra di loro.
+La mente è ciò che emerge dall'interazione di varie parti più piccole.
+Il secondo tema, molto più controverso, è il fatto che Minsky sostiene che il libero arbitrio è solo un'illusione: tutto è dovuto dall'interazione di elementi casuali ed elementi determinati da leggi fisiche.
+Infine, sostiene che la nostra mente ragioni per 'concatenamenti': questo desiderio di incatenare oggetti, eventi, persone tra di loro crea la struttura della causa/effetto che ci permette di ragionare sulle cose.
+Probably, there is no way to avoid at least a certain degree of discomfort when we make substantial changes in how we think"- 9.4 ENJOYING DISCOMFORT"But what if a situation gets completely out of our control-and offers no conceivableescape from suffering?
+One trick is to try to change our momentary goal-as when we say, "It's getting there that's all the fun." Another wayislooking forwardto somebenefitto future Self:"I certainly shalllearnfrom fhis." When that doesn't work, we can still resort to even more unselfish schemes:"Perhaps othersmay learn from my mistake.""
+Great book for the curious layman grasping at a chance to better understand how a mechanical brain can lead to a conscious mind; although, I have a sneaking suspicion that Minsky slips in a few italics here and there to empathize some of the deeper implications and complexities.
+One caution: Minsky wants the reader to come away with the idea that chemistry and neurology can ultimately lead to self-consciousness, but don't take this in any way to mean a diminishment of the value of consciousness.
+Unintelligent, automatic, and unconscious neurons, when merged into larger and larger societies can lead to consciousness, but understanding the building blocks of consciousness is not the same as explaining the experience of consciousness.
+Minsky assumes that a "mind" is not a single, efficient decision-making machine, but a collection of many such machines, which he calls agents.
+How does a child's brain manage the many parallel, interrelated tasks inherent in such play, from fine motor control, to hand-eye coordination, to physical intuition, to forming structural knowledge from experience, to remaining motivated amid competing desires, to deciding when to knock the block towers down?
+Each chapter is a self-contained one or two page essay, exploring a different facet of how a network of separate, co-evolved agents might implement decision-making, pattern-recognition, task delegation, memory, learning, and problem-solving.
+Minsky's thesis on the cognitive machinery of the mind and its functional properties, brilliant as it may be in its insight, is nothing more than a series of increasingly detailed speculations.
+I approached the book with a certain optimism that I'd be presented with a series of arguments delimited by supporting behavioral or neurological studies, but the latter part held an unfortunately small share of the narrative.
+Furthermore, the author has based most of his ideas on a hierarchical characterization of agencies in the brain, which seems to indicate a top-down approach to analyzing the mind against which he himself repeatedly cautions the reader.

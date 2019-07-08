@@ -1,0 +1,99 @@
+https://www.goodreads.com/book/show/12368.Mohawk
+Just who did you think you were, saving your old man’s life after you’d been expressly forbidden to?” Randall is extremely intelligent and learns rapidly, qualities much appreciated at the private school he attended prior to coming to the small town of Mohawk.
+As Richard Russo writes: “Perfection rankled just about everyone, including the teachers, whereas mediocrity made people feel comfortable.”At the very center of small town USA - the high school football teamOld Mather Grouse has been afflicted with serious health issues these last few years revolving around his lungs and breathing.
+Richard Russo is really good at writing about everyday American life, and I loved his “Empire Falls”.
+Russo zooms in on the characters among whom are Harry working in a grill, Anne living at home with her parents together with her son as well as Dallas, a riotous man who doesn’t seem to be able to get his life together.
+I will say that this book was overall an enjoyable read that I would recommend.
+Especially if you’re like me and like to read about everyday Americans and everyday living.
+I always enjoy reading the debut novels of authors whose later works I really enjoy, and this one was no different.
+In terms of enjoyability, it's nowhere near the level of pure brilliance of Empire Falls, the comedy of Straight Man or the eerie drama of Bridge of Sighs, but when you've read as much Russo as I have (this is my 6th novel of his), it's interesting to see where some of these other works come from.
+For any Russo fan, this is a must-read, but if you're new to the man's writing, I'd suggest starting with the aforementioned works before heading here.
+I'm working my way through Richard Russo's novels. In Mohawk, he never ceases to amaze me with the depth, the humor and the honesty of his work. 4★
+His stories offer a steady structure and a very unique as well as entertaining balancing act of numerous characters.With that said, I think Mohawk is the weakest of the novels.
+Secondary characters in this novel, on the other hand, lack the very thing of which Russo is king: voice.
+In his other works that I've read The Risk Pool, Empire Falls, Straight Man, and The Whore's Child(A short story collection) even the secondary characters are powerful and serve a purpose.
+And, finally, the town, Mohawk, is an essential character in itself.This is a book worth reading only after you've read Russo's better stories.
+Russo's trademark humor was evident in this debut.
+A conversation between a couple of minor characters:"I didn't know you ever were married.""Just twice.
+Something."There are quiet, often wise characters, too, though they may be hapless and thought little of by the others.A man with eight grades' worth of education himself, Mather Grouse had spent the better part of his adult life doing what he called "improving his mind." His readings were eclectic, if wholly undisciplined, and by the time he was thirty, he knew a great deal without even beginning to satisfy his curiosity or discover its source.
+If you've already read Russo's later novels, "Mohawk" may seem to be a "pilot" episode.
+Russo is a chronicler of the darker side of America, especially the towns that once were full of people who were able to make a living.
+Russo never offers the easy answer to any of his character's lives.
+In Russo's novel, people die when they shouldn't and others live far too long; there's no explanation why this is and looking for an answer can prove fruitless.Read "Mohawk" and then move on to the rest of Russo's writings and see how a great writer develops his craft.
+In fact this mentality is symptomatic of many characters in Russo's works, a mindset where people are just waiting for something to happen instead of initiating it.
+'Dallas Younger' Anne's ex-husband is going through life as in a pot induced daze, bumping into the myriad issues that life brings up from time to time, not knowing why such things keep happening to him.
+It’s funny because in some ways it seems like so much material over laps – the grill here could be the grill in Empire Falls, the flat where Dallas lives upstairs could be where the father in The Risk Pool lives, the poker game in Nobody’s Fool could be the exact same as the poker games here – but the way Russo develops the plot, weaves through the details, he really makes each story his own.
+What was really amazing with this story was the way Russo develops 5-6 different plotlines, involving all characters, young and old, and ends up bringing them all together in the end, a climax that lasts nearly 50 pages as he attempts to combine and resolve all conflicts.
+Straight Man is one of my favorite novels of all time, so when I saw that Russo had also written a novel set in a small town in central New York, I had to buy it immediately.
+Seeing that I live right next to "Mohawk, New York," the town in which the novel is set, I felt even more connected to the characters as names of all of the surrounding areas of my life kept coming up (Even though there isn't a Mohawk County).Russo has a way of describing deep and sensitive characters and plot events with levity.
+I fell in love with the works of Richard Russo when I read his Pulitzer Prize winning "Empire Falls".
+My favorites, in addition to Empire, are "Nobody's Fool", and a book I recently read called "Mohawk".
+Mohawk is the first book Russo ever wrote.
+If you know Russo at all, you know that his books read like a bluesy Bruce Springsteen song.
+And as the employer goes (in Mohawk the employer is a tannery) so goes the town.
+Russo examines the lives of the people who stay in such a dying town.
+Mohawk was a very enjoyable and thought provoking book.
+I am sad when a Richard Russo book ends. I could keep reading about his characters forever. This was his debut novel written in 1986. Russo is truly one of the great American writers, his stories about small town America are so warm and real.
+They weren't, he had to admit, regular and predictable like other people's feelings; they came and went in ways that Dallas himself didn't being to comprehend.""Perfection rankled just about everyone, including the teachers, whereas mediocrity made people feel comfortable.""But it was change he longed for, and he often thought that in an ideal world people would change their personalities every decade or so, possibly learning something to boot."Overall it is a good read (as Russo reliably tends to be) and is for me almost a "comfort book".
+4 from sqlalchemy.ext.declarative import declarative_base 5 from sqlalchemy import Column, String, Integer, ForeignKey 6 from sqlalchemy import create_engine 7 from sqlalchemy.orm import relationship, sessionmaker 8 9 import eboek 10 11 12 Base = declarative_base() 13 14 15 class Author(Base):… 20… 36 37 38 class Book(Base):… 38… 77 78 79 engine = create_engine('sqlite:///' + eboek.DATABASE) 80 81 Base.metadata.create_all(engine) 82 83 Session = sessionmaker(engine) 84 85 session = Session() 86 87 88 def insert_book(bdata):… 31…~~~~~~~ VISUAL database.py eboek │ unix │ utf-8 │ python 0% LN 1:1/*-\
+Part 1: 4.5 starsPart 2: 1.5 starsI've read all but one of Russo's novels (still need to read Nobody's Fool), and this is my 2nd least favorite.
+When I started it, I actually thought, "Wait a second, have I read this already?" because it is so similar in feel to The Risk Pool and Empire Falls.
+If you are a Russo junkie like I am, I guess it's worth reading.
+But if you are picking out a Russo novel and don't care which one, read The Risk Pool instead of this.
+Very similar vibe, but heads and shoulders above this novel.
+This is now the third time I've read this book...a privilege I have never afforded to any author.
+But this is Richard Russo, and Mohawk is comforting...a place to which you can retreat when you need familiar terrain.
+I first read the book in 2004, then again in 2007, and now again.
+This time around, I've noticed that it's clearly the earliest of Russo's books...his writing style is nowhere near as elegant or well-developed as his later novels.
+But Mohawk is, nonetheless, comforting...Russo has this amazing ability to bring his characters to life, to make you care and want to know their fate.
+There's a glimmer of positivity and hope at the end of the book, but by and large, all the characters have lived wasted lives, either by their own doing or tragic circumstances, and the aforementioned glimmer of hope at the end wasn't enough to offset the grimness.
+Of course, not all books have to be balanced in such a manner - some of the best books are relentlessly depressing - but given that "Mohawk" isn't an exceptional book in that vein, it was occasionally hard going to finish this book.
+Russo's writing is still excellent, but it's a story I'm glad I'm done with.
+This is one of Russo's earlier novels.
+It's a little slow moving and less interesting than more recent works.
+I know I did enjoy it, though I can't recall too much of the plot now.
+I read it after reading Empire Falls, and as I recall, the two books had a lot of similarity as far as place and plot and character interaction.
+Russo's always got some good words of wisdom tucked into his novels.
+Here's a tidbit I copied from Mohawk: "Attempts to make life do what it has resisted doing in the past are mostly futile." Wish my mom could learn that lesson.
+This is the second book by Richard Russo that I have read. This is apparently his first book. I'm glad that I read The Risk Pool first because if I had read Mohawk first, I may not have read The Risk Pool.Mohawk is well written and it introduces characters which appear in The Risk Pool. This story though is not nearly as engaging or smoothly executed as The Risk Pool. I have several other books by Mr. Russo in my to read stack(s); which I do look forward to reading, but this one was not a favorite.
+This is my third Russo book and probably my favorite. He really has a gift for giving voice to working class, small town America. Mohawk is set in Mohawk, New York a dying industrial town during the late 1960s. The story follows several characters over the course of 5 years as they struggle with the emptiness of their lives and the ensuing quiet desperation. Towards the end, several do break out of Mohawk either by dying or simply escaping. Russo has such an easygoing writing style that his books are a pleasure to read.
+This is Russo's first book, but I read it after Straight Man. It's small town life in the North East, filled with characters dealing with a world that's changing and the loss of promise and potential. Like many of Russo's books, you get a great deal of poignancy and sadness, but you also get people who are just trying to make the best of what they have. I found it strangely uplifting. Oh, and for some reason I found Empire Falls much more depressing, I think because of the school incident.
+Well, I decided to read Russo's first novel. You can TELL it is a first novel! I know he is a great writer though (Empire Falls, Straight Man)
+They understand that things will not get better for them; in a sense, they are trapped by history and family ties that they know they will never escape.Anne Younger, a bright and attractive woman, did not follow until too late her father's advice to leave Mohawk for the greater opportunities in more prosperous places.
+Anne lives with father and mother, Mather and Mrs. Grouse.
+Dallas is not closely connected to his family, often drunk and involved in gambling.Wild Bill Gaffney is the son of Rory, a domineering man, retired from the tannery where Mather also worked.
+From what I've seen of Empire Falls (The early 2000s TV adaptation), Mohawk is Russo's practice novel leading into that, in the same way that Leaving Cheyenne is the obvious precursor to Lonesome Dove for Larry McMurtry.
+I haven't had this issue with any digital audiobooks before.As for the book itself, I'm impressed with Russo's ability to mix pathos and humour, and the dialogue from the men feels authentic, like it's written by someone who is himself deeply embedded in this culture.
+When male audiobook narrators use their 'soft voice' for every female character, this robs them of agency and power, too.
+But it could be any place in small town America.
+There’s one diner with one owner/cook, one lawyer, one bookie, one cop and one mentally damaged dude roaming the streets.
+Now!” Like all of Russo’s stories that I’ve read the characters are richly crafted.
+There is one grumpy old man in Mohawk, Mather Grouse, which suggests another Russo novel, Nobody’s Fool, that he wrote almost 20 years later.
+Mohawk is a darker story.
+And like so many small towns in America it turns out the primary employer polluted the crap out of the place.
+Mohawk tells the story of what happens in a small town where everyone's lives seem to be linked in inexplicable and sometimes dangerous ways.
+The focus rests mostly on three different families- the Grouses, the Youngers, and the Gaffneys.
+There is a dark secret that both sides are fighting to keep under wraps, but is eventually exposed in an unexpected fashion (mostly the Grouses and the Gaffneys).
+I relished the time that I spent getting to know them and I genuinely cared about how they ended up.
+Russo made sure to tie up every single loose end, and for some people this is the perfect way to end a story.
+Mohawk, New York is a dying town, its water polluted by the local tanneries, the tanneries themselves getting ready to close, the citizens either losing their livelihood or their lives from cancer.
+Anne Grouse and her son, Randall, live with her parents.
+Her ex-husband drinks and gambles and occasionally visits his brother's widow.
+Anne is still in love with her cousin's husband.
+The lives of these characters and many others in their town are described over a period of years, intertwining and leaving scars and regrets.
+Like any Russo book, the beauty is in the depth of his characterizations and the detail of his world-building.
+This was my fourth and least favorite of Russo's books I've read.
+In some ways it reads like a warm-up to Empire Falls, there are a lot of overlapping themes, places, and set pieces.
+Typical of Russo's work, the characters are intricately rendered.
+This book is like a shirt made out of really beautiful cloth but with clumsy seams, whereas Empire Falls is spun out of beautiful cloth and the seams are barely noticeable.
+Someone else who's read a lot of his work told me this is their favorite of his books.
+FIRST LINE REVIEW: "The back door to the Mohawk Grill opens on an alley it shares with the junior high." The juxtaposition of a grill where the local dead-beats hang out and the junior high where local awkwardness lives is only one example of the rich humanity painted in this early work by one of my favorite writers.
+In fact, Russo is the kind of writer I wish I could be if I had more time in my life to focus on writing.
+He brings the heart of our imperfectly real existence as humans to life in every book of his that I've had the privilege to read (well, with one exception..."That Old Cape Magic.")
+Another good Russo book.
+This one has a dark side, definitely.
+Set in a small New England town tied to the leather trade, which has been dying for years up to the early 1970's era of the book.
+Lots of story tied to local families and characters, which Russo does so well.
+There's never much malice in a Russo book, even when the characters are pretty far out, but this book has a real corker of a bad guy, Rory Gaffney.
+Main characters are Mather Grouse, his daughter Anne Grouse, and her son Randall Grouse.
+Good read.

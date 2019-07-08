@@ -1,0 +1,73 @@
+https://www.goodreads.com/book/show/548914.The_Little_Schemer
+Is this book great?          Yes, it is an awesome book.Why is it awesome?       The entire book is written                                            as a series of questions,                                            which forces you ask                                            yourself questions about the                                            content along the way.Doesn't that get annoying?  Not really.Will I learn Lisp?           Not really.What will I do?              Master recursion. Build a                                            Lisp.
+Sometimes, the questions are impossible to answer with the knowledge you have, but usually you can kind of tell when those are coming (the beginnings of chapters) and not spend too much time thinking about them.
+It starts out extremely basic, with simple recursive functions like getting the length of a linked list, and the first few chapters will all be things you know off the top of your head from an introductory CS course in college.
+It felt like an experienced teacher was guiding me through the basics of recursion, which is a feeling I definitely don't get from other math or computer science books.
+It starts from simple principles and a few basic commands, walks you through how to think about a program line-by-line, and eventually builds into some seriously challenging concepts.Some of the material will be over the head of even the most intellectually curious 12-14 year old (I took several Scheme and Lisp-based courses in college, and the section on Y-combinators is still over my head), but if they are anything like I was, they will devour the first 2/3 and be fascinated by the magic of the final 1/3.
+Is this a good book?Yes, it is. Now go have a sandwich.
+The book is written in a question-answer style that needs getting used to but is well designed an kept me interested.
+I found the style a bit tiresome at the beginning, because the matter starts off quite easy and the presentation does not really allow you to skip lots of stuff completely, as you will never know what you have missed.
+Its really designed to be read cover to cover.I think the book changes pace dramatically in chapter 8.
+Chapters 1-7 I found really easy to follow, then it gets a lot harder.
+This book is probably not for children unless they are unnaturally patient.* An extensive guide to Scheme features - Schemer actually makes a point of using as few built-in functions as possible so that the student is building their own tools to support further learning* A guide to programming efficiency - Example code is written in a way that teaches best, but doesn't necessarily execute the fastest== What this book is ==* A completely approachable alternative to SICP (Structure and Implementation of Computer Programs) - This book, plus "The Seasoned Schemer", cover much of the material SICP does, but in my opinion is presented in a less academic and more understandable way than SICP.
+
+The Little Schemer seems like a great book for a 12 year old grad student; that is to say, the style and the difficulty of the concepts in the book are somewhat at odds.
+but about half way through the conceptual difficulty ramps up considerably.
+it gets out of hand very quickly, and I have to question whether the terse exposition is really the best way to explain these concepts.
+The Little Schemer may not be the best book for beginners, and I really think a modern introduction to recursion would be clearer in a language with algebraic data types and pattern matching instead of Scheme.
+(Racket is a great choice, I discovered: There's a simple IDE called Dr. Racket that lets you write code, test code, and even step through code if you get stuck.) I had a smaller problem with the "We're going to use a word without defining it precisely" approach—normally that's just "throw the book away" territory for me, and you'd be surprised how many books do this—but it's actually done well here: You're led to infer the meanings of these "undefined" terms through many examples.
+Thoroughly didactic, and a considerable brain twister, this book and its exercises did a great deal for my programming skills. In particular, it furnishes stepping stones of a craft to decompose computing problems into recursive solutions.I found the last two chapters fiercely difficult, and cannot say that I truly retained them. However, I greatly enjoyed the opportunity to glimpse deeper mathematical aspects of the lambda calculus.For anyone wishing to learn a lisp-like, I thorough recommend time with this book, paper and pen, and a lisp interpretter
+This book is a series of questions geared towards helping the the reader learn the material by figuring out the answers.I think this book is best studied, rather than read, in short bites, taking plenty of time to understand each concept. I'm finding I can get through 2 or 3 pages per sitting. The book builds on prior concepts to aid in understanding new concepts.So far, its taught me more about LISP than any other book, white paper or man page I've read.Next I need to start reading 'An Introduction to Programming in Emacs Lisp'.
+This is one of those books that changed me. By following a set of "commandments" presented in this book I learned to think clearly about functional programming, recursion and the Y-combinator. It also helped me ease into currying and other combinators like the S, K and I.After you read this book, you should read "To Mock a Mockingbird" and also start learning Haskell.The power of types in Haskell will one day compel you to understand the language of Category theory in mathematics, and after you figure out that, you will be enlightened.
+The Little Schemer is a classic computer science text and there are very good reasons for it: it's poignant, entertaining and teaches you more about Lisp than many of the bigger books around. This is not a complete guide to Scheme as a programming language, it's a book about concepts. Highly recommended!
+Easily one of the solid and neat introductory books to LISP. Used Racket lang with IDE as DrRacket to code and learn alongside this book. What is K&R for C Programmers, this book series by Daniel P Friedman, could be for people wanting to learn LISP. Going through this book allows people to think about programming in a new thinking way.
+None of these things is named until after it is taught.What does this mean?
+Why not type it in?The book will tell you if you're on the right track.So it's kind of like a REPL but on paper then?Yeah, sort of, which means you train your own brain as a lisp interpreter.That sounds hard.It is a little, but you always know exactly where you get stuck so you can go back and read over the last few questions again.Well geez, that sounds amazing.It's maybe the best programming book I've ever read.Where do I get it?There are some PDFs or you can buy it off amazon.
+As someone who knows Scheme and understands the concepts (reasonably well), I found slowing down to be difficult, and I also didn't feel the book convinced me why I'd go through the contortions the latter half of the book made me go through.With my "non-programmer" hat on, I was willing to take the leaps of faith required in the first half of the book while it immediately paid off, by about "Shadows" I stopped seeing why I was learning what I was learning.
+A truly strange one.Okay, this is NOT a book that teaches Lisp or Scheme or whatever.
+It won't explain you how to write an application in Lisp nor give the details of Scheme, but it will make you understand how this languages work (even if a little) and, most importantly, will make you want to scream 'YOU CAN DO THAT?!' here and now.Especially when you get to the applicative order Y combinator.
+Took me about 2 hours to get how it works (though again without doing any examples and without even pen and paper as the book suggests - didn't have the chance then, was reading basically while walking), but that was epic.
+I really wanted to like this book, alas it was not for me.
+I was looking for a deep, philosophical computer science book using scheme.
+You already are somewhat familiar with scheme.2.
+You do not know what recursion is.Of course, if you have any familiarity with scheme then you are likely quite familiar with recursion.
+Again, I really want to like this book as so many people seem to get enjoyment from it.
+I give it points for style - the whole book is a series of questions and answers and does have a style - just not one that I particularly liked.
+It is a testament to the power of the material that by the last chapter you have sculpted a scheme interpreter from the bones of some really simple functions at the start of the book.
+In fact what this book demonstrates is the awesome power of recursion.
+But then there a large number of other books that touch just those subjects yet do a poor job of discussing recursion.
+This book is a gem, buy it and understand that behind the odd format is great power.
+You might well need to buy more programming books but this one is must-have to understand recursion.
+If you're looking to learn Scheme but don't have any experience with it whatsoever—and especially if you don't have any experience programming at all—this book will be near worthless to you.
+It doesn't teach you any usable Scheme but somehow still manages to teach bad habits, and it makes the whole language look more convoluted and less interesting than it actually is.
+This edition immediately tries to sell you The Seasoned Schemer at the end, and it's possible the two books combine to form something non-useless.
+I've been super curious about Lisp since Hackers & Painters .
+Then I found this book.
+It is a spoonful (yes in the sense of Food) of Scheme, a flavor of Lisp.
+First and last impression: Lisp IS abstract.
+It can be practical but, this is purely abstract.
+It defines primitive functions then builds more complicated ones on top of them using recursions.
+Recursions after recursions.
+I've never been exposed to so many recursions, not so many even in the recursion section of algorithm exercises.
+Tell me Scheme is all about recursions and lamdas I'll buy it.This book does not cover macros, the magic of Lisp.
+What a wonderful little book!
+It's surprising how much is learned by figuring things out on your own from questions and answers and not reading lengthy explanations as in other books.
+I think that helps to engage the reader and adds more interactivity.
+I wonder if more books can benefit from such a form...Little Schemer is also amazing in that it starts extremely easy, but the last 2 chapters are devoted to the Y combinator and a scheme interpreter which are not easy at all!
+It's just amazing how much information is packed into this little book!I also loved the illustrations and references to food :)
+But after I finished the first seven chapters in around 4 hours, I realized it was actually a book to teach basics of programming, in a fun way of course.
+However, as it continues on harder topics like continuation and Y combinator, things are getting more interesting.
+I really didn’t feel like I was actually LEARNING something, instead I simply picked up essential ideas during those set-up communications.
+It was really enjoyable reading this book and I would recommend it to anyone who’s into computer programming, especially those who just started learning.
+By the way, a special note for Chinese readers, 我是通过王垠知道这本书的。虽然可能有人觉得他的许多观点有失偏颇，但我个人却从他的想法中学到了很多东西。能读到这本书也得要感谢他的强烈推荐。
+Great great GREAT read that teaches you how to think recursively.
+I typically don't give technical books 5 stars, because as as helpful as they are, they usually aren't game-changing.
+While I understood what recursion is and how it works, I always struggled writing recursive code...until now.
+The book is written entirely in a question and answer format, which I found disconcerting at first, but turned out to be immensely effective.
+The book centers around the language LISP, but, even if you will likely never look at LISP code again (which I probably won't), the lessons are easily transferable to other languages.
+A really fun read that reinforced my understanding of recursion and some FP concepts. Intermediate Lispers or people with a good grasp of basic functional programming can safely jump forward at least a few chapters (though you'll miss some function definitions used later on).I was unsure about this book (it seemed a little basic) until I reached the section on continuations. From that point on, I was pretty amazed by the code. You'll find Y-combinators and metacircular interpreters explained in plain English, with simple examples.. absolutely worth the read!
+Update of the absolute classic "The Little Lisper". One of the first books any budding programmer should read.It's not a guide to writing commercial programs. Rather it's a guide to write programs well. The basic concepts and constraints within the functional language and it's simple syntax forces the budding programmer into a mindset for programming excellence in the future.That is not to say many programs have not been written in Scheme. This a simple introduction of the basics of programming, programming well and the Scheme language itself, last.
+Is this a great book ? Oh yes, absolutely. So glad to have finally read my first pass through it. The last two chapters were real good mind benders for me. Will def. be re-reading this multiple times.
+Brilliant book that teaches you how to think recursively.
+One of the best scheme books till date.Profoundly simple, easy and powerful.Hope all books can be this easy.
+I couldn't complete it to the end, it was repeating itself and I was bored after page 80 though

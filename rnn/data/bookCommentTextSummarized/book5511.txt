@@ -1,0 +1,46 @@
+https://www.goodreads.com/book/show/673485.Introduction_to_Logic
+فصل مغالطات برای هر کسی فارغ از اینکه به منطق یا فلسفه علاقمنده یا نه، میتونه بسیار مثمر ثمر باشه و تنها فصلی از کتابه که میشه بصورت منفرد و بدون هیچ گونه پیش زمینه ای مطالعه کرد.بخش دوم کتاب به تشریح کامل منطق قدیم (قیاسی) و منطق جدید (سمبلیک) میپردازه.
+در ضمن از پرداخت به مسائلی که نیاز به پیش زمینه ای در ریاضیات داره من جمله اثبات تمامیت و سازگاری منطق جدید خودداری شده.بخش سوم کتاب به منطق استقرایی و نقش اون در پژوهش های علمی میپردازه که میتونه درآمد بسیار مناسبی به فلسفه علم باشه.
+a popular college logic textbook...I enjoyed it so much I've read it almost three times now (I realize I must have issues)
+If I could learn formal logic from Copi, and enough to with Hempel and others to critique social statistics for *not* being deductive and using formal logic enough (my Ph.D. stats prof said he never thought formal logic "got you anywhere..."?) than anybody could learn it from this textbook. (Note: you must get older editions of logic textbooks as the newer ones are all watered-down "baby logic" and cover sometimes as little as half the topics as those classes did 30 years ago.) So goes "decision sciences"? Big (and fat and stupid and lazy) Data, indeed....
+I read an earlier edition, obviously, because this one was published in 2001 and I read it as the text for a logic class in 1982; however, I still have the book in a handy spot on the shelf, which I can't say about any other book from that year, so it's stayed current and useful - a lot of its content is timeless.This was a great eye-opener for me; I'd always had a skeptical and questioning way of thinking, but often although I'd have a gut sense that something I was hearing (in a commercial, a political speech, an argument) didn't hold water, I couldn't put my finger on the problem or tell someone else why I wasn't buying it.
+This book explained logical fallacies and provided the names, and clear examples, of a series of common fallacies and false syllogisms.
+this is a great book from a great time in my life. taking 15 hours of philosophy courses and intro logic along with formal logic. this was the text for formal/symbolic. im real right brained at times but this was an awesome experience.
+If you want to start to study logic, this is the book!
+I got a lot out of it. My hardback edition was also rather beautiful. Sadly I would now be hard pressed to define a syllogism or inductive reasoning!
+Probably the most universal logic textbook on college campus. It's become a classic at this point. It's hard to justify paying the insane price. Just go for an earlier edition (I used the 9th, which you can find for $2 at amazon, instead of $175). What makes this text unique is its focus on the function of language.
+به نظرم نقطه قوتش مثالها و تمریناتش بودن کاملا ملموس و مربوط به ۲ قرن اخیر از بحثهایی که سیاستمداران آمریکایی با هم دارن یا مقالات روزنامههای آمریکایی حتی برخی کشفهای علمی اخیر مثال و تمرین درآورده بود
+به نظرم نقطه قوتش مثال‌ها و تمریناتش بودن کاملا ملموس و مربوط به ۲ قرن اخیر از بحث‌هایی که سیاستمداران آمریکایی با هم دارن یا مقالات روزنامه‌های آمریکایی حتی برخی کشف‌های علمی اخیر مثال و تمرین درآورده بود
+This book introduces several methods of analyzing truth claims about reality and the universe and how to express these truths using mathematical symbols and formulae.
+I found some of it interesting, especially the section on argument fallacies but some of it seemed rather redundant.
+Rather how many different ways can we express "if A is true than B is also true" or conversely, "if C is not always true, then D cannot always (or ever) be true; if F is true, then G must be false..." and so on.
+And of course, the formulae get more complicated as the truths build upon each other.
+Read this as a first-semester senior in college with Dr. Bob Taylor. In a class of 40 or so, I was first in the class all semester, and then on the final exam, I forgot to study an entire section, and I dropped down to second.I can remember sitting there for a minute after the bell had rung to end the exam hour, and I was stuck on a certain problem. Suddenly it just came to me. I went to Dr. Taylor's office after he had graded them, and I had come up with the correct answer.
+One of the best textbooks, Copi and Cohen don't miss a thing. It is very difficult though since they use a lot of symbols and formulas for logical structures. Logic is similar to learning a new language whether Spanish or Coding, it takes a lot of practice, something that the authors provide at the end of each chapter. This book was also highly praised by Greg Bahnsen, he recommends it in almost all of his courses on philosophy or logic.
+Logic: post-structuralism to the contrary, it's what separates "us" from "them."
+Brilliant !!!
+Yes, I am a geek. This was a textbook. But it's really good!
+The only textbook from college worth keeping!
+A solid, classic introduction. Copi explains well and uses good examples.
+The book begins with an introduction of the very basic terminology - propositions, premises, and conclusions.
+Written in plain and simple language, the book covers a breadth of concepts from categorization of fallacies to Venn diagrams to necessary and sufficient conditions.
+The exercises and puzzles throughout the book reinforce your understanding of what you just read.Most of the book concentrates on deductive and inductive reasoning and the author did an excellent job in convincing that they were most crucial components of any logical discussion.
+I found the last few chapters - Analogical Reasoning through Science and Hypothesis, very interesting.
+modal logics and alternate logics are discussed.logic is very important if you want to think clearly, be a scientist or attorney, or if you want to be any kind of programmer.
+that language is a kind of set of symbols reducible to math was first intuited by Aristotle, but the getting farther that that, to first order predicate logics, et al., means certain kinds of rules systems can be programmed completely within an AI consistent with Turing and Godel.
+That is, to be brief, what the future holds in store for us all.
+I read an earlier version of this book forty years ago and it still impresses me every time I open it. Irving Copi is the best on the market: very thorough, filled with examples, concentrates a lot on ordinary language. A must for writers who want to make strong arguments.
+Good introduction to classical and modern logic. But a pretty dull read.
+Logic is stupid. For an introductory book it felt really advanced. Just not for me. I now actively warn people about the class I took. Ugh.
+It's needs to include more examples and the mechanics of the crucial thinking process
+Es la piedra en el zapato que, luego de sacarla, resulta ser un diamante.
+Una herramienta para analizar las argumentaciones de los demás y para formular de mejor forma las nuestras.
+Aunque, después de todo, lo que buscamos no es la verdad sino la validez.Lo único que podría criticársele a Copi es que haya colocado la solución de una mínima parte del conjunto completo de ejercicios que propone tras finalizar cada capítulo.
+En cambio, García Trevijano sí coloca todas las soluciones a todos los argumentos que plantea para su demostración.
+Aunque, si pasamos por alto este detalle, la obra de Copi es más completa y, curiosamente, más accesible.
+Putting this one aside as it is over-my-head right now. May pick it up again in the middle of the winter when there's not so much other stuff going on and I can focus more....or maybe in a few years when the kids will be ready for it and they can explain it to me.
+the best introduction to thinking - and source of subsequent thought - by a funny, humble, kind, compassionate, true, philosopher of the people. Benj Abellera & I miss you, Irving Copi, and shall always be grateful for the edifying elating laughter we shared in Hawaii, leid by you.
+this book is really amazing.this book describe everything step by step with lot of examples. this book is for every student who want to understand logical theory and their uses to find out right or wrong sentence. but main problem is that this book not answer all questions this give some of them.
+Solid intorduction to logic text.
+A good introduction to logic.
+Nice book.

@@ -1,0 +1,50 @@
+https://www.goodreads.com/book/show/703102.Compilers
+The notorious dragon book shows us the manifold concerns surrounding the translation of high-level programming languages down to the binary codes palatable by machine hardware. Where computer organization and design showed the rock bottom of computing, Aho has built a submarine necessary to descending to those depths. This allegorical submarine is old and sometimes creaky, but its iron hull shows no sign of breaking up despite the rapid changes happening on the surface.
+There are certain books that everyone (in a relevant technical field) knows. Baby Rudin, CLR, Patterson-Hennessy, Golub and Van Loan, and Kernighan and Ritchie are all fine examples. The Dragon Book is another fine example, despite this odd reputation it has for being too dryly theoretical. We used it when I took compilers, and I've used it as a reference for myself when working on or teaching about compilers and interpreters. When I taught compilers, we used Appel's Modern Compiler Implementation in Java, which I didn't like nearly as well.
+Meat and potatoes for any aspiring software engineer.Despite its age, this book still gives a fairly solid understanding of parser, compiler and optimisation techniques. Its pretty dry, and heavy reading, but it shows you techniques you'll still be referring back to years later
+I have in fact read this book cover to cover. The modeling of Regex parsing in terms of language is among the most fundamental insights and transformative in my understanding of computer systems.
+Great book for detailed explanation of compilers
+I read this classic book years ago for preparing for GRE Subtest
+I've read few technical books that make such a bad attempt at being instructive. What should be an interesting subject matter is weighted by the most convoluted and hard to follow explanations imaginable. This book proves that it's not enough to be knowledgeable about a subject to write about it: you have to be able to lay out your ideas so they are no harder to grasp than necessary. That's where this book utterly fails.
+Really good book that helps understand how compilers work. However, it's very heavy reading and somewhat outdated compared to alternatives. Would still recommend for anyone that wants to get into compilers.
+Excelente livro.Excelente livro. Muito melhor que as versões anteriores. Apresenta um exemplo prático, construindo um compilador e apresenta exercícios de aprendizagem. Recomendo.
+This book can be a bit esoteric and hard to understand.
+I wouldn't read this book by itself to gain enough knowledge to really grasp the subject.
+As well, there are many good open source compilers I would recommend anyone download and examine to understand how a compiler works in this modern age.This is a book you keep on your shelf to impress other geeks who may pass by.
+With that being said I would recommend everyone who is serious about the subject get it as it is pretty good despite what I said above.
+computer scince
+The renowned Dragon-Book.
+I'm happy to own the original 1986 edition with the red dragon and the knight on its cover.
+The cover of the newer edition (2006) is pretty dull.I read this as part of my studies in computer-science way back when.
+It has sparked my interest in compiler construction, formal languages and more.
+This interest never left me, so you can say this book was kind of a life changing read.
+Update Dec.21 2014The Goodreads algorithm made a recommendation to me because I read Compilers: 
+Maybe it's the words techniques and tools in the subtitle of this book?
+
+Not necessary for doing the programming assignments.Mediocre as a textbook.
+Sections and terms are referenced before their definitions.
+Key definitions are italicized rather than bolded and indented making them hard to find.
+The authors instead chose to bold program keywords such as 'null', 'and', 'or'.
+This seems backwards.Figures and tables and examples and formulas and sections all use the same name format but have their own numbering, so figure 4.18 sits next to example 4.7 in section 4.3 contains equation 4.15 referencing a term defined in section 4.7.
+Other figures and tables and formulas are also not numbered period.
+This is probably a 5 star book but I will admit it was over my head so I probably will appreciate it more as I grow in compiler knowledge.
+It's very definitive and many scholars point to this book.
+You need some basic prerequisite math and programming to understand this.
+I viewed it as a great overview of a subject I knew little about.
+I'm marking it as read, but please don't quiz me to deeply about it, my head hurts!
+By the way I think this is known in the compiler industry as the dragon book.
+Il primo capitolo è un'ottima introduzione alla scrittura di interpreti e compilatori, con relative grammatiche. Molto lineare e comprensibile.Quando inizia a entrare nei dettagli diventa velocemente incomprensibile, passando a un linguaggio troppo strettamente matematico anche per concetti che sono molto più semplici da spiegare in "linguaggio umano" (come è riuscito a fare nel primo capitolo...)Capisco la necessità di usare formalismi accademici, ma non aiuta molti a comprendere.
+I took "Compilers", otherwise known as CS444, at the University of Waterloo over 20 years ago. What a fantastic course and a fantastic book! We worked in teams of 3 or 4 and developed a full-fledged compiler in one frantic term. I remember the sleepless nights (literally) leading up to the deadline, staying up probably 72 hours straight to get the last few bugs out. But it worked! The book was excellent and helped us all figure out what to do.
+This is the definitive compilers text. Just mention "The Dragon Book" to any computer scientist and they will instantly know you're referring to this legendary book. It's not easy reading, but it does everything a good, advanced textbook or reference book should do: it is succinct, complete, and holds no punches.
+Not necessarily the easiest book to read, but a good treatment of compiler and optimiser design. Although the (computer) language is dated, and there are other books that deal with more modern languages, nevertheless this gives a good foundation for understanding the issues and algorithms involved in developing programs to parse languages.
+I was worried that this book would be entirely over my head, but in fact, it's very clearly written and easy to follow. The section of data flow analysis in service of optimization gets a little bit dense, though.
+The Dragon Book - a classic! This was the text book for my "Compiler Theory" class in college (many many years ago!). This was the text book from which I learned how to use a finite state machine to compile a language given its grammar.
+Did not read the new chapters on optimization (read the rest of the book however). Helped clear up some things when I took Compilers in college. I feel that Louden's book is significantly better for the beginner though.
+This is easily the most overrated textbook. In any discipline. Get Engineering a Compiler instead.
+Made it through the fundamental chapters related to my intro to compilers course: scanning, parsing, type checking, and code generation. Seems to be a great resource, much better than the text assigned by the Professor. The examples and algorithms were helpful in understanding the core concepts.
+Great classic compiler textbook. Though I think it serves much better if it's not the first compiler book for the reader and/or the reader has some experience in the field.
+Do not use as an introductory book to compiler construction.
+computer software compiler logic and creation - important for porting software from one platform to another for software engineers - a classic text from university computer science courses
+One of the best books to describe concepts and algorithms for compilers, data-structures and optimizations.
+I think that this will be one of my next reads since the reviews for this book look great.
+Basis for compiler mammonths. TL DR. Return to 9 chapter.

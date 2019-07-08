@@ -1,0 +1,72 @@
+https://www.goodreads.com/book/show/128429.Against_the_Gods
+The book talks about how the development of mathematics and statistics provided human beings with ways of quantifying risks but it does not talk about conflicts between science and orthodoxy.
+As a person who loved Algebra during his school days and still loves it, I liked the riddle regarding the age of Diophantus.Bernstein has also talked about psychological experiments conducted to gauge human decision making and the theories thus developed.
+Like Prometheus, they defied the gods and probed the darkness in search of the light that converted the future from an enemy into an opportunity.The transformation in attitudes towards risk management unleashed by their achievements has channeled the human passion for games and wagering into economic growth, improved quality of life, and technological progress."Bernstein's weak word choice and puffed up sentences become reflected on a much larger level in the book: he ends up spending very little time defining and discussing modern risk management.
+This was a pretty good book, and it made a valiant attempt to thread the needle between being a book for math/ stats geeks and normal humans, but I am not sure it made it.
+I suspect the non-geeks would give up before making it through, and the geeks would make it through, but be disappointed by the lack of depth.
+As one of the geeks, I did enjoy it.
+It provided great back story on the development of statistics and the people that did the work.
+But I found myself wanting more depth.
+It examines the study and the notion of risk throughout...well throughout forever.
+The author has a nice way of mixing background color and the personalities of the various people he discusses in with the overall examination of risk.
+I enjoyed thinking along with notions like why the number zero didn't exist until society had moved forward to a certain point; or why almost every work of ancient Greek storytelling has some mention of dice games in it but at no point did anyone in ancient Greece ever seem to stop and calculate the odds of these games.Interesting stuff told with patient pleasantness.
+Most of the book covers the time period before the 20th century and concerns mathematicians' and others' discoveries about probability.
+My interest in risk is in the areas of insurance - actuarial science - and corporate risk assessments/risk management.
+The only example of actuarial science Bernstein used was from the 18 century.
+I began to get slightly interested when he brought up Procter & Gamble and Gibson's Greetings as examples of companies which had used derivatives not to properly hedge their risks but to amplify them, but that only lasted a few pages and then the book was over.
+"A and B are playing a fair game of balla. They agree to continue until one has won six rounds. The game atually stops when A has won five and B three. How should the stakes be divided?" Not until 1654 would an answer to the previous question finally be discovered when the French Lawyer and amateur Mathematician Pierre de Fermat joined forces with the French Mathematician Blaise Pascal. Peter Bernstein's "Against the Gods: The Remarkable Story of Risk" traces not only their relationship, but th
+Peter Bernstein's "Against the Gods: The Remarkable Story of Risk" traces not only their relationship, but the complete history of man's understanding of probability and risk and the lives of the many thinkers who explored it.The book follows the development of modern elementary mathematics, probability, distribution, risk management, game theory, human behaviour and ends with an overview of the role of risk in financial instruments.
+Bernstein provides a lively account of the mathematical history of probability and risk which puts the advances of modern mathematics in perspective, but disappointingly fails to really emphasize the significance of their discoveries.
+Also, Bernstien walks us through the the various milestones in mathematical history, like the adoption of the Hindu-Arabic numbering system, the impact of Zero; the significance of which most of us are still not able to understand, the development of statistics; average, mean, median, standard deviation, regression, correlation etc and how one led to the other over a course of decades (We study them all in one chapter today), how statistics led to the development of probability theorem and then to the study of human nature pertaining to choices and decision making, which is the crux of risk management today!
+The latter half of the book focuses more on human behaviour, philosophy behind choice and decision making and its measurement using the mathematical and probabilistic models and modern risk management, particularly in the insurance industry and stock trading.
+I will readily admit that part of my dissatisfaction with this book comes from it being so different than what I thought it was going to be; that is, a story of risk management throughout history.
+(Not surprising, given the author's credentials, but still disappointing when I thought the scope of the book would be broader.)Putting aside all that, this could still be a good book if Bernstein had had a better editor.
+It's a general mathematical history of risk management, but most of the material is rudimentary.
+The material itself is probably just a basic statistics and finance course stripped of actual formulas.
+The book starts with the adoption of arabic numerals goes through the basic history of probability and statistics before concluding with finance and economics (topics include game theory, behavioral finance, portfolio theory, derivatives and Knight/Keynes).
+Recommend for someone without too much time but wants an introductory exposure to risk and finance.
+Would not recommend for anyone who has had formal education in finance or risk management.
+A puerile abuse of mathematics, statistics, biography, and history, badly paced and full of pointless and likely apocryphal anecdotes. Religious awe for Gaussian distributions appearing in nature makes me wonder if the author has ever heard of the fucking central limit theorem. Something like a version of "how to win friends and influence people" for economists or day traders or something, except it won't even make you feel good about humanity.
+For someone who avoids topics like risk and finance, this was a well-written and relatively clear introduction.
+Derivatives have a long, long history, and were invented as a means to hedge against risk; but all too often, they're used to increase leverage.
+And when you're using derivatives to increase leverage, and it backfires, all hell breaks loose.With that in mind, I only wish this book had been written after the crash of 2008, rather than after the crash of 1994.
+Simple and EruditeTo trace uncertainity from the beginning of history and link upto modern day financial engineering makes this a very interesting book to read. At some places it was too intense...so intense that a normal cover to cover reader like me had to pause,reflect and then proceed.At the end of it you realise we are not there yet when it comes to human behavior and modern day economics.
+The "Liber Abaci" by Fibonacci in the XIII century presented Arab numbers to Europe, and the Renaissance made probability a science when applied to game of chances.
+At this point the storytelling becomes a bit messy, especially the section on the developing of statistical inference starting with the Bernoulli family.
+The books becomes fascinating again where it describes the Victorian rationalism applied to statistical science, with a good dose of British eccentricity of the men involved involved in these studies, like Galton.To sum up, an interesting book that could have been better.
+I have heard Peter Bernstein speak and have read a lot of his articles, so I knew I might be in for a tough slog on this one, but the subtitle The Remarkable Story of Risk, got my attention.
+Like Bernstein, I spent the majority of my career in financial services (that may be the only similarity between us), so I have always been fascinated with people’s attitudes about risk and money in general.
+The book is well researched and goes deeper into the history of risk, the markets, currencies, etc… than I imagined it would.
+However, for all its historic ambitions, the book does not give a good, or sometimes any, description of socio-economic developments of different time periods which makes this part strangely out-of-time and also I suppose allows the author to get away with his premise in which god and fate are one of the key factors in developments in the concepts of probability and risk calculations.
+(What about the explosive growth of trade, for example?)The second part mostly abandons all historical ambitions and talks about recent developments in risk management.
+The problem of the author not being a good writer becomes an especially jarring obstacle to reading here.
+The Remarkable Story of Risk?
+I felt like the he could have gone deeper in to some of the sections or extrapolate more applications of the newly discovered statistical calculations - ie through analysis of the bell curve and regression to mean machine manufacturers were able to predict the average school leavers understanding of engineering and no longer needed to train their own technicians to go onsite to replace machinery, as a the average school leaver was capable, reducing the service cost and bolstering the industrial revolution.
+But mostly this is a very dry tome with few redeeming qualities.
+With an intriguing narrative, Peter Bernstein explain the history of risks and all the evolution on the concepts or risk and risk management over the history.
+It is not a book to "teach" Risk Management but a perfect narrative of the concepts around risks.
+Para mim esse é um dos melhores livros se você deseja aprender gerenciamento de riscos.
+Com uma narrativa intrigante, Peter Bernstein explica a história dos riscos e toda a evolução dos conceitos de riscos e gerenciamento de riscos através da história.
+Ele não é um livro para "ensinar" Gerenciamento de Riscos mas uma narrativa perfeita dos conceitos relacionados.
+Written in fluid prose and with complete mastery of the subjects the author confidently takes you by the hand and escorts you through our struggles to tackle and understand risk from the fairly finite spaces of probabilities to the must more bewildering and elusive domains of uncertainty, irrationality and human behavioural interdependencies.
+The eventual focus is on the financial world; it could have been great to have seen the discourse expanded to many other domains where risk is a constant companion.
+Written in the late 1990'es it does not cover our most recent failures in the context of the 2009 crash, but surely any readers of this book would not have been surprised back then or would they?
+If you happen to meet those criteria, this book will help answer the question: "how well have humans done at trying to predict the future, in order to avoid risky situations?" The book does this by tracing risk management back to the VERY beginning of people trying to understand numbers (interesting history of the number zero) up to the Black-Scholes model of pricing options.
+The book is marketed as a "very readable" history of risk.
+If you're a professor and regularly read published articles, then -yes- this is more readable.
+Probably would have been 4 stars if I'd read it a decade ago, but the most key pieces of this were done better by Daniel Kahneman (who Bernstein credits) in Thinking, Fast and Slow years after this work was written.
+Interesting history of the beginnings of useful societal statistics in England with analysis of death rates, and a cool thought that da Vinci, who only knew Roman numerals, may struggle in a modern day 3rd grade math class.
+The West owes a great debt to Indian and Arab civilizations for spreading their more useful numeric system.
+Mathematics and in particular financial mathematics has been an important part of evolution of the modern economic world.Out of this, banking was created and trade evolved including the ability to evaluate risk and calculate interest risk which gave rise to modern banking, stock trading, insurance and other mathematically based industries which are the cornerstone of our modern financial structure.It can be a little dry at times, but skipping the mathematical lessons will not detract from the story. Delving into the maths tutorials is worth it, as it uncovers mysteries.
+As some other reviewers have mentioned, this book demonstrates the importance of math in humanity's "conquest" of nature, but it does so in a way that is not at all intimidating to mathphobes. I actually read this as a text in an advanced principles of sociology class as the foundation for examining Ulrich Beck's thesis of "risk society."
+This turned out to be a bit of a slog for me. I enjoyed the first half (which is more of a history of general probability and risk) than the second (which focuses on Wall Street financial tools). I certainly learned some things though.
+Interesting book on how risk evolved.
+Interesting so far, a little heavy going in the early chapters for those deficient in math skills but fascinating in the details. Amazed to find that Da Vinci had only 3rd grade math skills.
+Not the best piece ever written, and can be boring at times. The latter half of the book is extremely interesting, and overall I really appreciated the things I learned.
+A page turner that you can take to the beach. Very enjoyable.
+Fascinating history of our understanding of probability and assessing risk.
+A brilliant piece of history.
+In the best-selling Against the Gods the reader is taken on a remarkable journey through human history to clarify the subject of risk - which still can't be explained fully.
+The author's main idea with the book was to explore the lessons of history to judge the current methods of handling risk.
+Galton's discovery of regression to the mean during the 19th century - covered in one chapter -may be the most important for investors.
+The main takeaway from the book is that the lessons of history support today’s preferred method of how to tackle problems involving both skill and luck.

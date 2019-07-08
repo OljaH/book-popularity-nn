@@ -1,0 +1,89 @@
+https://www.goodreads.com/book/show/21856367-the-innovators
+If you want a history of innovation from the point of view of the winners -- the people who created the technology we use today -- then this book might be for you.But I would strongly recommend that you read some other books: Katie Hafner's When Wizards Stay Up Late; John Markoff's What the Dormouse Said; Steven Levy's Hackers.Isaacson hits all of the main highlights of the development of digital technology from Ada Lovelace to Google.
+(The lack of such editors also points out limitations in the standards track and how RFCs cannot really turn the industry.)(3) Finally, the biggest argument in the book: That innovation comes from teams and groups, not from individuals (479-488 and elsewhere).
+I loved Isaacson's Benjamin Franklin and Steve Jobs biographies.
+However, it is that success that made this book not as enjoyable for me because Isaacson is profiling so many people, several each chapter, that their stories get lost one behind the other and the details get confusing.
+Maybe someone with a strong computer programming or mathematical bent would enjoy it, but that's not why I read an Isaacson book.
+Isaacson allows her a chapter all to herself, and it's the version of his writing I know and love.
+I would have much rather read an entire Walter Isaacson biography of Ada Lovelace.
+Turing’s innovations on code-breaking machines, mathematical advances by John von Neumann, and adaptation of punch card programming from the textile industry for calculation routines of room-sized electromechanical computers represented big breakthroughs.
+Isaacson also explores the differences and similarities of the environment of various settings of great advances, including: Bell Labs, where the transistor was invented; IBM, where mainframes and business programming were developed (which denied sufficient glory to women programmers like Grace Hopper); Penn State, where the first general purpose electromechanical computer was creates; Xerox PARC, where the first graphical user interface was designed; and Apple Computer, which married hippie chic and Silicon Valley cultures.
+This book made me a bit jealous of that basic understanding of technology and I have to admit that after the reading the portion on diodes, semiconductors and microchips I spent an entire Saturday online learning about the basic physics and chemistry involved in that process.
+Then I went back and reread the sections and I felt better about my understanding of the history and the science.Isaacson is great at bringing these hackers and geeks to life.
+Pretty good ideas are a dime a dozen and even brilliant ideas are not worth much if you can't get your team to build it right.Things I'd like to remember:Man, Vannevar Bush is cool.
+The basic premise of this book, is that innovators and inventors do not create new concepts solo.
+But, there is not a surplus of collaboration described in this book.
+In the beginning of the book, the innovators were described in detail, in historical order.
+I really enjoyed an earlier book by Isaacson, Benjamin Franklin: An American Life.
+In that book, I really was able to understand the man and his accomplishments.
+However, this book covers too much ground, and ends up being less than satisfying.
+I ended up understanding the life of the first personality covered in the book, Ada Lovelace, but not much else.
+This book is going to be huge since it functions not only as a history of the computer and the internet but as a treatise on innovation and collaboration.
+I can imagine that it will be required reading for all kinds of people working in all varieties of business.
+Unlike his bio of Steve Jobs, which was important as immediate history but was also understandably rushed, Isaacson's new book reads like a labor of love and is much better written, more focused than "Jobs" and is thought provoking on a lot of different levels.
+I took away a much more informed perspective of how we got here and a distinct reverence for the innovators in the text and generally for the human capacity for incredible intellect and curiosity as well as our enduring and limitless creativity.The following quote gives the best overview, in my opinion, of the book to an average reader (such as I):"Most of the successful innovators and entrepreneurs in this book had one thing in common: they were product people.
+Larry Page felt the same: The best leaders are those with the deepest understanding of the engineering and product design.Another lesson of the digital age is as old as Aristotle: Man is a social animal.
+4.2 StarsReaders can infer a number of salient points from this excellent history of digital innovation, but the main takeaway for me was this: innovative ideas are like digestive systems—nothing comes from them unless they get a big push from an asshole.Okay, so, the author would probably suggest that his REAL overarching theme is that innovation is driven not by lone geniuses, but by collaborative teams that provide an ideal mix of vision, engineering, and execution, but hey—that doesn’t mean that the aforementioned point is NOT true (see, for example, Jobs, Steve).
+Com direito ao papel das programadoras dos primeiros computadores, que não me lembro de ter encontrado em outros livros.Ele tem um tom muito mais biográfico e voltado para as pessoas por trás disso.
+Em contraste com outros dois livros que tratam mais ou mesmo do mesmo fenômeno, mas por outro lado.
+E os livros do Tim Wu, que tratam mais do controle do conteúdo e da publicidade.Walter Isaacson tem uma abordagem conciliadora, que passa por duas formas de descrever criações.
+Além de ser o primeiro livro sobre a história da computação ou da internet que realmente conecta a adoção das tecnologias com o uso para interação social.
+In his latest book, Isaacson offers the reader an insightful look into the world of technology and the numerous people whose insights and innovative ideas have changed the world in which we live.
+Any reader with a curiosity surrounding technology should invest time in this book, though be somewhat leery of some technical jargon that can weigh down the narrative for the layperson.As Isaacson presents in his introduction, some of these ideas came during his research on the Steve Jobs biography, the first of his that I devoured.
+It covers a lot of history and people and therefore makes it somewhat difficult to rate.
+There are times when there were developments taking place in multiple locations and usually each involved a team of people.
+Innovation, development, success came about when people collaborated.
+The point is that innovations and development happened when people collaborated and worked together.
+There are other interesting tidbits in this book about the early history of computers (e.g. The Homebrew Computer Club, The Tech Model Railroad Club, etc.).
+Overall this was an interesting history of the people who helped bring about computers, the internet, and the web.
+
+His work was also too early, too much of the needed supporting technologies weren't up to speed yet.Babbage wasn't quite alone, but he built the hardware & was a man, so he gets the historical credit.
+Ada Lovelace worked with him & came up with some early programming principles that were finally used & revered a century later by the first programmers, again mostly women, including the iconic Grace Hopper - inventor of the 'bug' among other things such as COBOL.
+(In 2011(?) both Apple & Google spent more on defending patents than on research for the first time.) Few could understand the inventions, much less the ramifications of new tech such as the transistor or the IC.
+It was still a niche way of communicating, until Tim Berners-Lee invented the World Wide Web with hypertext linking, and the world was never the same again.Isaacson has written a reasonable book on the history of computing and the internet, and the significant characters and people who discovered or made things, or who just happened to be in the right place at the right time.
+It was a book worth reading though, as he shows that some of the best innovations have come from unlikely collaborations, those that don’t follow the herd and those whose quirky personalities and way of seeing the world bring forth products that we never knew we needed.
+
+2.5/5 First things first - This is the book to recommend to your CA friends if they have recommended you a book filled with economics/accounting jargon that made it frustrating for u.This is a history of the computer industry - both hardware and software.
+This was my second attempt at reading the book.
+However this part was fun to read for me, especially the chapter on personal computer software featuring Gates,Jobs and Linux and would rate d 2nd half 3.5/5The first half of the book is on hardware with a lot of electrical & electronics engineering and mathematical concepts thrown in.
+Kniha Inovátoři pojednává o historii a vývoji technologií od počátků vzniku jednoduchých počítacích strojů přes objevení tranzistoru a mikročipu, nástup videoher, rozvoj internetu, osobní počítače a příchod softwaru až po dnešní online svět a boom učících se algoritmů. Kniha detailně popisuje jednotlivé milníky a snaží se k tématům přistupovat kriticky. Neidealizuje. Líbil se nám i její konec, kde autor píše, že budoucnost patří lidem, kteří se naučí nejlépe vycházet a spolupracovat s počítači. Svatým grálem výpočetní techniky není umělá inteligence, ale symbióza člověka s počítačem.
+The Innovators is a book which looks at everything, right from the start, to the middle and the future of entrepreneurs and creative geniuses.Along with her love for machines, Ada Lovelace is the first known specimen of "Poetical Science", a term used by Isaacson in the concluding pages of his book quite relevantly.
+These two different looking cultures do intersect and it is our job in this era to understand how they intersect since only then the next phase of Digital Revolution will bring more and new methods of merging technology and creativeness.
+The Innovators charts the journey of the Digital Revolution from the 19th century when Charles Babbage and Lady Lovelace attempted to write a program for a machine to perform a task upto the present day where millions are connected through personal computers and the power of the Web which is only growing bigger and faster.
+Walter Isaacson takes us through the entire evolution of the Digital Age from infancy into becoming an essential part of our lives.
+The whole story is way too big for one book to capture but The Innovators should do more than enough to get you interested and make you seek out more!
+Walter Isaacson does it again this time with “The Innovators”.There have been countless books written on the digitized revolution and the Silicon Valley.
+The systematic building of concepts only lends to the overall effect of the book.At some point, I thought that maybe some people were not included which could have been and some which perhaps did not need inclusion.
+Overall, I would say that even if you are not a technology buff the book will appeal to you only from the point of view of knowing more about these people and the ideas they thought of.
+Coming from none technical background, this book really gave me the bigger picture of technology world; its beginning and its future.
+moments with mini biographies of the great minds during the cultural revolution in technology.
+It is about time that girls see themselves like Ida Love Lace, Grace Hopper ((first Cobol programmer) and Jean Jennings and Betty Snyder (who program Eniac) as role models.The whole book is a wonderful piece of well-researched history on how the ideas from one time moved to another influencing innovations when people worked collaboratively.
+Another wonderful work from Walter Isaacson, a legendary of digital revolutions, full of amazing stories of innovators who made a dent in the computer history. A must read , I'll buy one to keep it at home for sure.
+An excellent book reach on history of the great innovators
+I recommend this to everybody. I love how detailed, how interesting and how smoothly this book is written. With every chapter, I felt indebted to every single eccentric geniuses who have contributed in making this digital world. I have nothing but gratitude to everybody.
+Fun! ... or was it such a fun because i listened to this audiobook while making my very successful cardboard/brass fasteners project? Symbiosis effect? Whatever. Fun. Favourites shelf.
+Müəllifin Stiv Jobs haqqındakı kitabını əvvəllər oxumaq istəyirdim.
+Təqribən 20 səhifədən sonra dayandırmışdım.
+Burada da özümdə həvəs gördüm, bitirdim.
+Həddən artıq ensiklopedik tipli kitabları sevmirəm.
+Hardasa kiçik incəlikləri, sirrləri, maraqlı nələri isə öyrənmək istəyirsən.
+Əvəzində filankəs falan il belə dedi, Universiteti filan vaxt bitirdi.
+İnformativdir, amma çox üzücü yazılıb.
+Ürəyimi üzdü.
+Yəqinki başqa vaxt bitirməzdim.
+Amma mövzu əhəmiyyətlidir və bu əhəmiyyət olduqca böyükdür.
+Texnologiyanın inkişafından danışmağa ehtiyac varmi bilmirəm.
+Çox uzağa getmiyək, son illərə qədər telefonlar da qatlanırdı, komputerlər də böyük idi, internetin sürətindən isə eh...
+(Kitabın heç xətrinə dəymək istəmirəm, vacib şeylərdən yazılıb.
+Amma oxunmur da oxunmur)
+Intesting, historic, good to know.
+I guess I would have liked to stay on each story/innovation for a longer period of time, but then the book would have been too long.
+From blogging to Twitter,Wikipedia, and Google, Isaacson covered many of these wonderful innovations.
+Absolutely worth reading.--------update------It's been a year since I read this book, and one thing that keeps nagging at me is Isaacson's portrayal of Ada Lovelace.
+But, if Ada Lovelace publicly announced that she is superior in intelligence, many make sure to take her down a few pegs.
+Isaacson made sure to highlight any of Ada Lovelace's flaws, which served to downplay her significant contribution to science.
+Issacson's The Innovators is a very well written, credible book filled with information on each individual, germination of an idea, it's implementation and development behind today's magic machine, The Computer.
+in the past if innovators are deprived and limited by the funds, their pride and discrimination then, today innovation is purely driven by wealth and fame!
+It's a must read of the year for the curious brains and I'm glad I did it!P.S. one of the great contributors, Alan Turing and his journey of designing and building the universal machine is made into a movie "The Imitation Game".
+It was a wonderful coincidence, that I could also be able to watch this film while reading the book!
+A must read book for everyone, somehow connected to IT. A modern history, evolution of ideas are delivered in easy digestible form combined with a precision of scientific paper (over 1000 references and thousands cites).

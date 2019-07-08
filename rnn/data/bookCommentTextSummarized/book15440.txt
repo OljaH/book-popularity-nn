@@ -1,0 +1,57 @@
+https://www.goodreads.com/book/show/98233.Founders_at_Work
+They get a spec book, and they say, "Well, I'm going to meet this spec to make the customer happy." That's not really enough; you have to make something good for the user if you want to call yourself an engineer."-- Philip Greenspun (Founder of ArsDigita)"People don't like to write.
+The people who were sort of average-quality programmers and had trouble thinking about the larger picture were the ones who couldn't write."-- Philip Greenspun (Founder of ArsDigita)"Things never work out right the first time.
+Being part of that for so long, for me, has been very invigorating.Joshua Schachter, founder of del.icio.us about implementingBut the guy who says, “I have a great idea and I’m looking for other people to implement it,” I’m wary of—frequently because I think the process of idea-making relies on executing and failing or succeeding at the ideas, so that you can actually become better at coming up with ideas.and about VCsIn general, I found VCs to be significantly politer than the folks I worked with.
+Very few VCs actually said, “Sorry, we’re not interested.”Craig Newmark, founder of craiglist on the definition of start-up“in the conventional sense, we were never a startup.
+
+A bit outdated but really inspiring. It's interesting to note the patterns between the different founders stories. The most unexpected being that many were unaware of the importance or enormity of the project they were in the process of undertaking.
+everyone has a bad day/week/month.
+Книга хороша тем, что она богата на истории многих значительных стартапов начиная от самого зарождения интернет бизнеса в США и особенно тем, что истории исходя из первых уст, от их основателей в форме интервью.Больше всего мне было интересно узнать о многих вызовах, которые падали на плечи руководства и основателей компаний, их поворотные пути в истории развития, а также что именно двигало ими, что же заставляло упорствовать, чего они в итоге достигли и какой ценой.
+Great read. An insightful look into the experiences of successful founders. One thing I learned is that even the best venture capitalists turn down unicorns.
+تحميل مقتطفات من هذا الكتاب مجانًاhttp://www.hindawi.org/kalimat/97308392/
+I didn't read about startups I'd never heard of because they got killed by a late-comer, or startups that dealt with very esoteric subjects like parallel supercomputers.
+If I'd read those, maybe my rating would have differed.As a sort of note-to-self, these were the chapters that I read:1246789121516181926272933 (the parts that interested me)I should probably read the questions that interest me from the chapters I haven't read at some point, but until then, the book gets 4/5.
+It's full of insights from people with hands-on experience, but parts of it felt like unproductively reading startup-history gossip.
+The world thinks of startup founders as having some kind of superhuman confidence, but a lot of them were uncertain at first about starting a company.
+What they weren't uncertain about was making something good--or trying to fix something broken".van Hoff: “Over the years, I’ve learned that the first idea you have is irrelevant.
+I dread installing stuff, and I have a PhD in computer science.So if you’re writing applications for end users, you have to remember that you’re writing for an audience that has been traumatized by bad experiences.”Paul Graham: I found I could actually sell moderately well.
+Table of Contents CHAPTER 1 Max Levchin Cofounder, PayPal CHAPTER 2 Sabeer Bhatia Cofounder, Hotmail
+fascinating first-hand accounts from founders of now-ubiquitous companies: hotmail, gmail, paypal, yahoo stores, hotornot, apple, etc etc.
+strangely, the technical aspect is rarely the most difficult part of the company - most of the founders say marketing the product was crazy hard.interesting factoids you'll pick up from reading the book:* hotornot was implemented in an afternoon to rate some random girl one of the founders had seen recently.
+he says they are all narcissistic unmanageable freaks.if you're a programmer this book is a must-read.
+Most of the advice in this book is timeless, and any fan of Paul Graham's essays will really enjoy this.
+However, to me (an 18y old, reading in 2013), a lot of the interviews in the book, while interesting, were a bit dated.
+Admittedly, I skimmed a few of the extremely-dated chapters.My favorite interviews were with Max Levchin (PayPal), Craig Newmark (Craigslist), Paul Buchheit (Gmail) and James Hong (HotOrNot).
+This one is a brilliant, brilliant book.I'm so glad I picked it up and it's worth every paisa of the
+Fascinating stories about early days of pre-2008 technology companies like Apple, Blogger, TripAdvisor, etc. Some of them were absolute gems worth a 6-star review, others that got into fine details about uninteresting stuff by today's standards (technical aspects of hardware in early '80s) needed faster page flipping. But all in all a must-read for early stage startup founders.
+One of the few books I've yet to finish, while it's great to see the journeys of the entrepreneurs in these stories there is mostly technical and very intricate details and the stories tend to drag on..probably very helpful for the technical co-founder
+Great value. I've always preferred interviews with real people rather than a subjective opinion. This book not only tries to hit a specific topic, but also intentionally tries to just provide comparison data about some of the most successful entrepreneurs.
+Most stories are interesting as a history of Internet and software industry.I really like chapter 24, interview with Philip Greenspun (ArsDigita), but the rest is hardly inspiring for me.
+Why this one is great? I can hear the minds of interviewees as they are, without useless "I know why" abstractions.
+Best part of this book for me is seeing how much businesses change as they go from idea to reality.
+persistence&perseverance, things never work out right the first time.
+A must-read book on entrepreneurial success stories for the knowledge worker or aspiring entrepreneur.
+This is a great collection of insights from some of the top founders.
+That said, since it's an interview format, you can get inside the heads of the founders, which can be revealing, and also just a lot of fun.
+Are successful entrepreneurs successful because of their unique principles and insights that they discuss in the book, or were they successful because of a "market pull", where they happened to have knowledge that was not common at the time, needed to create a product to satisfy demand?
+They just need to be appropriately separated from the entrepreneurs' success.
+You want to save the world.
+You try & you fail.
+FAIL FORWARD.
+We’re not yet living in the #StarTrek universe where we can add to society the best of what we have.
+It’s too right.
+I want to live then.
+I want to live then.
+I want my magazine to mean something to people, to motivate women to participate, to motivate men to learn about the struggles women face in the workplace, to motivate women & girls to stay and forge a path for the new generation to come into & thrive in the business & tech world.
+As someone who works in technology, and startups, I feel that it’s heresy to say anything bad about this book.
+This might be useful as archival material, but it does not make for good reading.
+Having read something similar recently, Tim Ferriss’ Tools of Titans, I know the approach can work, but it requires editing and insight from the author, helping to synthesize common themes, for example.
+So as a piece of archival data that helps provide a reality check to claims that successful entrepreneurs are good at predicting the future, it succeeds.
+
+Fantastic book.
+Lots of different stories, from those ones where a tool that the startup made on the side to help them build their real product ended up being an overnight success, to the ones where the business plan was clear from day one and was executed carefully over years of sustained effort.
+Lots to learn from many different types of businesses and leaders.
+Instead, I ended up reading one interview after every other book I read, which spread the learning out, but also meant it took me a couple of years to finish.
+I couldn’t really finish the book but I might still pick it up here and there. The thing is, if you are not familiar with founder stories, this might be interesting. But if, like me, you already follow their stories, their interviews on podcasts, or have read books like the one on Jobs and Musk, you might find little novelty in these stories. I do like the fact that the founders here were less known (to me), and I really enjoyed the Wozniak chapter, but overall the book was not as interesting as I was hoping for.
+Harvard Case studies without the Hollywood rewrites.This book puts most Harvard case studies on entrepreneurship to shame. Hearing the voice of the entrepreneur without the filter of a case-writer has given me a new set of insights about entrepreneurship.Jessica is an extraordinary talented interviewer and has a particular gift for asking the right questions and eliciting illuminating responses.Just remember the book is best read as a series of short stories rather than straight-through like a novel.
+This was an excellent book, it gives the reader the right perspective of how some of the unicorns during the dotcom bubble came to be. The insights are precious and would recommend to anyone thinking of building a company. If you want something and it is not yet on the market, find a way to invent or come up with a way of doing it, you might be into something precious. Key lesson: Just do it, you don't need to wait to do it

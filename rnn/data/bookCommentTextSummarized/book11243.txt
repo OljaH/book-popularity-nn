@@ -1,0 +1,39 @@
+https://www.goodreads.com/book/show/112247.The_Art_of_Computer_Programming_Volume_1
+It's interesting and clever and...awful.Please understand that I have read Knuth's defenses for using assembly language to teach his algorithms.
+It's just to say that the pace is utterly glacial.In other words, and it pains me very much to say this, it's difficult to justify the time required to get through a book like this if you don't enjoy the MIX assembly puzzles or the higher math problems.I appreciate this incredibly thorough and accurate work the way I appreciate models of large gothic structures created with toothpicks.
+But I can't get past the fact that they're going to be chock full of more MIX examples and exercises in higher math.
+oh, who am i kidding? i have never read this straight through, but i think i've covered a lot of it over the course of 8 years as an engineer. if i was stranded on a desert island with enough food and water to last the rest of my life, this series of books is what i would take with me. there are so many puzzles in these books that it could keep you occupied for a lifetime. i don't know how one man wrote these books.
+I really cant understand how one could write code without reading these books.
+This book outlines the design of computers and shows how many of the challenges of programming development have been addressed.
+It is a great and foundational computer science book.
+Today, understanding the operation of the processor is less critical and the way data structures are used has somewhat evolved.
+The math and assembly programs gave critical insight into practice and optimization at one time, however are less relevant now.
+Programmers who read it will still love this book.It was a nice validation to find the logic I had used once in a short program in one of the examples.It is striking how far the practice has come.
+An excellent learning resource for anyone with an interest in computers or mathematics. Not exactly a light read, but it provides a great set of tools that can be applied to many situations. The problem sets were concise, interesting and a far better substitute to doing sudokus on the morning commute. I tried to work through all the problems rated 25 or less, while glancing at the more complex/time consuming ones, but I sometimes lacked the skills to complete a problem. I would like to revisit this book after reading a few of the suggested books in the bibliography.
+However, I did not at all like the decision to have the sample code in a made-up assembly language.
+Maybe I'm just not HC geek enough, but IMO when the point is to present algorithms, the sample code should be clear and easy to read.
+Using a higher level language would have been more appropriate.Also, it would have been nice to have had flow graphs of all the presented algorithms instead of just a few of them.I also have to admit that this book was such heavy reading that at the end I began to read more marginally and skip some paragraphs, getting just an overview of certain subjects.
+Essential reading for study of algorithms.
+It is one of the best books which makes me love Computer Science. It is simple and fascinating, and every chapter marks a new milestone...
+This is a fantastic piece of literature for computer science. It is however, not an introductory book, so the reader must know quite a lot of mathematics and abstract computer programming to get the most out of this book. Even though it is quite old, it is still relevant in many ways.
+Quite incredible. Took me a very long time to finish, but was absolutely worth it. Truly the gold standard for algorithm analysis.
+the art is fantastic i nedd art in my life
+Knuth's The Art of Computer Programming provides a detailed textbook for classical Computer Science, starting with the foundational mathematics and working through (in this volume) data structures such as Linked Lists, Trees, and Graphs.While authoritative and enjoyable to read, I personally felt unprepared (even with advance warning) for the sheer volume of mathematics in Chapter 1, and spent the first 120 pages reeling from notations that I hadn't read before.
+Although well written and thorough with some delicious humor, this did not meet up to my expectations. I did learn a few things about this and that (not the least tree traversals) but much space was wasted on superfluous detail. For instance I did not care squat for the MIX assembly language code examples that took up page after page. Personally I'm very interested in math, but there was also a disconnect between the chapters on background theory and the later ones on algorithms.
+Incredible resource for a self-taught programmer! I love the depth and precision of Knuth's mind and exposition.MIX, while old in design, is more than sufficient and can easily be replaced by the enterprising user with a modern tool.Doing all of the exercises is a tall order but I did do the majority of the "light" ones and a good number of the difficult problems.I highly recommend Don's books.
+Amazing monograph on computer science, very didactically written. With well-thought structure and great excercises, it is perfectly suitable as a textbook for two full courses, as well as a textbook for independent study. The excercises themselves, especially from the first chapter, provide great entertainment for the so inclined reader, in many areas of mathematics.
+More elegant science writing - one of the deep, foundational thinkers in Computer Science. Packed with insight, rigour, and interesting mathematical puzzles (I love mathematics, but usually I find mathematical puzzles very uninteresting.)And a ditto goes to Volumes 2 and 3.
+It's a nice refresher for some essential math skills. Besides that it contains good info basic data structures. Too much detail for me personally. But when a problem arises that requires such detail, I will have the solution right there on my bookshelf. :)On to volume two! Yay!
+I thought this would be more informative and instructive from a beginners, or at least intermediate point of understanding, but it was like trying to read med papers if you haven't gone to med school.
+Jangan berharap menemukan puisi di buku ini. Tahukah siapa penulisnya? Profesor di bidang Matematika. Buku ini lebih enak buat bantal daripada dibaca. Gedubrak, isinya notasi matematika semua ..........
+Reading this book once is not enough. It's an amazing piece that everyone should read, or at least skim through. There are so great tips and insights I've never seen elsewhere, and reading the whole thing just opens up your mind to a lot of things.
+the Art of Computer Programming, Volume 1: Fundamental Algorithms by Donald E. Knuth (1979)
+TAOCP
+Classic on algorithm design in computer science.
+Creating Web Pages for Dummies
+Chiaramente, il giudizio sui libri di informatica segue metri diversi da quelli sui romanzi... Nel suo genere, questo libro è un capolavoro inarrivabile.
+He's crazy. He's brilliant.If you are a programmer - read it.
+Obviously a classic but a really hard read due to everything being written in MIX - would much prefer pseudo-code.
+Difficult, instructive, intelligent, amusing and brain-numbing - all rolled-in-to-one in this classic of CS. Buy it, read a page at a sitting and savor it - this is a book read over 5 years.
+Working through this book with a friend from the lab. Should be fun!
+Start to read it !

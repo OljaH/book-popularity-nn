@@ -1,0 +1,79 @@
+https://www.goodreads.com/book/show/4845.Code_Complete
+Things I'd heard people say: "I make everyone on my team read this." or "Every developer should start with this book".
+I read through this book with a host of colleagues all with quite different experience levels and in different areas of expertise.It was the best of times.
+It can be incredibly easy to completely discount large portions of this book without that type of attitude.The BestThe absolute best part of the experience was having a group of peers to bounce ideas off of.
+It's easy after reading this thing to want to go CRAZY on standards.
+In addition to being my favorite section heading in the book, this principle emphasizes that iteration is appropriate at all points of the software development process.
+When constructing a program, a developer should (iteratively) write pseudocode that is high level enough to be in the domain of the problem but low level enough for translation to real code to be nearly mechanical.
+It discusses software quality, collaboration, developer testing, debugging, refactoring, and code tuning.
+This section also discusses several integration processes and emphasizes that which process is right depends on the project being developed.The final section of Code Complete is "Software Craftsmanship".
+Much of the advice given is good advice, and as a programmer, you should adopt and internalise most of it.On these grounds, the book deserves 4 or 5 stars, so why do I rate it as I do?There are two reasons for this.The first is that, having programmed for some 15-20 years already, I learned little.
+Still, I kept reading, a chapter per month or so, since there was an occasional gem here and there.The rating I've given therefore reflects my experience reading the book, more than the quality of it, which is indisputable.If you're a seasoned programmer, you may consider skipping it.
+If you have only a few years of professional experience, you should consider reading it.
+Terribly bloated. Long-winded and trivial. I do not get the high score for this book; in a related area, but much more crisp is Programming Pearls (it even engages your brain, imagine that).
+It can help programmers of all experience levels to focus on the right things: that code is harder to read than to write, that managing complexity is the main goal of programming, and so on.The book is filled with nuggets of wisdom.
+Some of my favorite quotes, some from McConnell, some from other writers that he includes in the book:Managing complexity is the most important technical topic in software development.
+In my view, it's so important that Software's Primary Technical Imperative has to be managing complexity.A "wicked" problem is one that can be clearly defined only by solving it.It's OK to figure out murder mysteries, but you shouldn't need to figure out code.
+
+This book was a pretty good read. Most of what is discussed is extremely valuable information. Although with only 5 years of experience I felt like many of the points that Steve brought up were fairly obvious once you've been working as a Software Developer. If you are new to programming, want to move to a more professional level of programming or just plain have plenty of time on your hands this is a great book. However, if you already have a fair amount of experience developing software professionally, I would suggest you look elsewhere for good reading.
+It was very rewarding to me to see many of the pieces of advice given reaffirming my own coding practices and the way things are done here at SEP, but I certainly took some new information away.
+One of the main lessons taught throughout the book is that code should be easy to understand.
+There was a recommended reading list at the end of the book which seems very valuable, and I intend to go through it.
+This book left me with a feeling of 'just getting started' and seems like it would be a good thing for new-hires to read.
+So it’s a #1 must read programming book according to this poll on StackOverflow.
+That raises quite some expectations, and if you ask me, the book doesn’t really meet them.I mean, it doesn’t even feel like a proper programming book - it’s written in some “Easy way to quit smoking for dummies” style.
+Every idea is explained verbosely, then illustrated with some numeric stats, then with a 3D chart, then with some real-life anecdote, then with a reference to a 1973 paper, and finally reiterated in a checklist in the end of the chapter.But still, this book makes a lot of good points, it’s easy to read, there’s not much prerequisites (“If you’re rusty on polynomials, they’re the the things that look like Ax² + Bx + C”) – maybe it makes sense to read it in high school.
+I probably got less out of the book, having worked as a developer for a couple of years out of school, than say, a college student or somebody fresh out.
+Or maybe dinosaurs that are out of touch and need to get back into the game.The second half of the book is pretty much a catalog of refactoring techniques.
+McConnell covers a few other topics, related to design, teamwork, testing, and configuration management, but doesn't go into depth for many of them.Still, it's an excellent book to have around, if there's confusion about what you're trying to explain to someone.
+Steve McConnell's Code Complete is absolutely essential to every software developer. The lessons contained in Code Complete are based on solid, time-tested principles. The time spent reading Code Complete is time spent bettering your career as a developer.
+It's a great book for fresher developers, as it contains a lot of practices and hard facts to back them up. I''m already aware of quite of bit that the book advocates so I wouldn't get as much out of it as a new developer. But having said that, I did get to learn bits and pieces here and there of stuff I hadn't thought about, so it's good. I guess the downside about this book is that it can be pretty long-winded in trying to explain why a certain practice is a good practice.
+Книга полезна разработчикам, которые хотят научиться писать качественный код. Но сама по себе в печатном издании книга очень объемна и поэтому ее не удобно читать или брать с собой, язык в ней академический, много сносок, поэтому под нее так легко уснуть. Похоже на чтение большого советского словаря) Между этой книгой и "Чистым кодом" дядюшки Боба, советую выбрать вторую.
+I feel like I should have read it earlier in my carrier. It is a good book. But it felt boring to me because I already knew most of the stuff. Did not live up to my expectations because people say it is the Bible of programming. However, I would say that Clean Code by Uncle Bob is more interesting and more useful for me at this point.
+Dreadful and dull, get the Pragmatic Programmer instead.
+Lots of checklists that theoretically sound good for large teams and projects but the overhead may be too high for smaller projects.
+I'd give a 1-star review to a book that was wrong, or that purported to be scientific and yet was absent of references.
+This book gets 2-stars because although there were a tiny handful of useful tips, the vast majority of the text was a stream of minutiae, such as an entire chapter on variable naming (Should you capitalize the first letter of method names?
+I think this book meets that criterion.
+That book was for me high expectation.
+But in real case, for 10 years of professional development and self improvement, that book is just repeating of basic paradigms.
+But still I found something new.
+May be not new, but obvious, what most of senior developers ignores by "authority" of experience.
+I recommend that book for Mid-Senior developers.
+Later you could return to it, to refresh knowledge about that obvious stuff, what we start to ignore with time.For me is main idea of that book.1.
+Programming is intellectual work - you must remember it.
+Work with you head!
+All concept can be just added into few sentences, like, before you start programming, think (and predict) very well what functions you'll need, as not Mather how well you though, damn thing anyway will grow into something too complex. It is tempting to add features, but that's a suicide if those not thought off before the project. Complexities have tendency to fail.
+This book should be mandatory for all computer science student and developer to be. A great receipe of writing Clean code and software craftmanship.
+Эта книга должна быть одной из первых у тех кто начинает программировать. Она сразу правильно формирует отношение к разработке и указывает как надо делать и как не стоит.Я бы выделил эту книгу в TOP10 книг которые стоит прочитать чтобы вырасти до Lead Developer.
+Must read for all programmers! You will learn something useful in here, for sure
+One of the most worthless and dull books I've ever read.
+Some right ideas and proper approaches are described there indeed but, first, they are obvious and, second, the amount of text one should absorb is 5-10 times greater that needed, in my opinion.Further, a lot of people recommend this book to beginners which is not worthless but, I would dare to say, dangerous.
+Many ideas are very controversial, and to yet unformed minds they may be really wrecking.The idea which I believe can replace the whole book is here: write the code for people to understand.
+Nothing is beyond that simple truth.
+For me, much of this was tread ground but I think reading this book would be as good as a year or two of practical experience, at the least, for a beginning programmer.
+If I'd read it a decade or so ago it would have saved me a lot of unnecessarily painful learning experiences and teachable moments.Even as an experienced programmer, I still picked up a few concepts from this book.
+Beyond that I picked up a lot of useful metaphors and documented research which I plan to employ in the future when explaining concepts to other professionals.Code Complete is a bit dry, but it's also well-organized so the reader can easily skip to the sections most relevant to their interests.
+Code Complete is a highly regarded book in the software engineering industry and I approached it with pretty high expectations - however, the actual reading experience has turned into something of a nightmare for me.
+It took me almost a year to finish (several times seriously considering abandoning the effort), and I have to say this is probably the driest and the most boring book I've ever read.Don't get me wrong, it's hard to find fault with the content itself - all of it is excellent advice, focusing mostly on the construction phase of software development.
+Unfortunately, I cannot imagine a software engineering with any amount of real-world experience who'd learn much new information reading it.
+The bible of practical programming.I bought the first edition, read about 400-500 pages and then the book was lost in a move.
+A few years later I got the second edition and read it again from the beginning and probably got to something like page 700.
+The book is filled with suggestions and techniques to improve everyday programming and I would still be going back to it today as a reference book if it were sitting on my shelf.
+Like it so much I began the next and then halted, remembering the other reading I first needed to complete.So, I finished the other book (Mythical Man Month) and took Code Complete with me on trip.
+I was enthralled with the style of writing and ideas presented as much as Mythical Man Month.
+In fact, on the way home from the trip I read almost 400 pages.
+I fully intend re-reading every 18 months or so to check up on myself and evaluate the suggested best-practices.
+At that time, I had difficulty understanding importance of the ideas presented in the book.
+After spending some time in the industry and facing with harsh realities of software development, I decided to give it a try again.
+Even though it has been more than a decade since the book was published, I think most of the ideas presented in it still apply.
+The book is huge as it includes all of the stages in software development process.
+So that you can revisit your notes from time to time in order not to forget most of the ideas.
+When starting my first job out of college, part of the training was to read selected chapters from this book.
+Although I had initially suspected that the book reading was some useless filler task while they found something for me to do, looking back I probably learned more about programming on a team than I did during the first two years of college programming courses.The book tackles more than just the technical look at coding, but delves into the deeper thought processes involved in writing software.
+In fact, in the time since starting my job I have helped train two new members to my software team, and reading Code Complete was the first things I had them do.
+Excellent book on software development.
+I read the first version years ago.
+It was well worth picking up the second version as a refresher.
+The book covers everything from personal character to how to format a for loop, it's a must read for improving your skills and to help you realize how far you still have to go.The only problem I have with the book is the formatting.
+Given the focus the book has on readable code it's a shame the book format is such a dog's breakfast.

@@ -1,0 +1,82 @@
+https://www.goodreads.com/book/show/181239.Metamagical_Themas
+How can I help you?- Hi. It’s my first time, so I’m not very sure how this works.- This sentence would inform you someone else is available if it didn’t end in a full stop.- I’m sorry, who is available?- I’m implying you’ll have self-referential sex with me.- Dirty.
+Go on.- With this sentence I’m beginning the foreplay to the self-referential phone sex.- Oh yes.- The tone in which this statement is pronounced is intended to make you feel horny.- You better believe it’s working.
+Because I understood almost all of it the very first time through while GEB took me about a year to digest, chewing slowly over each cognitive morsel, sometimes metaphorically regurgitating it a few times before getting it through the cerebral equivalent of my lower intestines.
+GEB was work to read.
+This book introduced me to many fascinating concepts, and had a lasting influence on me in two significant ways.
+1) I tried to develop my very own personal font.
+And 2) It inspired me write my own book about game theory.
+I finished writing the book.
+The font remains an unrealized fantasy.
+The title, by the way, is an anagram of “Mathematical Games.” This is appropriate, because games are, by definition, fun.
+This book is a collection of Hofstader's essays and columns, many of which were published in Scientific American.
+Hofstader's column in Scientific American was intended to bridge the literary and the scientific, and does.
+The book - titled after the column - contains essays on self-referential sentences ("The reader of this sentence exists only while reading me" is one of my favorites); the mathematics of Frederic Chopin's compositions; a taxonomy of Rubik's Cube variations; the emerging studies of chaos and compexity; metafonts; artificial intelligence and machine learning; what the word "I" means; and a deep study of the mechanics and ethics of cooperation.
+This 1985 book consists mostly of a compilation of articles from Scientific American in the early 1980's, along with updated post scriptums, and a few extra miscellaneous chapters on subjects not covered in those articles.
+Hofstadter's intelligence and quest for thinking shines throughout as well as his passion for this broad range of subjects.For those familiar with the Prisoner's Dilemmma, there's a chapter devoted to the classic version, as well as other chapters devoted to various cooperator/defector offshoots.Personally, it brought back memories of my college years with a few articles on LISP, an AI (artifical intelligence) programming language, and it's car/cdr constructs, which I had to write programs for in one of my classes.
+This book is huge - like a massive dictionary - and packed with a bunch of essays on a range of topics too broad to even try to describe. Some of them were great and either made you laugh or think about things you hadn't before, though a few weren't as good. But overall, if you can make it through this book, it's worth the interesting journey.
+I recently got this on Kindle, so I've been slowly revisiting a few choice bits here and there.
+The days of meaty, tangible material in technical magazine that you could actually sit down and do something with (c.f., Byte), seem so long ago (Make and the recently deceased, in print format, Linux Journal, not withstanding) that it's hard to picture actual articles on Lisp appearing in what was, in fact, a fairly popular science magazine.
+These days, I would basically call it a nicer version of Discover (again, not to denigrate that magazine, but it certainly lacks depth in most cases).To be continued...
+As a result the content is even more diverse in this book than in Gödel, Escher, Bach, and reading a few columns in a row left me a little bewildered.
+A couple of the essays seemed a little dated.
+For example, he gives a discussion of large numbers with frequent references to Rubik's Cube - but maybe my dislike of the reference is just because I'm terrible at that thing.That said, Hofstadter is a wonderfully imaginative and entertaining writer, and there were some themes underlying the whole book which anybody familiar with Hofstadter will be able to guess, such as the nature of intelligence and consciousness and the concept of self-reference.
+Each essay is small and self-contained, making this book one I will feel comfortable going back to and re-reading.
+I'd always wanted to solve the Rubik's Cube.
+Then, while reading his chapter on the principles of the cube, specifically 'Partial Inverses', I had the flash of insight I needed, and BLAMMO: cube solved.
+This isn't a joke, it really happened.I expect most people will have similar flashes of insight in every chapter.
+Buy this book.
+Read it.
+Forget treating it well.
+Destroy the book while reading it.
+Take it to the beach.
+Forget you left it on the bed and fuck on it.
+Skip chapters and never look back (you'll be back).Do everything you can to get through it.
+The thing I loved about this one is the playfulness involved.
+Sometimes I thought my head was going to explode from the weird wonderfulness of the ideas.
+The two chapters on self-referential sentences were absolutely delightful.
+Some I recall: "It goes without saying that""Let us make a new convention that any thing shown in triple quotes, for instance '''I've changed my mind, when you reach the close of the triple quotes, just go directly to the period at the end of the sentence, and ignore everything up to that point''' should not even be read or given the slightest attention, much less actually obeyed."Yields falsehood when preceded by its quotation" yields falsehood when preceded by its quotation.Definitely a great read!
+Pick up this book, and you will find yourself returning to it again and again. Not only is Metamagical Themas a great source (and resource) in itself, but it will lead you to other fascinating books--to wit books that deal not only with science but with literature and music. I owe Hofstadter a debt of gratitude for providing me with his wonderful introduction to the works of Allen Wheelis.
+A collection of Hofstadter's columns written for the Scientific American. Very wide-ranging, illuminating read on a variety of concepts (ranging from logic, through mathematics, to art and physics). More accessible than GEB.
+I read this book in high school (A long time ago) and it was overmy head. As I progressed in life I have reread it many times and its a gem full of quirky essays about patterns and self-reference and paradoxes. Highly recommended for a ride into an forest of bizarre thoughts from a brillant thinker.
+First, read Gödel, Escher, Bach: An Eternal Golden Braid. If you love that, then read this, which is mostly a collection of the author's columns from Scientific American.
+There's some gems hidden in here, but it's pretty scattered. Be prepared for extensive and expansive discourse regarding calligraphy, typography and the design of fonts. Possessing a dysfunctional visual aesthetic sense and being generally wary of anything requiring more than UTF-8 and a console font to render meaningfully, I find these singularly uninteresting topics. Your meterage may very.
+Read this BIG book after college. Enjoyed it then...about 30 years ago! Just wondering if any of my friends online are familiar with it? We are going through our books. Thinking of reading it again...
+A supreme joy. I can dip into this book anytime, and gain something from what I read (even if I can't entirely grasp it)."The Tale of Happiton" is one of the best pieces regarding nuclear disarmament I have read.
+Totally incredible. If you want to get closer to/further away from understanding the world and yourself while being entertained and amazed, read this book. Or just parts of it. It's a series of columns on different topics, no need to be intimidated by the 800 pages.
+I read this a long time ago and as I remember it was completely amazing, thus my 5 star rating. I'm going to pick it up again soon and see if I still love it as much as I once did. :)
+My God this is deep! But rewarding!
+perhaps this before GEB.
+It was enjoyable to read, but by the end I was simply happy to be done.
+Maybe it would have been better to read all these articles serialized in the magazine, without all the commentary and post post post scriptums.
+Yes, that is maybe what most people are familiar with in relation to the author.
+There are many, many nuggets to grab hold of and twist in the brain in prolonged study: for example, analogy and its centrality to human-like thought (or is it all thought?), the barrier/boundary between connectedness and symbol manipulation and its relevance to both artificial and "real" intelligence or consciousness, and I was enthralled by the column concerning Chopin, different as it was, yet echoing in a lovely way.So, happy I read it.
+I first read this book in the early spring of 1986.
+I read it 2 or 3 more times but not in the past decade.
+This time, I found many of the chapters very dated because the whole field of AI has simply exploded in the intervening years.
+Also the chapters on Alan Turing are always a good read and the discussions on consciousness, perception and free will are timeless and thought provoking as ever.
+If I ever read this book again, it will have to be on Kindle because my 30 plus year old paperback has fallen apart into a stack of pages during this last reading :(
+A wide-ranging book collated from articles written by the author for his column in Scientific American.
+It is mind-bending and astounding as one would expect from the author of "Godel, Escher, Bach" and covers much of the same ground, but it also covers more practical aspects of AI and, in particular, aspects of cognitive science such as creativity.
+Along the way there is material on the Rubik's cube, on the nuclear arms war, on typefaces, on the Lisp programming language, and on game theory.
+Despite the natural and easily-read writing, the book is overall not an easy read due to the depth and complexity of the themes, but it's well worth the effort.
+Close on five stars, but it can be a little dated and uneven in places (reading it in 2018!). But there is so much here that showcases an incredible perspective and intellect, on so many wonderful issues around intelligence, identity and patterns in life. It really helped me (even after Godel, Escher, Bach) understand more about intelligence and the ideas that must lie behind artificial or non-human intelligence (and why full AI is so hard).
+a favorite
+I bought the book originally just to have the honor to read the original article of Dr. Hofstadter on Superrationality in game theory, and I was completely stunned by the diversity of articles presented in the book.
+Surely my best part of the book is the last 100 pages where he tackled game theoretical problems and experiments.
+The best passage ever, is the one that I have waited all along my reading, the recursive definition of superrational players: “Supperational thinkers, by recursive definition, include in their calculations the fact that they are in a group of superrational thinkers."What a beautiful mind on Dr. Doug.
+A collection of essays by Hofstadter, mainly from his column in Scientific American but some written specifically for the collection.
+Generally very interesting stuff.
+I found the work on the maths of Rubik's cube particularly entertaining and really liked the essays towards the end exploring the rationality of people's approaches to dealing with the knowledge of the existence of nuclear weaponry and we settle into sort of 'well it's there but probably won't affect us' state of mind.The essays specifically on artificial intelligence suffer somewhat from having been written over 30 years ago and things have moved on dramatically since then.
+I would be interested to read what he says about it now, and if his views have changed.
+A collection of Hofstadter's columns of the same name for Scientific American.
+A variety of topics are covered, some of which were less interesting than others, but none were dull.
+It did feel a slight shame that the topic I most enjoyed (self-reference) was the first in the book - that led to a slight feeling of everything being downhill from there on, but that's hardly a problem with the book itself...
+The section on AI is also particularly good (both of those last two points, though, are based on personal interests rather than quality of writing).
+It's been a long time since I read (parts of) this during a Rubik's Cube binge.
+It wasn't the giant cohesive work that GEB is, but a lot of the essays were pretty good.It's really interesting how much Hofstadter (and many other people at the time these articles were written) worried about nuclear proliferation.
+Somehow that concern has faded from the forefront of our minds, but now we have terrorism and global warming to deal with instead.
+Those are definitely real issues too, but I have to wonder - did we really "solve" the nuclear crisis that Hofstadter wrote about here, or has it just been replaced in the news with other, fresher problems?
+If I was forced to choose only one book to take to a desert island (and couldn't choose a book that explained, in great detail, how to survive on a desert island) then this is the book I'd choose.
+I've read it many, many times and it always makes me think about stuff that I'd forgotten to think about since I last read it.If you're interested in wordplay, artificial intelligence, self-referentiality, mathematics, logic, solutions to the prisoner's dilemma, how laws evolve or a myriad of other topics that (as mentioned above) I've forgotten since I last read it, then I urge you to get a copy of this book.
+You can thank me later.

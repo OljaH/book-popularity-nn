@@ -1,0 +1,72 @@
+https://www.goodreads.com/book/show/7090.The_Soul_of_a_New_Machine
+I can't believe this is not required reading for a computer architecture course!
+It was a bit of a stretch, but did make the class a bit more interesting.
+As I read Kidder describe the toil undertaken in creating this new computer - working under the pressure on the brink of insanity to find those incessant bugs - I thought this the perfect companion for the CS154B Computer Architecture class at UC Davis.
+As students, we worked on analogous type of problems and under similar conditions: this book provides a human angle to that struggle.
+Today, these times read like ancient history, exceptt for the fact that it was the dawning of an age.Tracy Kidder, a journalist, not a computer engineer, took on the task of capturing the new computer building process when it was part science, part art, and to some extent part magic.
+What we see is what builder-engineering is about, how the lure of building a new machine becomes a drug, how the challenge of problems (design, debugging)take over the engineer's life, and how managers must manage with both a strong hand and a loose grip simultaneously.The mental and emotional stress that becomes the engineer's life, the almost fraternity-like antics that take place to lessen that stress, and the demands of producing a functioning and profitable machine dominate the realities described in the book.
+Bear with the author as he describes the ins and outs of Adventure and intricacies of machines that have become dinosaurs in the pantheon of technology.As so many other reviewers have mentioned, the highlight of the book is the team and interpersonal dynamics--human drama that can be found in pressure cooker development environments today.
+Many readers may find it difficult to understand why the team took on such a challenge, but there are a few who will recognize the thrill of pinball and understand the siren song of working in difficult environments on challenges that might be near impossible to achieve.
+The Soul of A New Machine is an engineers soap opera following a rag-tag team of neophytes driven by their own Captain Ahab to build a revolutionary 32-bit computer for the now-defunct Data General in the late 1970s.
+He breaks down the complex technical nature of the task through a series of straightforward analogies and by doing so enables us to follow the human struggle of these mistreated engineers, who, driven by manipulation and pride work mad hours with little benefit to themselves to breathe life into a machine of their very own.
+3. Everyone wants to feel an ownership of their project.
+It is a testament to Tracy Kidder's skills as a writer that I found a book of ancient computer engineering to be a compelling read. The story of Data General's development of a 32-bit minicomputer was somehow rendered like an adventure story through a wild landscape filled with thrills and dangers and eventual reward.I read this book as background reading for a trilogy of books I'm reviewing and so pleasant to find such enjoyment in my research.Oh, and the book also won the Pulitzer Prize...
+In desperation, a team in North Carolina was tasked with building a modern, 32-bit machine capable of addressing up to 4GB.
+In revenge, the passed-over team in Massachusetts decided they would build another 32-bit machine, on simpler lines, and show up the Carolinians.Both in desperation and Massachusetts was Tracy Kidder, a hopeful author whose first book had stunk.
+"The Soul of the New Machine" is that of the engineers, who poured themselves into it day after day, late hour by late hour.Kidder won a well-deserved Pulitzer prize for this.
+(4.0) Snapshot in time in the history of computingRetells the story of the development of the first 32-bit minicomputer offering from Data General (I'm not nerdy/old enough to really know about them).
+But the most interesting thing for me was that this was right around the time that marked the end of the ability for a single engineer to really know the entire CPU...they're getting into the territory where there just need to be some black boxes that you know about but know little of in order to get everything to work together.One other interesting section is towards the end when Kidder tries to debunk the notion of a "computer revolution".
+Terrific look at a piece of computer history written at the time it was actually happening. I'd just read Tracey Kidder's book about writing and as a fan of computer history thought this would be a good read. It was as a team puts together Data Generals first 32 bit minicomputer. I'd recommend this book to anyone that enjoys computer history. Well written and fast paced.
+Much as with EA Spouse, employees are salaried, with no overtime pay, and work 12-16 hour days, 6 days a week.
+Only after the employees strike do they fix the air conditioning.By the end of the book, several of the project leads, themselves burned out, leave the company, and while some of the employees on the Eagle team stay on, many more have left.Tracy Kidder got an impressive amount of access at Data General when he wrote this book, and while he's honest and truthful about what happened there, Data General, at least to my 21st century mind, comes out of this book smelling like shit.
+The feeling of camaraderie, pride, and purpose was something that I had just recently experienced which made me relate to the engineers and managers in a different way.I loved it the first time I read it but somehow was able to love it more.
+I've recently been reading about the timeline of computers which was a big help.
+Kidder starts the story by introducing the main character, Tom West, an enigmatic man on a boat off the East Coast with a group of strangers as they sail the sea.
+It expertly foreshadows West's character and his role as the general manager of the computer the book documents.
+They were building temples to God. It was the sort of work that gave meaning to life. That's what West and his team of engineers were looking for, I think. An incredible account of what it feels like to work in the computer industry, an accurate description of computer architecture (that is still relevant today), and an all-around amazing book. Touches many aspects of hardware, management and the emotional intricacies of engineering.On a personal note, to me, it captures the essence of computer
+An incredible account of what it feels like to work in the computer industry, an accurate description of computer architecture (that is still relevant today), and an all-around amazing book.
+This was a very special read to me as a computer engineering undergraduate - a fantastic accomplishment that someone from a different field of expertise managed to grasp in such a beautiful way the art of the machine and the people working at the forefront of its development.
+I had a feeling from the first page, that I was going to like this book.
+It really is like a drug, I think."
+A time when the frontiers in computer hardware were open and worth fighting for; when margins in hardware were, by present day standards, stratospheric, and when computer professionals/nerds/geeks were cheap and in it for the challenge.
+The baby was the 32-bit Eclipse, (the now defunct) Data General's chance to survive a few more years in the nascent mini/micro computer industry.
+While the book has sufficient technical information to keep the casual geek interested, the real story is about the engineers working 100 hour weeks and how this project became a big part of their lives.
+Tracy Kidder writes it in a way that such a dry subject reads like an epic adventure, describing the engineers with so much detail that they feel like the heroes of said adventure.
+Further more, it's a very interesting case study in how to manage engineers, seeing how much the team was willing to sacrifice just because they got so much freedom and influence in the work they were doing.I'd say this is a must-read for anyone in the tech industry and a highly recommended read even for those outside of it.
+A very nice story of how a small team of engineers works to create a new computer for Data General in the late 1970s. The computer is not particularly groundbreaking, a new 32-bit computer that is software-compatible with the old 16-bit model. But the story is remarkable for its insights into how the work got done. It explains the characters, their motivations, some technical details (at just the right detail)—and is filled with memorable and realistic anecdotes. It is well paced, well written and well organized, a very nice piece of sociology.
+This was a fantastic read. Tracy Kidder captures a period in computing history that I'd only ever vaguely heard about. The race to build (or in this case retrofit) the first 32-bit microcomputers!This a fundamentally human exploration of how to inspire and lead people to tilt at windmills. You see how technical credibility is earned, and how teams come to inhabit a realm of their own as they approach launch.Lots of crazy debugging stories, some fantastic character sketches make a book that is well worth your time.
+“The Soul of a New Machine” by Tracy Kidder is a must read for anyone interested in hardships in a tech-emerging world.
+This short book follows the advancements on a new, powerful 32-bit computer nicknamed the “Eagle”, as its creator and company, Data General, tries to outperform its competitors.
+My favorite part (and most well written part, in my opinion) of the book is when Kidder treats you like a member of one of the factions in the Data General company.
+In final, I believe that “The Soul of a New Machine” is one of the best books I've read all year.
+Must read if you have anything to do with computer industry. You could see patterns that keeps repeating.
+Seeing which things are identical and which are unrecognizable is one of the fascinating things about this extremely interesting book.Having worked in the broad field of computing for 15 years, the processes of developing and delivering a technical project were at the same time familiar and alien to me.
+The characters of the engineers, their goals, and the counter-intuitively dysfunctional ways of getting the most out of them is remarkably similar to what one might encounter in the field of computing today (to be honest, I'm only familiar with development on the software side, but I assume the same broadly hold true on the hardware side).
+Tracy Kidder put together a wonderfully rich and in-depth look at the inner workings of a team of designers working on a new minicomputer.
+With scarce resources, minimal corporate support, and little but what they could scrounge and their own intellectual prowess and determination, the team succeeded against all odds.
+And with Kidder's able help, we are right there with them.
+Kidder wondered with some anxiety what it would lead to; with the advantage of more than two and a half decades, we can see the results.
+This book had a very compelling blend of technical content and a focus on the relationships and idiosyncrasies of the computer engineers behind this amazing achievement.
+As someone with a computer engineering background, I appreciated the detail given around the architecture of components that make up the Eagle and the process by which they are designed.
+It was very inspiring to learn about the work that so many hardware engineers and microcode programmers poured their souls into for no other reason than to be a part of something bigger.
+I enjoyed the book immensely, and found it a fun read, a page turner.
+It was nice that Tracy seemed to learn enough about the whole process, the technology and the project, that he really understood what was going on.
+They would have made a lot of vague statements in their books talking about technical things with not enough detail for you to figure out what they were trying to say, and that would have been maddening.
+Tracy seems to grasp fully subjects like science, technology, and medicine, so he's wonderful to read on these subjects.
+As someone else commented, paraphrased: "This should be required reading for any computer architecture course."A fascinating insight into the work it took to launch an entirely new computer back in the days of hand-soldering and oscilloscopes, as well as a pseudo-biography of the strange and charismatic leader of this particular team, Tom West.
+This book talks about the team that creates a new computer. The book is read a lot by MBA students. I can see where putting a team together to do software and hardware is hard work. There are many times when the unexpected comes up and you are late on projects. I thought it was interesting the dynamics of the different teams and how the managers of the teams dealt with people.
+I read this many years ago and many books ago. But it made a big impression on my younger self about the quest for something bigger than yourself. You don't do something for money or glory, you do it for the deep internal feeling of accomplishment.
+I read this book when I was 18 (well over a decade ago) but I remember it being an easy and interesting read, and it gave me an appreciation of just how much work goes into creating something as advanced as a computer machine.
+My gut tells me no book has been more deserving of its Pulitzer.
+Fantastic!
+
+Four stars is maybe too many, three too few for this book.
+At times it's fascinating, but at others it's very turgid.
+Kidder goes into (I feel) completely unnecessary detail to explain the complexity involved in designing a computer.
+I have a degree in electronics and a masters in computing.
+I've used boolean logic to design logic circuits.
+I've written code in machine code.
+I've designed an operating system.
+And even I found these explanations tedious and boring.
+I get that he was trying to give the reader a sense of the conflict and tension involved in developing a machine.
+

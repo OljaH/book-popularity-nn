@@ -1,0 +1,64 @@
+https://www.goodreads.com/book/show/584620.What_Is_Mathematics_
+This is the ideal book to read during the last years at school, or early in an undergraduate degree.
+School maths is often about understanding mathematical concepts intuitively via rote learning, repetition and visualization.
+Perhaps many people who don't know much about mathematics think that it is about arithmetic or calculation - it is easy to get that impression when school mathematics centers mostly around solving uninteresting problems, which often involve a lot of calculation.This book shows that mathematics is about understanding the properties and behaviour of mathematical objects.
+Why can some shapes be constructed with ruler and compass, but some not?The book requires patience and time to read.
+
+I really, really wish I'd have had this book back as a senior or junior in high school; I'd have been able to plan out my math classes early on much better (why on earth did I take Dynamics and Bifurcations?!?!
+and how did I avoid taking a serious vector spaces/manifold calculus class?
+I think this will be my default high school graduation present to anyone with an inkling of mathematical talent from now on (rather than the more intimidating Road to Reality, which likely just frightens people).As they said in Mathematical Review, "A work of extraordinary perfection."
+Einstein put it best when he said: "[this book is:] a lucid representation of the fundamental concepts and methods of the whole field of mathematics." It really is.
+Readers will be stunned by the connection between algebraic fields and classical geometry, which is an important subject named group theory in modern mathematics.Chapter 4 talks about geometries beyond Euclidean.
+Felix Klein defines geometry in Erlangen program as a subject studying the invariant properties of space under group transformations.
+The most general, abstract geometry, which contain all other geometries, named topology, is the main topic of Chapter 5, which is surely interesting and readable but I will not talk about it.Chapter 7 shows some famous extreme values problems in geometry.
+От тази книга тръгна моят интерес към математиката. Показва красотата на точните науки, водейки читателя за ръка по много интересна пътечка.
+In another life, many many moons ago, I received this book as a gift from an English math professor I met on a plane.
+When I say *real* math, I mean that it was not a problem book or a textbook, but it explored the history and reasoning behind all the ideas I held so dear to my heart and mind.
+I will always cherish the afternoons spent going over this book, figuring out both Math and English.
+For some reason I do Math for a living now, so it must be that some of the ideas in Courant's book stuck.
+I originally read it when I was 17, and it was the book which confirmed to me that I wanted to study mathematics at university.
+Re-reading it now, it is a clear and inspiring look at a wide range of interesting mathematics, presenting an elementary view of how it is viewed from a university (rather than a high school) perspective.
+Some parts are a little dated - even when I read it in the 1980s, the amount of geometrical expertise expected was much more than was present in the O and A level syllabus.
+But I still found myself getting interested all over again in parts of the subject I haven't thought about for years.
+One of my favorite books on mathematics. Also, one of Einstein's favorites.
+This is one of the best high school level extensions in mathematics. Originally called -Mathematics for Lori - it was written for his daughter.
+I wanted to like this book.
+There are references to ongoing problems to solve Hilbert's 10th problem, but no acknowledgement of Alan Turing's contributions (probably because his work was still classified or unknown at the time of publication).
+Many of the fonts are difficult to read, and some of the shorthand is less than modern.
+This may have been a good introduction/refresher at some point in time, but there have to be better books out there now.
+For one, your time would be better spent reading Heath's translation of Euclid.
+Some day I hope to make time for The Princeton Companion to Mathematics.
+I am strongly disappointed with this book.
+And here's why: written supposedly for non-mathematicians it contains so many abstract concepts and strict reasoning that it's virtually impossible to apprehend it being a person with a non-technical background (put aside that I work as a software developer for almost 5 years now).
+For me, the book is more like Wikipedia than like a guide for newcomers.My point is that for a novice, a tour into something new should contain hooks tying new ideas to the person's previous experience.
+And this book doesn't provide such approach at all.
+Besides, Courant and Robbins give their opinion about the necessity of the mathematical concepts and ideas, just as their location in Mathematics, understanding these as an interconnected discipline.The edition I read is a revision by Ian Stewart, who added some commentaries and wrote extensions to several of the chapters in the light of recent progress (well, recent in 1996 when this edition was published).The chapters are almost entirely independent of one another, each one about a different mathematical topic, like natural numbers, ruler and compass contructions, projective geometry, topology, calculus or the number system.
+The book covers a broad range of topics in (mainly pure) maths.
+It should be comprehensible to anyone who has done the equivalent of UK "A" Level maths.
+For anyone wanting to go beyond school maths, or about to embark on a maths course at university, the book will be invaluable.If I have a quibble, it is that the exercises and some parts of the book are printed in smallish type which my (ageing) eyes had difficulty coping with, especially when it came to subscripts and superscripts, some of which I could not decipher.
+Can't fault Courant and Robbins for not predicting the future, of course; the new final chapter does a great job of these sorts of updates.I'm sad it took me so long to read this book -- I'd seen it a zillion times, and I think my old roommate even had a copy in our dorm, but I'd never cracked it open.
+What makes them fun are these are prose books on math.
+The rigor is there but you do not need to work through the actual with a pencil and paper.
+Instead the author walks you through the logic.You will find this book very difficult at times.
+You don't need any knowledge of advanced math to read this book.
+What makes it fun is that the author walks you through the most famous proofs in all of mathematics simplifying them to simple equations that you can solve in your head.
+Some of these are difficult and you will need to pull out paper and pencil.
+At first, I thought that this book is about the history of math according to some description on a website.
+I started reading it and discovered that it explains a great deal of math concepts in real great way and good amount of details.
+I think I need to re-read it sometimes again because I really liked it.
+My overall experience with this book is great.
+It basically explains what is mathematical equations and concepts in a great and simple way.
+But I think if you wants to read it, you should have some level of understanding the concepts in the book before looking at them.
+Passed a lot of math courses but failed to make any sense out of them ? If your answer is yes, this book is for you. As Albert Einstein said this book is a lucid representation of fundamental concepts and methods of whole field of mathematics.But, it is not a casual mathematics history book which you can flip through at leisure. It is a serious read involving actual mathematics and should be treated as a reference book and should be refrenced from time to time, specially if you are in high school or college.
+This is a heavy book. Literally and figuratively. This book went way over my head in the discussion of mathematics. I would recommend it to college math professors, but not many other people. It does have some interesting background, but many of those background stories are found in other books as well. Too mathy for me.
+This is one of the first books in popularization of relatively high mathematics,readable and interesting it touches :prime numbers, sucesions,congruences rational and real numbers,geometry ,topology and calculus in one variable,formally builds exponential and logaritmic functions and introduces prime number theorem.First published in the fourthies
+This book is for the one who knows that math is awesome but feels difficult(sometimes impossible) to understand. This author has not skipped key explanations (explanations which are presumed to be obvious by several authors).
+Skimmed through and it is quite useful, very similar to one of Felix Klein's books in terms of style. A little too mathematics for my purposes which is more towards physics, some insights are good nonetheless.
+Very well done. About half of this can be appreciated by the bright high school senior; the rest might require a couple of college math courses.
+Good general overview with interesting problems.
+The Bible of Math.
+Letti solo alcuni pezzi che mi interessavano / servivano. Ottimo libro, andrebbe adottato come libro di testo. Spiegano bene e non sono noiosi. Awesome!
+This is a very good text , but too much for me
+Una guía esencial para todo iniciado en el área científica. Excelente!!!
+Library copy returned, then removed from circulation for bad binding. No other copy available to read - I want to finish this one!
+biased pov accounts for -1 star, excellent for the layman I suppose. good read either way. the probabilistic approach to the PNT is amazing.

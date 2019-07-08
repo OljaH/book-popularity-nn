@@ -1,0 +1,61 @@
+https://www.goodreads.com/book/show/52084.Programming_Pearls
+What was originally mistaken for truth turns out to be mere utility; the moment passes and we are left at best with a corroded praxis, an inept relic to clutter the museum of our fancy.
+The second edition may mention the internet—with which certainly the author is quite familiar—but the problems and examples it contains retain the flavor of a past era.
+Just as the monochrome Model T stripped bare of generations of added complexity illustrates the basics of automotive travel, so does Programming Pearls render in stark clarity the original values that engendered our current flavors of syntax.
+With the exception of some painfully out of date examples, this book is probably the best practical programming/algorithms book I've read.The examples aren't untrue, they're just not intuitive to a modern reader.
+It's nothing that ruins the book, but examples have things that seem slightly silly today like "big" computers with just a meg or two of memory available.
+Or the practice problem that asks you how you send an image from one place to another.
+Which is actually kind of brilliant but also completely unneeded in a world with internet.)So, if you're a programmer, read it (with some historical context in mind).
+Short SummaryPart I: PreliminariesColumn 1: Cracking The Oyster (defining the problem correctly)Principles: Defining the right problem is critical Problem: How do I sort a large file?The programmer wanted to sort a large file with limited memory but the critical piece of information was that the numbers are in a specific range (7 digits only) and so the solution was to use a bit vector.Column 2: AHA!
+Detailed implementation of each beautiful solution is included.Column 3: Data Structures Programs (choosing the right data structure)Principles: Don't write a big program if a little one can do.
+A good selection of interesting algorithms explained without the terseness that some other books can get into.
+I felt it is a bit antiquated with all the algorithms written in low level C.
+I'm not sure that some of the optimizations the author is proposing (manual loop unrolling, moving assignment out of a loop, etc) are still relevant due to the advances in compilers that can do such optimizations automatically while leaving the source code untainted by 'optimizations'.
+Nevertheless, there is a good selection of interesting algorithms, problem sets, and solutions.
+The length of the book is also very approachable compared to many other ones since it's only around 200 pages.
+_Programming Pearls_ is a gem.
+The "pearls" are short essays on a particular topic of programming, grouped together by theme: algorithms, data structures, correctness, implementation, performance, code tuning, etc.
+The essays are concise and focused, with plenty of code examples.
+Some of the topics may strike today's programmer as quaintly academic exercies.
+If you aren't a C programmer or possessed of an interest in compiler design you won't learn much from the sections on code tuning.
+But even after years of all Java, all the time, I learned a lot from his approach.This book should be on every programmer's shelf!
+Unlike most other books on programming, this one focuses on fundamental and generic problems, not the easy things, toy problems or technical things.The book teaches through a thorough discussion of solutions of several problems coming from several domains (algorithms, data structures, probability theory, ...).
+Some of the things - binary search being the most obvious example - look easy, but the sad truth is that many people can't write a correct implementation, not even speaking about effectivity.
+There's a discussion of effective implementation of data structures with respect to things like efficiency of storage and efficiency with respect to the speed of memory access, again with many examples.I'd consider this one of the best programming books I've ever seen.
+A good look at some ways to write efficient code. It discusses various algorithms and techniques that can increase performance or reduce memory requirements. One of the problems with the book is that, being an older book, some of the content is less relevant today. You can get most of the algorithms as part of any programming language library, though the book does provide you the information to understand the trade-offs. A better font for the book and C++-style examples (at least for me) would also have helped.
+Finished the book while preparing for programming interviews. Great delivery of valuable advice in practical use of algorithms. Will recommend it to anyone interested in programming at the cost of being obnoxious.
+AFter reading this book, you would start to think in terms bit and bytes.
+I'm going to complete all of the exercises in this book one day, at which point I will probably no longer be able to carry on conversation with humans.
+Super helpful to review data structures, algorithms and problem solving.
+Among the pearls I found some gems:“A designer knows he has arrived at perfection not when there is no longer anything to add, but when there is no longer anything to take away.” – Antoine de Saint-Exupéry“Binary search is a solution that looks for problems”“Don’t write a big program when a little one will do.”“The more general problem may be easier to solve” – Polya, on the Inventor’s Paradox in his book How To Solve It“Representation is the essence of programming” – Fred Brooks, in Chapter 9 of Mythical Man Month“Resist those foul urges to “just change it until it works””“The cheapest, fastest and most reliable components of a computer system are those that aren’t there.” – Gordon Bell“Above all, don’t forget common sense”“Everything should be made as simple as possible but no simpler.” – Einstein“Premature optimisation is the root of much programming evil” – Don Knuth“Save concern for efficiency for when it matters”“One part of a programmer’s job is solving today’s problem.
+It's like an algorithms and data structures text book, but written in such a way that it's actually pleasant to read.
+Books like this provide a gentle and enjoyable way to study how other programmers solve problems, and for that, the book deserves a lot of praise.The main downsides to the book are that it's a bit dated now.
+The obsession with tiny perf optimizations, such as loop unrolling and inlining functions, are unnecessary for 99.9% of programmers today, and perhaps actively harmful, as they are better handled by the compiler or VM anyway.As always, I jot down my favorite quotes from every book I read:"We are surrounded by strings.
+Long strings of characters make web pages, and longer strings yet make books.
+I really like the way this book presents everything as a story. It has a bit of an old-world charm to it, given that a lot of war stories are from bell-labs and so on, and in a time where programming languages weren't as advanced as today. But the way it approaches algorithm design is timeless and inspiring. Also a perfectly sized book to read on commutes.
+this book is probably the best algorithmic book I have ever read.
+A bit outdated
+A must read although it is a bit old.
+Lots of good stories about famous coders stuffed with interesting problems which I'll try to solve when I re-read it.
+Jon L. Bentley is king.
+Lots of fun for programmers, and even though it's not necessarily very a la mode wrt current fashions, there's a lot of fabulous stuff in here.
+Far too much of the performance discussion is irrelevant now that we have optimizing compilers.
+For performance and optimization today, I think people would be better off watching some of Andrei Alexandrescu's talks, such as https://www.youtube.com/watch?v=vrfYL...
+For instance, there was no mention of open addressing hashtables, which seemed silly as long as the focus was on performance.
+The book mentions that its parts about sorting and searching were primarily influenced by Sedgewicks Algorithms text book, but I think people would be better off just reading that in the first place - it's not much harder to get through.Nevertheless, I discovered some neat hacks here and it was a nice way to think again about some familiar material.
+Must read book. I have written a summary for the book:https://github.com/msjaiswal/book-not...
+This is not just yet another programming book with cook book solutions.
+Its a nice collection of essays published by the author in ACM.
+However the ones included in the book are corrected after errors discovered in originally published essays in ACM.
+The language is simple and one can do some Back of the Envelope calculations to get hang of the problems and solutions presented in the book.
+I don't think this can be used as a book for coursework in a Semester but its rather something you can read in addition to basic book on Data Structures and Algorithms.
+A little outdated, but still gold.Most of the time, the author has discussed practical problems which were complex to start with and how easily they were solved (with 20-50 lines of code representing the main idea).The book is fun to read and comprises of columns (read chapters).
+Although some columns are not as good as others.
+I had to gallop my way through the book due to various reasons, but it would be wise to heed author's advice to do 1 column per sitting.
+Some problems aren't well explained.
+...and this book certainly deserves a place among them.Targeted to experienced programmers, Programming Pearls reminds how important it is to think hard before approaching any problem, and to strive for elegance and efficiency.Even years after its publication date, this book is full of insightful advice about programming as an art.It is the best proof that programming languages may become obsolete, but good ideas never get old.
+When I cleared out a couple decades of software books on my shelf in preparation for tighter quarters, this is one of the few that made the cut. While its perhaps outdated these days to worry about the best fit for a problem to the tightest solution possible, there are places where space (embedded), speed (games), or power consumption (server farms); still reward elegant solutions to difficult problems. This is a book about thinking about these things.
+Really good overview into the history of software design patterns. Includes a lot of stuff that is seen today as "hot" (i.e. mapreduce), but that has been around for a long time as a sensible way to write software. Really clinched for me the central problem in computer science, the time-space tradeoff.
+This is a book about reasoning about programs and designing algorithms. There are some powerful ideas in this little book, despite its age.This book is best read in the following way:1. Solve each problem that makes up the main story of the chapter before finishing the chapter2. Do at least some of the exercises at the end of each chapter
+Very good read, although owing to the large amounts of literature out there on algorithm and programming, one might be acquainted with the tips and tricks that author has shared in the book. Still the book presents a way of thinking on how to go about programming stuff somewhat in the same fashion as how to solve it by polya.
+The author uses a conversational style of writing and develops a simple problem and proposes a simple solution and over the chapters we see how different aspects of programming culminate into a splendid solution. The incremental nature makes this book a very good read for preparation of interviews in programming jobs.

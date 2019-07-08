@@ -1,0 +1,73 @@
+https://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things
+After reading this you will never look at any man-made object the same.
+The next time you fumble with an answering machine, web page, or light switch you will think back to the lessons from this book.
+It is almost liberating once you can see beyond the design of everyday things.I highly recommend this book for anyone.
+You absolutely must read it if you will ever be in a position to create something (i.e. software, a chair, a cardboard box).
+If you don't, I will curse your name every time I am forced to use your product!
+For a book that a lot of people rave about as being a 'bible of usability', I have to say it was one of the worst written and designed books I have ever been unfortunate enough to read.
+I don't design every day things, so had absolutely no need to read this book, but found it extremely interesting.
+Norman points out the obvious - things I took for granted - & made me think about them in an entirely new light.
+Couple that with one set of doors opening in the opposite direction from the others & a simple task - walking into a building without much thought (actually while thinking of other things, like the upcoming meeting) - became an irritating puzzle.
+I know damn well that designers could do a much better job of laying out the controls for something as simple as a stove.
+this book seems to receive much play in computer science programs, but it's really much more of an industrial design text; its prevalence in CS programs evidences IMHO the sad state of HCI textbooks.I'm still eagerly waiting for a single textbook which unifies theory and practice of effective, attractive UI design.
+Instead, we seem to have the "GUI metrics" crowd, fetishists assuming the existence of some spiritus mundi, just waiting for the right Gaussian to be fitted (thus giving rise to twin abominations, MacOSX and GNOME3); meanwhile the "design" crown speaks in riddles, playing a game where men throw ducks at baloons, and nothing is as it seems...but this is why, I suppose, I only write backends and libraries.
+Couldn't get in to it. Maybe I'll try again at a different time. On a side note, I found it odd that a book about user-centered design had line-broken right-justified headings and baffling use of italics.
+This book is more for knowledge than for enjoyment. The writing is rather dry and textbook-like with many abstract/theoretical concepts and ideas. I feel like taking a short course in design, which is still quite helpful. Nevertheless, I was expecting more of "smart" designs, more fun and strange and inspiring stories, but Norman isn't there to entertain but to educate and so there are examples mostly to illustrate concepts and processes. Naturally I was a bit disappointed, but still in general a book is a good read.
+Have you ever stood in front of a door, or a microwave, absolutely flummoxed, because the damned thing gave you no clue whatsoever how to open it.
+In clear, coruscating prose he exposes the miserable flaws in the design of everyday objects which conspire to make our lives less convenient, more miserable, and sometimes more dangerous.The book is not just an exposé of the appalling laziness and hostility to consumers that is commonplace among designers(not just in the software industry, which is a story unto itself - see "The Lunatics are Running the Asylum") - it is also a clarion call to action.
+Too general to be valuable. Too many sentences like this: "Each discipline has a different perspective of the relative importance of the many factors that make up a product."
+Excellent piece of non-fiction. This book is a prescribed textbook for a course on computer interface design that I'm doing. Once I really started reading it, I almost couldn't put it down - it was so interesting that it almost read like fiction - none of the dry dust usually found in conventional textbooks. Very well and humorously presented, and a must for engineers, designers, manufacturers and inventors everywhere!
+I got this as an audiobook, based on the fact that it falls within my usual taste for non fiction and because it's been referred to by many other books.
+His principles sort of made sense, but they had too few examples to elucidate them, and what anecdotes and examples he included often were completely off-topic.The middle to second half of the book got especially off-topic, degenerating at times into a rant about how hard VCRs are to program and DOS computers are to use.
+Even if it weren't for the overly-abstract, poorly described principles he wants people to learn from, the age of his observations makes this book not relevant.I don't recommend this book.
+Like I said in a previous update, I feel like this book should be required reading for any type of designer, but somehow I had missed it until now.
+Since I listened to the audiobook (on Hoopla) I missed out on the diagrams which is disappointing, so I think I recommend reading the actual book.
+It was great to hear his thoughts on how it's not your fault you can't figure something out, it's the designer's.
+Definitely will at least help you figure out how to look out for good design in the products you buy.
+(5.0)Can't believe I hadn't read this before. There's a lot of wisdom in this book. I'd highly recommend for anyone pursuing a career in design, product, marketing, or tech, or anyone who just wants to build great products. Internalize these ideas and put them into practice and you will create better products that will impact people's lives.
+It's the sort of design flaw Norman attacks consistently so it feels odd that the typesetting for his book is so consistently awkward.To Norman's credit, he shows passion for this subject and he writes engagingly when he isn't listing psychological vocabulary words.
+Norman takes a decidedly pro-humanity outlook in a book all about objects; just one more irony I suppose.
+After all, DOET is a poorly-designed study of design regarding a mundane subject that fascinates.
+This was written in a decade before authors learned how to write stimulating non-fiction.
+Sensible thinking, but does come across at times like an 80s observational comedy routine about motion sensitive taps.
+Since Norman more or less predicts iPhones and iPads in this book, I'd love to read an update chapter from him in the next edition.
+People using products are busy, they have their mind on other things, and they can't read the mind of the designer.
+Therefore, if you're in any way responsible for making a product for other people to use, it's worth your while to take a look at how to embed the knowledge of how to use it within the object itself.
+Norman covers some of the techniques for this, but you can get that in many other user-experience and design books with more up-to-date examples.
+DoeT isn't the world's best written book—Norman's style is too often kvetchy-casual, sounding more like a modern-day ranty blog post than a classic of academic design writing.
+But that is only one way in which this book is ahead of its time.
+And when he makes predictions about the future, he's eerily prescient.
+Not only does he correctly predict future technology, he's better aware of its problems than today's designers.
+That alone excuses the book's stylistic shortcomings and proves its undeniable worth.
+A splendid book that I finally got around to reading, The Design of Everyday Things walks us through exactly what the title promises.
+Norman explores phones, doors, car keys, VCRs, water faucets, and signage, looking for principles that show how these work well or poorly.Despite the author being a psychologist, the books is beautifully bereft of jargon.
+When we run into problems with things, it's often because of poor design.As someone who grows more obsessed with bad signage every year, I found this a very pleasant read.Recommended for anyone working with design, with technology, with spaces.
+
+I did not like the book Wizard's First Rule, but something I love and use all the time is its explication of Wizard's First Rule: "People Are Idiots".
+Time.) How do you work in offices as long as these people have without learning that there is a little graphic on the machine to answer just that important question.
+The author talks about an expensive hoity toity Italian washing machine that was so badly designed the owners were afraid to touch it.
+This a required read for anyone who wants to design things for humans to use, but it was more like a textbook than I hoped when I picked it up.
+The user needs to be able to quickly understand what it can do (affordances) and get immediate and appropriate feedback when they do something.Human Centered Design Process: all about observing to understand the problem, ideating solutions, rapid prototyping and testing.
+I especially liked the part about using the Wizard of Oz technique: manually handling the backend yourself and letting the user think you are automating it.
+I picked it up because I was told it was a classic of the field and would be useful to have in my reading repertoire.
+And truthfully, the only reason I gave it two stars instead of one is because of the impact this book has clearly had on the design field.
+I'm sure at the time of its original release, this book was light years ahead of others in the way that it thought about design.
+I can definitely see how its concepts have become a main part of every design education.
+But ultimately, I thought this book was too wordy.
+Altogether, probably still good that I read it.
+You'll never look at another door or faucet in the sameway.If you take anything from this book, it is these 7 principles of making a difficult design task an easy one.1.
+Use both knowledge in the world and knowledge in the head.2.
+Simplify the structure of tasks.3.
+Make things visible: bridge the gulfs of Execution and Evaluation.4.
+Design for error.7.
+Not the design principles, even after 20 year since the book was published, some things are poorly designed.
+But the book use examples like telephones and the future of publishing, like Hyperlinks(!).
+The book introduces basic psychological concepts from areas such as cognitive psychology and ties th
+I usually do not let books un-finished, but this one is mediocre, especially if you have some basic psychology concepts
+A couple of weeks ago a colleague brought some tarts to the office from Art Café. The lemon tarts were white and the coconut ones were yellow. You could see the grimaces on everybody's faces as they bit into what they thought was lemon pie and got a mouthful of coconut instead.Small details matter.
+So some good stuff to summarize:* Make the controls/interactive elements visible: they won't used if they're not noticed* Use cultural, intuitive clues to suggest the function of elements...e.g. choose materials, shapes, colors appropriately* Try to make the interactive elements map to the functions they perform, particularly easy if there is some spatial component to what is controlled, arrange the elements in the same arrangement as their actions* Think of the steps that will occur when a user interacts with a product: -- user forms a goal -- user translates the goal into smaller, more concrete 'intentions' -- user enacts the intention as best he can -- the system responds -- the user tries to interpret the response -- 'bugs' can occur anywhere in this chain, identifying the source can help identify the solution* Make sure there's feedback when user does something.
+тема дверей всплывала раза три-четыре в разных местах, при этом каждый раз про них говорилось одно и то же.
+я понимаю, что автору в его мохнатом году сложно было это все предположить, но на мой взгляд, если уж пишешь книгу про "дизайн привычных вещей", то бери привычные вещи - те же самые двери, краны, стулья, чайники - и не лезь в сферу техники, которая меняется кардинальным способом каждый год.
+A big part of what makes The Design of Everyday Things so enjoyable are the descriptions of flawed designs that Norman peppers throughout the book.
+Norman uses the book’s examples of substandard design as a springboard for examining the factors that frequently derail the design process, n he proposes that matters can be improved when designers adopt a user-centered design philosophy n focus on the needs of the user.While The Design of Everyday Things deals mostly with the design of physical objects, its principles are equally applicable to the design of websites n other interactive systems.good!
+Good principles, I just wish it was less wordy. I wanted to see more examples.

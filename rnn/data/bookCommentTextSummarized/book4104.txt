@@ -1,0 +1,7 @@
+https://www.goodreads.com/book/show/382899.Cryptanalysis
+A decade is a lifetime in cryptography; three quarters of a century is more than an eternity.Obviously the ciphers Gaines treats as serious not-toys haven't been used outside of newspaper puzzle pages since before Hitler annexed Poland, and the vast majority of the techniques she describes to break them just plain don't apply to modern cryptography.
+The biggest problem by far, however, is that the jargon she uses resembles modern jargon just enough to frustrate everyone the novice reader of this book will inevitably try to talk to.If you're interested in cryptanalysis of classical cryptography, read something like Martin Gardner's 
+If you're interested in more serious, modern cryptanalysis, read anything else.
+Please.Cryptanalysis is an interesting historical curiosity.
+A classic on cryptanalysis from the 1930s. Boring though.
+a very solid book on cryptanalysis. it's just a little dry the entire time (you must have your own motivation to get through this one) and hard to follow (most of the time).

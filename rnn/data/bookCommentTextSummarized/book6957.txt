@@ -1,0 +1,76 @@
+https://www.goodreads.com/book/show/192221.How_to_Solve_It
+However, I have to say it twice, the book is written in a style so instructive that I'm pretty sure just about anybody could benefit from it.
+In my opinion, this is definitely one of those books that every mathematician and everyone using mathematics (or even dealing with difficult problems of non-mathematical nature) should read and even perhaps have one lying around...
+Written in 1945 and referenced in almost every math education text related to problem solving I've ever read, this book is a short exploration of the general heuristic for solving mathematical problems.
+Over the years, different writers have revised these steps (added, taken away, shifted the wording and emphasis) the essential points still hold.In addition, to the overall framework of Polya's heuristic and its generalizable nature, what I really like about this work is the fact that I can revisit it for nuggets of wisdom.
+Polya tries to explain how to become a better 'problem solver', and how to guide others to better solve problems themselves.
+You don't really need to read beyond the first 36 pages (the rest of the book consists of a 'problem solving dictionary', and here's where the redundancy begins).
+One of my favorites: "A bear, starting at point P, walked one mile due south.
+Then he turned again to the left and walked one mile due north, and arrived exactly at the point P he start from.
+I recently finished reading How To Solve It - A New Aspect Of Mathematical Method - by George Polya.Below are key excerpts from this book that I found particularly insightful: A great discovery solves a great problem but there is a grain of discovery in the solution of any problem.
+The hen acted like people who solve their problem muddling: through, trying again and again, and succeeding eventually by some lucky accident without much insight into the reasons for their success.
+The dog who scratched and jumped and barked before turning around solved his problem about as well as we did ours about the two containers.
+How to Solve It is not as much about methods of solving mathematical problems as it is about various approaches to solving problems in general.
+The method he uses to teach problem solving is to apply the approaches to problems of geometry.
+This is actually in line with the ancient greek (Aristotle) opinion that the young should learn geometry first, then when they have learned logic and how to prove things with physical reality, then they can go on to things such as philosophy or politics.The first part of How to Solve It are essays on how to teach and how to approach problems in general.
+This is one of those mathematical "classics" that those of us with a training in math are supposed to love. Fact of the matter is that it is poorly written and pedestrian in nature. If you are seeking insight into how mathematicians think and approach problem-solving, give this one a miss. You'd be far better off to read Hardy's "A Mathematician's Apology" (dated, but still charming), or Ian Stewart's recent "Letters to a Mathematician" (charming and not dated at all).
+This is an important book. Possibly historical in its utility and impact. I'm proud to have this on my shelf and will likely reference it every so often for the rest of my life.
+این کتاب ترجمه کار کلاسیک جرج پولیا: How to solve it هست.به نظرم شاید برای خوانندهای که هنوز چندان با مسئلههای ریاضی کلنجار نرفته خیلی جالب نباشه، اما برای معلمان ریاضی و کسانی به صورت جدیتر درگیر حل مسائل ریاضی هستند کتاب تامل برانگیز و آموزندهای هست که کمک میکنه با دید بازتر راهی که در حل مسائل میرند رو بازبینی کنند و نسبت به فرآیند حل مسئله خودآگاهتر بشند. این خودآگاهی و توصیههای راهیابانه کتاب میتونه به بهتر شدن مهارت حل مسئله افراد کمک کنه.
+این کتاب ترجمه کار کلاسیک جرج پولیا: How to solve it هست.به نظرم شاید برای خواننده‌ای که هنوز چندان با مسئله‌های ریاضی کلنجار نرفته خیلی جالب نباشه، اما برای معلمان ریاضی و کسانی به صورت جدی‌تر درگیر حل مسائل ریاضی هستند کتاب تامل برانگیز و آموزنده‌ای هست که کمک می‌کنه با دید بازتر راهی که در حل مسائل می‌رند رو بازبینی کنند و نسبت به فرآیند حل مسئله خودآگاه‌تر بشند. این خودآگاهی و توصیه‌های راهیابانه کتاب می‌تونه به بهتر شدن مهارت حل مسئله افراد کمک کنه.
+This is a great book.It teaches solving mathematical problems. It is mostly focused on high-school problems, but it is applicable to most types of mathematical problems out there. The author has developed a nice heuristic framework for tackling problems and has done a wonderful job of explaining it. It's not just the methods – exposition is also a great takeaway from this read.On the downside, the book was written in 1945 and sometime it shows. It's more cute than a nuisance, though :)
+Polya lays out the different approaches you can take to solve a problem.
+He primarily uses Euclidean geometry to explain the possible ways to approach different problems.
+This is especially great when you have to analyze a problem that you haven't seen before - where and how to begin?
+He goes through the problem-solving process in detail, beginning with the detailed analysis of the question and then the systematic synthesis of the answer.
+This book really changed how I see math, especially abstract math.
+The problems at the end of the book are challenging but fun when you finally (if at all) figure out what the trick is.
+you know if you should read this and a review on this site will be meaningless
+The first small part of the book is instructive and useful, but the second larger part "Dictionary of Heuristics" is somewhat repetitive, you have to sift through it to find nuggets of new wisdom :)
+Pólya is the teacher I never had. Now you might get scared with the word "Mathematical" in the title - don't be. It is a general guide to how to solve a problem. Starting from establishing the question, gathering the known and to find the unknown. The method you are using to find the minimum distance between two points can also be used to find the most convenient road to your nearest grocery store. This book shows you -"How to Solve it".
+Polya wisely formats word problems, critical thinking problems, and yes mathematical problems that occasionally are intimidating.But one of the big takeaways is that problems are only as hard as they are unresolved.
+But when you decompress a problem into it's bare elements (variables, constants), the problem becomes manageable, even if not easily solvable.Some of the big takeaways for me from this book are the following:1) Always look from the end, trying to solve a problem2) Problem Solving is: data + unknowns + conditions.
+For me, beginning this book, I recalled how as an undergrad tutor for ESL students, our classroom utilized math word problems to bridge what was already an advanced proclivity for many of the Chinese students there - math - into the English language.
+In an American neighborhood where one could live a basically full-life with little knowledge of English, it gave cause for a leap.Here Polya uses words to bridge people into the world of mathematical concept, so often performed solely by numbers and symbols in its mechanics, we do not as often highlight the immense language of meaning signified within any method.
+The author's referencing of, "The slower, dim student", made me laugh out loud in amusing surprise.The text is not long but it took me over a month to read because every couple of pages, I had to stop and digest what I'd read, or write down new thoughts about some problem that I could apply his methods on.
+Even better, the methods he describes are not just relevant to mathematics but are applicable to a wide range of analysis and problem-solving.This is a phenomenal book and I only wish I'd been introduced to it earlier in my life.
+It's one of the best math books I've ever read, and quite possibly the best book on mathematical problem solving ever written.
+There are two copies of it floating around my lab at Berkeley, evidence, i think, that I'm not the only one who appreciates it.Polya was a first rate mathematician, and his book is devoted to explaining simply and usefully how a good mathematician tries to solve math problems.
+I cannot recommend it too highly to anyone who has to deal with mathematical problems (in science, engineering, or the like) on even an occasional basis.
+Hailed as the classic guide to problem solving, this book did quite a good job at categorizing the ways of looking at a problem, and some general methods of solving and treating them.
+I skipped a lot of the examples (I know, I know, I'm still feeling guilty about it!) , regardless I found many good gems in the long stretch of text.
+The creator's paradox, for example, is something I've learned the hard way, but seeing it packed into a concept helped organize my thinking a lot.
+This book was used as a reference in several of the other books I have read, and I understood it to be more of a general methodology of problem solving when I decided to read it.
+This was frustrating as I really wanted to like this book.
+When Polya does focus on the generalized concepts of problem solving, he has wonderful insight.
+Ultimately I failed to find in this book what has made it so successful.
+"The List" is a great problem-solving approach, but that's just the pre-introduction page, and doesn't justify the remaining 253.
+This book may not necessarily make you a better problem solver—that comes only from practice—but it is a useful first step in examining the types of creativity that go into problem-solving. Thus it's almost more a philosophical or psychological work than a how-to guide. The examples are all at middle-school or high-school level; the real point of the book is the enumeration of problem-solving strategies. It may even help you get unstuck when you're overlooking some trick you've used in the past.
+This book is not only for math teachers, but anyone who has problems to solve. It gives very simple and precise suggestion to solve a problem; such as 'understand the problem'. It is obvious but often people forget those principals when they face a hard problem, particularly long time. Reading this book is fun and will be useful once I hit a tough problem to solve.
+TODO:+ Good ideas on how to teach average math students a process for solving problems in mathematics.
+2. Use related work = Finding related (solved) problems and decide on a plan to solve the current problem based prior solutions and/or their principles.
+Process includes a set of (heuristic) strategies to try out as part of the plan.
+Good and reasonable for many domains, but incomplete as a process (e.g., lacking putting into practice, which may actually match some branches of math but not all) and vague in key details (e.g., how to understand the problem?
+how to understand related work beneficially for the problem?
+However, some of the math examples were completely above my level of comprehension, and I had to bribe myself to read through those droll parts to understand what the author was trying to illustrate rather than just skipping.
+I had to read the book twice, because I kept "checking out" after those droll parts, but the second time I read it, the concepts it was trying to teach really started clicking.
+Here are my key take-aways from the book:-First ask if you understand the unknown and ask futher general questions about the data and the conditions.
+2)-Common sense and generality are characteristics of helpful suggestions and questions that one can give to a student.
+Only then, the student will see how he could have connected thoughts that were already present to ask a promising question.
+4)-Induction and mathematical induction: Induction is the process of discovering general laws from observing instances while mathematical induction is used to prove theorems of a certain kind.
+This could be proved using mathematical induction.
+The book is written in an ‘easy to read’ manner, I had thought when I read the introduction that it is made for mathematical teachers only, but when I read further, i understood that it’s made for anyone who can ‘think’ and want to ‘solve’ any sort of problem, this book can be read by people in the mathematics field or anyone who just reads book to kill the time.
+This book, needless to say teaches how to solve any sort of problems, not only pure mathematical but also physical, crossword puzzles or even your life problems.It is also one of my favourite books, better than any math book I read, and it’s a must read for people in STEM fields.
+Nice introduction to heuristics and problem solving techniques.
+The math is very accessible, as it does not require any higher level maths to understand the examples.
+A familiarity with geometry and algebra would suffice.
+The book has historical significance as being a pioneer in attempting to address problem solving techniques in a organized and rigorous way.
+The organization of his techniques is alphabetical by title and Polya does not attempt to offer any over arching structure to his techniques.
+Any such organizing principles would require such a level of over simplification as to not have any usefulness.
+Some of my favorite quotes from the book:The worst may happen if the student embarks upon computations or constructions without having understood the problem.It is foolish to answer a question that you do not understand.Simplex sigillum veri.Human superiority consists in going around an obstacle that cannot be overcome directly, in devising a suitable auxiliary problem when the original problem appears insoluble..Respice finem.And if yuou are inclined to be a pedant and must rely upon some rule learn this one: Always use your own brains first.
+I don't understand why this is considered to be a good book.
+The author seems to have picked a few obvious points and had an endless amount of commentary addressed to them.
+Mathematical examples for some advice were few or nonexistent which made it hard to imagine how he envisioned the reader to apply his advice.
+Some problems in the end practice problems were also worded so poorly that I didn't even understand what some questions were asking.
+For example the problem about the book using 2898 digits, I had initially thought it meant that the last page had 2898 digits to it..
+[5 out of 5] My only regret is that I must return this book to the library. This is one of those rare books I recommend to pretty much anyone who has to deal with problem solving.Not just mathematical problems, though. Polya writes an excellent case for the way we all should approach problems. It's not a formula, rather a scaffolding for thought, strategies for learning and teaching, reflections on successful solving and common pitfalls. If you want to think like a scientist, this is an excellent start, whether you have a science degree/background or not
+

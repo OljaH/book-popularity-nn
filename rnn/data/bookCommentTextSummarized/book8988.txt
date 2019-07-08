@@ -1,0 +1,36 @@
+https://www.goodreads.com/book/show/174467.Word_and_Object
+Got Quine to sign my copy. He wasn't too thrilled to be asked, but he signed it nevertheless.
+Rigorous is a good term to describe 'Word and Object'.
+Essentially all of his claims are unassailable, yet at the end you're not sure if it's at all right - but it will force you to think about the consequences of what he says.
+The book starts off with pure linguistics, moves to philosophy, and ends with semantics (OK, the whole book is semantics).
+If you make it to the later chapters, you might go pages without having any clue what Quine is talking about, only to see some truism you can grab onto that lets you think you're participating.
+Those interested in linguistics and the role of philosophy in interacting with semantics and approaches to translation will get a lot out of Quine, and hopefully understand some of the eccentricities of modern philosophical approaches to semantics and their relation to logic, features of the philosophical landscape that may seem odd given their stark contrast to conventional views in linguistics advanced by Chomsky, and even a number of philosophers (like Montague) later.I recommend the book to those interested in philosophy of language and metaphysics, though the angle on language is especially useful.
+Why does this book read like the drunken prose of a Harvard professor?
+Because it IS the drunken prose of a Harvard professor.
+Reading this book, I have little doubt it started just after he read Chomsky for the first time; and this book is, I'm sure you've heard, something like a response to Chomsky.
+Well, even if he DID, he COULDN'T have: for observe, MEANING DOESN'T EXIST (if, that is, you start from empiricist premises - uh, you didn't need to tell us that professor!).
+And, you know, Satan, I hear, is a meaning nihilist too.
+I know that this is supposed to be a classic of analytic philosophy, but two things about the book really irked me.
+1) The practice of so-called "radical translation," while interesting takes as a model of science a sort of laboratory condition that not only does not match actual linguistic anthropology (something Quine would no doubt grant) but cannot in principle match any anthropological practice and 2) even if one leaves aside the tremendously huge behavioristic assumptions of his account of the ontogenesis of language, one still has to grapple with the fact that Quine makes a huge leap from giving a description of how he takes it that language use has to arise to a normative account of the logical structure of language.
+Essential for anyone interested in philosophy of language or even more broadly analytic philosophy. I'm not sure I fully buy into Quine's idea of current language as consisting of the subject's current dispositions to respond verbally to current stimulation. I think it has to account for more than just that. It's a great book, but I'm much more inclined to some combination of a Lewisian and Wittgensteinian view of language.
+A philosopher's philosopher, not for the meek. A cure for the common metaphysicians among us.
+Everything is this book is *fire emoji*, except for Quine's argument against modality which is uncharacteristically awful.
+However, he is highly motivated to have some sort of argument, because trying to find a naturalistic explanation (in keeping with the spirit of the rest of the book) of what makes statements about necessity and possibility meaningful is very difficult.This book is hard work, and unless you are already familiar with the contours of debate in philosophy of language a lot of it will seem very banal.
+The only Quine I read at uni was Two Dogmas of Empiricism, and I would have definitely benefited a lot from reading this at that time.
+But not one for the casual reader.
+Please don't read this without supervision. It was kind of cool though, and really interesting, even though I don't agree with his pragmatist assumptions. Hopefully, in some time I'll actually understand everything (or most of it, I mean).
+Very good just very dense
+Quine builds up what it means to learn language and communicate from a behavioralist perspective, yet still relates it to logic.
+There are a lot of issues that are brought up that might kind of seem overdone if the reader is not familiar with related research (mainly logic and the philosophy of language).
+Even though these issues seem overdone, it is actually useful to think about these things if you are dealing with computational linguistics or natural language processing because with computers you need to be exhaustive/thorough/rigorous about all the assumptions and specifications.
+Though one may find oneself disagreeing with many of Quine's positions, one cannot fail to appreciate the accomplishment here. Not only is Quine a clear and clever writer, he also provides a compelling, systematic, and beautiful understanding of understanding the relationship between the way we talk about things and the way things really are. Where this relationship is tenuous, Quine artfully maneuvers his way through the thicket.
+Exceedingly well-written as much as it is exceedingly difficult. Pre-requisites are the philosophical questions on language, meaning, proposition, analytics, epistemology and necessity. Not a book to be simply read, but returned and studied in detail. Without the pre-requisites and hard work, this book will pose a great challenge to the layman reader, as myself.
+Quine analyzes the referential mechanisms of English. Along the way he introduces the notion of "radical translation", the attempt to translate a wholly unknown language into a known one, concluding that it is, in general, not possible.
+This is a key book in Anglo/American philosophy in the mid twentieth century. It's written for those who are philosophically literate, students and others in the field. Quine was an original and very interesting voice with an amazing intellect.
+Quine's most important philosophical work
+Gavagai!
+Excellent work!
+Still savouring the interanimation of sentences, the stimulus meaning the way a child might learn to speak through reinforcement tbc
+chapters 1 and 2.
+Excellent prose on a devilishly complicated subject. Philosophy at its finest.
+Very difficult book, but worth the effort. Widely considered Quine's magnum opus for good reason.

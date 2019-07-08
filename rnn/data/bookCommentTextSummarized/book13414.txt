@@ -1,0 +1,46 @@
+https://www.goodreads.com/book/show/112251.The_C_Programming_Language
+If you're into stuff like this, you can read the full review.Zero-overhead Abstraction: "The C++ Programming Language" by Bjarne Stroustrup(Original Review, 2001)Back in the day, I started programming AMOS on Commodore Amiga500.
+It was almost exactly like QBasic, but was able to do more powerful graphics and sound in an easier way, though still extremely similar.
+And then I started programming QBasic on a 200Mhz PC, still being focused on trying to get as much power as possible in my programs.
+Better to make sure it doesn't happen, rather than to check if it did happen, by being smart about it.
+It's a sign of how tricky language design is -- Stroustrop was essentially forced to add some rather byzantine constructs over time to patch up non-obvious holes in the language that only emerged as it was more widely adopted.
+It is not organized in a way to either teach the language or be a useful reference book to keep on your desk.
+But what did really interest me, as I read it, are Stroustrop's thoughts on language design, objectives, and his justifications for why certain language features were introduced.
+A Reference Manual for a Useful Computer Language14 March 2016 Honestly, I'm not really sure why I ended up reading this book. Okay, part of it may have something to do with my interest in getting back into computer programming but considering that the only programming language I have ever used is BASIC (though you could also throw in Neverwinter Nights, namely because they did have a pretty sophisticated editing suite which allowed me an enormous amount of freedom when I spent three years of my
+Still, I had mentioned it to my Dad and he leant me this book, suggesting that while I wouldn't be able to use it to actually learn the language (there are websites for that), it would give me an idea of how computer languages work.
+It was also interesting to learn that Stroustrup developed the language while working at Bell Technologies (the telephone company), though this wasn't outlined in the book.
+As I have indicated, C++ isn't a language for beginners, and this certainly isn't the type of book that one would read to actually learn how to code in the language.
+Honestly, I kind of detest C++ as a language - too easy to write shitty code, too easy to lose pointers and leak memory, and it was kind of a hack to force object oriented programming onto C. All that being said, this is the C++ Bible by Stroustrup and had a vast impact on computing in the 90s and 2000s before Java and its many children and inspired cousins took over. Highly readable (for a geek computer language book), it is a nerd classic.
+This shall not be your first book on C++. It is a heavy book and explains many design decisions for the language. If you want to master C++, this is a must read.
+I tried to read it front-to-back, and it ended up taking me over a year to do it (including lots of downtime and time off due to information overload).
+I suggest reading the first chapters in order and then hitting the rest of them piecemeal as you run into something relevant in your life.That said, this book was incredible.
+All the rest of my textbooks should have been thrown out and replaced with this one instead.
+Bjarne's examples were that rare combination of both clear and informative, and his prose was the same.Reading this, I kept asking myself why the hell my textbooks had been so complicated.
+This book did the opposite.
+This book surely needs a sound background in programming ( at least the conceptual side) and also needs a curious attitude of finding out the information which might not be directly useful but gives you a tequila-kick when u read.
+Its confusing for you to interpret if I am actually recommending this book or the other ones by writing this review, but my whole point is to bring out the fact that if you read this book directly, you sure are going to understand most of the things but You will take many things for granted which are of great importance+must know and worth "time spent on" .
+
+A great book about an awful language.
+poor plot development
+The best C++ reference, as always. Not a fan of the way in whichever the language is being reshaped.
+This is the authoritative reference on the C++ programming language. This book works best as a reference. Do not try to learn the C++ language from this book; its dense reference-filled text is too difficult to decipher for the beginner. However, I have found it to be very useful as a reference. For example, while designing and programming a set of complex generic templates, this book helped me untangle a series of mysterious compiler errors.
+One of the lessons that has stuck with me from Strunk and White's Elements of Style is Rule #17: Omit Needless Words.Bjarne Stroustup does not.Consequently, it makes a challenging task -- trying to learn and understand the complexities and nuances of C++ -- even harder. If you're writing C++, this book probably belongs on your shelf. But you should learn from and refer to better books.
+This book has the basics of C++ at the beginning, though it may not be the best book to read if you are a novice programmer. There are many insights into advanced concepts in C++ (e.g. this has the best section on how to use templates and the STL algorithms that I've seen in print). A great reference for professionals to have on their shelf.
+A colleague was quite scornful when I revealed I did not own the 3rd edition of this book. The first two editions are wonderful guides to the language. This edition mostly adds pages of Stroustrup's opinions as to what constitutes good programming practices. Though they are obviously of interest, I find that they are often too general to be useful and occasionally are self-contradictory.
+Do not try to learn C++ from this book. But get a copy and read it through when you have the basics down. Valuable advice is hidden throughout the book.
+This book is a holy book for C++ programmers
+
+This book is the reference on this programming language.
+Part of why the earlier book was so thin was that the language itself was rather small and depended on libraries to implement a lot of the more complex functionality.
+This language has a lot more built in and THEN you have some pretty significant libraries on top of that.Probably not a good idea to attempt reading this cover-to-cover but, if you develop in this language, this is THE reference to have on your desk.
+So far this book is sterling -- all the incredible detail I could ever need about the minutae of C++ coding & compiling. I'm delighted as I wanted a refresher that wasn't a patronising tutorial, and this suits me fine! Not only what I wanted, but tonnes of detail I never even knew I wanted.It's nice to see a book focused on teaching a programming language, rather than one that tries to teach you programming, too. I think these are very different concepts & should have different books, and this does that.Love it.
+Well-structured, well-written. And the best part of it is that it was written by C++ creator
+This is the definitive book on the C++ programming language written by the man Bjarne Stroustrup himself. While those who are unfamiliar with C++ should avoid it, experienced C++ programmers will find that it can perfect their abilities. Nearly every intricacy and trick of the language is discussed. In fact, the only thing I've been unable to find is whether or not friendships inherit between classes - a rather obscure piece of C++ lore (they don't).
+Revisiting some of the newer stuff in C++ since I've been away a few years doing mostly Java. I was hesitant to get this book because it I thought it would be more of a reference like his earlier books and he is the inventor of the language. To my surprise, this is a very well rounded book. Highly recommended.
+The original and best book that covers the design and syntax of the C++ programming language - still the language for 'real' programmers, who like their programs to be hard to write and harder to understand.
+It changed the way I started coding and brought me down to real life style which is admired and respected by communities around the world.
+This is a fantastic C++ book. I picked this up only shortly before I stopped coding in C++ and I wish I'd had it much earlier.
+This book is not a good read but very useful when looking for specifics in syntax or methodology. A great technical reference (especially for compiler design) but not a good tutorial by any stretch.
+If you must use C++, this book is certainly recommended.
+The basic of the basics.. if you are serious about programming, you should read this
+Required reading and reference for every C++ developer

@@ -1,0 +1,64 @@
+https://www.goodreads.com/book/show/108986.Introduction_to_Algorithms
+A few require some mental Ah Ha moments.It fails at being a reference bookIt tries to be a text book (didactic) but it is too verbose and goes into too much depth on every topic along the way to be a useful guide.
+A possibly more useful organization would have been to have 2 virtual books, the first a much shorter textbook, the second an algorithm reference.It fails at being a text bookIt tries to be a workbook by presenting many exercises to the reader.
+An essential book for every programmer, you can't read this kind of book on bus, you need to fully constraint while reading it.
+The book in itself is an outstanding one, very organized, focused and small chapters makes it easier to understand the algorithms inside it.It contains the essential and most popular algorithms, so you can't live wthout it if you are real programmer.You can skip chapters/read about an algorithm you want to understand more, as if there is a previous idea/algorithm the authors directly mention that with chapter's number so you can go directly to it for more information.
+While searching for a Bible of algorithms, I of course quickly gravitated towards Knuth's Art of Computer Programming series.
+All, on the other hand, universally praised Introduction to Algorithms.
+While my exposure to Knuth's work is still minimal, I can certainly echo the praise for Intro.Intro's language is academic, but understandable.
+If one were to put Knuth's work on the "unreadable" extreme and O'Reilly's popular 
+series on the opposite extreme, Intro would fall somewhere in the middle, leaning towards Knuth.Intro very smartly uses pseudocode that doesn't attempt to resemble any popular programming language (with its own idiosyncratic syntax and responsibilities).
+This habit wouldn't be so obnoxious, save that several (although, admittedly, rare) "inline modifications of declaration" seem to require modifications of definition which would subsequently invalidate previous running-time or -space guarantees.
+I know the authors have released an updated edition; I do not yet own it, and could contrast with assurance only the two editions' coverage of string-matching algorithms.That minor nit having been aired, CLR1 belongs in undergraduate curricula and on pros' bookshelves.
+I'd like some algorithms from modern machine learning theory (SVM's, etc) and also multi-string / fuzzy-string matching, but those are admittedly advanced topics.It's no Knuth, but it ain't bad.
+Well, technically I didn't finish reading all the chapters in the book, but at least I've read most of it. The topics in the book is well explained with concise example. But sometimes, I need to find out the explanation by myself, things that I found interesting but sometimes frustrating. If I run into this situation, sometimes I need to find another reference to help me understand the problem. But still, this is a good book.
+
+The focus is on design rather than implementation.While a solid background in advanced mathematics and probability theory is needed to fully appreciate the material, non-programmers and IT professionals (such as this reviewer) will appreciate the numerous tips provided for improving the efficiency and thus reducing the cost of developing applications.Any Computer Science student would find this text an essential resource, even if not specifically required for course work.
+However, the advanced mathematical principles needed to grasp the material are presented as exercises, intended to be worked through in class, so no solutions are provided, which may frustrate self-studiers and limit its utility as a reference.
+I've been reading CLRS on and off for years. I read bits at a time and have been picking and choosing chapters to read and reread. I must say that without a doubt this is the best textbook I have ever read. I could not recommend it anymore for anyone that wishes to learn about data structures and algorithms well. The authors never skimp on the math and that's my favorite part of this book. Almost every idea that is presented is proven with a thorough proof. All of the pseudocode is completely golden and thoroughly tested. Read this, seriously.
+I would instead recommend Robert Sedgewick's book or course on Coursera.The problem with this comes down to the fact that is focuses too much on the mathematical details, while ignoring other interesting aspects.
+Even when covering important algorithms, the book glosses over important details.When it comes to implementing algorithms, I find the pseudo-code in this book much more complicated than it needs to be.
+The Red-Black trees implementation and explanation is much more complicated than the simpler approach described in Sedgewick's material.Overall, this book does have its merits.
+Once you've learned basic algorithms from another source, you can come back to this book to understand the underlying mathematical proofs.
+Like so many other math-oriented textbooks, there is literally not one damn thing in the book that is not teachable but the teaching moments are all lost in math gymnastics, over-explaining, under-explaining, etc.
+Please, just once, let someone with the teaching talent of Sal Khan (of Khan Academy) write a textbook about math.
+This will never happen because academic math people are writing the books.
+Know who would be a perfect algorithms textbook author?
+Someone that has to struggle through learning the subject matter just like a student.
+I'd buy that author's book.
+Some people just really enjoy typing, I guess. Not so much communicating, though: I was already pretty familiar with almost all of the algorithms and data structures discussed (the bit on computational geometry was the only thing that was completely new), but I can honestly say that if Introduction to Algorithms had been my first textbook, I wouldn't be.(Also, I wish editors would stop writers when they try to use 1-indexed arrays in their books. Or, for that matter, pseudocode in general. Machine-interpretable, human-readable high-level languages aren't a new concept.)
+The textbook on algorithms. It does not do a very good job of teaching how to design algorithms, but it is an authoritative catalog of algorithms for a wide variety of situations.
+This is an excellent book for software engineers and students of computer science and engineering who want to have a good understanding of algorithms.
+It has ben 14 years since I touched a math-oriented theoretical work like this, and that hurt a lot while slogging through this textbook.
+After graduating a lot of the software engineering skills you pick up are geared towards practicality.
+Sadly, trying to understand it's lemma's with the help of the appendices is not doable as they are even heavier than the things they try to explain.
+If you're not studying CS or you have but it was a long time ago, there might be better things to read.
+Good book
+Dazu kommt noch, dass das Buch alle Themen sehr verständlich behandelt, aber trotzdem sehr viel tiefer geht, als ich es gebraucht hätte.
+Jedes Kapitel wird durch hervorragende Übungsaufgaben ergänzt, die bei den Hausaufgaben und der Klausurvorbereitung eine große Hilfe waren.Insgesamt kann ich das Buch nur empfehlen.
+Nur zwei Wermutstropfen dämpfen das Vergnügen: Es ist selbst gebraucht so teuer, dass man sich einmal mehr mit der Bibliothek der Uni behelfen muss.
+Wie bereits erwähnt stört das aber nicht wirklich.Fazit: Großartiges Nachschlagwerk, jeden der sich mit Algorithmen beschäftigen möchte oder muss, sehr zu empfehlen
+The book gives a solid foundation of common non-trivial algorithms and data structures.
+It all comes with nice pseudocode, detailed walk-throughs and complexity analysis (along with worst case, average case and amortized complexity).Personally I'd prefer to see the material in much more compact form, covering more of topics and more advanced or tricky algorithms and data structures.
+However, when something isn't clear, the detailed walk-throughs really help.
+If you aren't already familiar with the content from other sources, it's really worth investing a couple of years in it: read the book, try everything out with your favorite programming language and do exercises.
+This is one of the worst college books I have ever used. The examples in the book are severely lacking the needed information to answer the questions in which you are forced to use outside resources aka other Data Structure books to find the info to solve their problems. It is amazing that this is an MIT book because it DOES NOT MEET THEIR STANDARD. The book is unorganized and bounces around like the authors have ADHD. The text is covering an extremely abstract computer algorithm theories and fails to provided the needed information to support understanding of the material.
+This books is amazing.
+It's a bit hard for beginners, but then again, it's one of those books which you always have to come back to.
+Each time you come back, you learn something new.
+The exercises themselves have tons of stuff hidden in them.
+You need to be patient and learn slowly.
+Don't try to gobble everything up.If you let go of your fear, and actually make an effort to learn something from it, you can learn loads.
+I learned Network Flow algorithm by reading this book.
+It took me few days, but I did manage to learn the algorithm myself by reading just this book.
+A book that one should definitely read once in the computer science career. It gives a mathematical and in depth look at how to understand algorithms and data structures, their time and space complexities and its proofs.It could be a little hard, complex and lengthy for those who don't like in depth mathematics or those who just want to understand the DS and Algo at application level.It is a classic and available for free so one should definitely read it.
+This is the definitive book on algorithms.
+One of the best algorithm textbooks out there. Always my go-to book for algorithm reference.
+This is undoubtedly one of the most famous CS books out there. It deserves its reputation; it has a great scope of topics, a lot of fantastic algorithms, a good structure that gives whatever is necessary before any subject etc. However, the book, in some points, fails to provide the reader with sufficient intuition on the procedure. Also in some places, there is unnecessary detailed work. Anyways, reading/studying this book one can master algorithms which are very essential for Computer Science.
+Before there were computers, there were algorithms  On hold! I finished my first course on Algorithms with some chapters of this book, but as my first introduction to analyzing algorithms it wasn't that good or clear. I hope next semester I can go back with more background and study it properly, because it does have some good insights! I especially liked that it explained complex ideas, because every one that's starting in the world of algorithms needs to familiarize asap with these concepts!
+CLRS is without doubt one of the best book when learning about Algorithms, sometimes called as the "bible" of algorithm. However, while it is more of a reference book with very lengthy pages, it lacks some in-depth explanation on certain parts. I guess that's fine because it is indeed an "introductory" book.
+Don’t just read the book as a book, use it as a reference, i know it is easier said than done, apart from the formal theorems and proofs do give it a try to solve the problems, and actually implement tue algorithms, the only part i did not like is how they have explained is the matrix chain multiplication
+Very detailed textbook, provided good examples of complexity, psuedocode for each algorithm.
+Clear and precise.
+it changed my life
+great book for learning algorithms.

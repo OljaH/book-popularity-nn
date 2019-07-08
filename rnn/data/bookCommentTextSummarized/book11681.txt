@@ -1,0 +1,82 @@
+https://www.goodreads.com/book/show/13629.The_Mythical_Man_Month
+In this classic book on the software development process, Fred Brooks demolishes several persistent myths.
+The first and most dangerous of these myths is the belief that putting more people on a project means it'll be completed more quickly.
+Brooks includes one of the most brilliant graphs I've ever seen, plotting number of women against time required to produce a baby.
+Would you believe it: the graph is flat at nine months, irrespective of how many women are assigned to the project.
+As he points out, software development is often remarkably similar.If you're a young software developer and were at all surprised by the above, you should get hold of a copy of Brooks without delay.
+
+I don't mean to sound like the grumpy reader mentioned in the epilogue, complaining that the book offered "nothing I didn't know already know" (however experienced he might have been, I still doubt it), but whether from my limited experience in the industry first hand or second-hand through the various managers I've had over the years, the tenet that developers and time aren't interchangeable resources felt both familiar and self-evident.
+Except blatant sexism* it was a pretty good book.
+It's a little outdated, e.g. we don't have printed manuals anymore and we don't have to deal with the woes of constantly updating them, but a lot of wisdoms from this book are still valuable.
+* the entire book never uses a female pronoun.
+plus there's this:'A team of two,  with one leader , is often the best use of minds.
+[Note God's plan for marriage.]' Did you really have to include your conservative outdated patriarchal views in a non-fiction book about computer science?
+I want to print many copies of this book.I want to print many copies and roll them up.I want to roll them up and take them to meetings with my clients. I want to take them to meetings and hit them over the head repeatedly while screaming "more... than... 30... years... and you... still... don't... understand... anything... stop... making... me... write... bad... software...!"Seriously.
+Brooks chronicles the problems of maintaining such a manual, and how switching to a microfiche manual helped in some ways, but hindered in others.Chapter 10 talks about important documents for a software organization.
+This is taken for granted in the modern work-place as every company at least knows of the importance.Chapter 14 similarly explains the importance of milestones, or major goals with clearly discernible and verifiable endpoints.
+But peering into the future, Brooks sees this becoming obsolete, admitting that newer languages of the time, like Ada, allowed for code to be almost human readable.
+Заказчикам тоже не помешает узнать как все выглядит на самом деле.The Mythical Man-Month это кладезь, хорошо изложеных замечаний, идей, рекомендаций и еще масса прочего полезного материала.
+100 процентов идей Брукса актуальны сегодня!!!В Израильслих стартапх эта книга хорошо известна, а выражение "Silver Bullet" стало нарицательным и его знают даже те, кто не прочел книгу Брукса)))Вот пример: парадигма Брукса  говорит о том, что oбмануть жизнь не удасться (звучит знакомо, а для некоторых и грустно) Т.е.
+Для тех кто в танке поясню на таком примере: вас не спасет замена С++ на JAVA-JAVA/C#, вам не поможет покупка супер-пупер крутого CMS, даже недавно нанятый варяг-супер-программер не вытащит ваш проект.Silver Bullet это миф, который активно поддерживается/культивируется менеджерами-растяпами или рвачами, охочими до дармовых средст/баджетов.
+The two most popular are "no silver bullets" and "adding developers to a late project makes it later." The former is that no new technology/technique will make an order of magnitude difference in productivity over 10 years ago.
+The ramp up cost of adding new developers exceeds the value they will deliver within a reasonable amount of time.There are also less referenced lessons to be gleaned from the book.
+The Cathedrals that fell victim to egotistical architects in the middle or later stages of construction are less aesthetically consistent and therefore appealing than those in which the original style was respected.Brooks also recommends keeping two independent career tracks for developers.
+I was underwhelmed with how badly this text has aged. The references, which made sense 15 years ago, no longer hold water, and the most-referenced-project is certainly no longer the way we write software nowadays. While the idea remains valid, I think people writing about this text are more relevant than the text itself, holding only historical value, at most.
+I re-read this recently after recommending it to a colleague, mainly just for nostalgia and planning to read a few of the more popular essays, like "The Tar Pit." Instead I read the entire book again and still found it fresh and insightful, over 40 years since publication.
+Now as I read contemporary writing (blogs but even books), I deeply lament this lost art.Aside from his bold statements, most famously Brooks' Law, that have been cited to the point of cliche, what struck me most this time around is how much his enthusiasm for building systems and leading teams comes through.
+A great book to read with your team to share war stories.
+(chỉ rõ Man-Month là mythical, thì hệ quả tất yếu là mệnh đề này)Đặc điểm dở nhất của cuốn sách có lẽ là nó đã lùi hơi xa vào quá khứ, khi mà nền công nghệ thông tin khác khá xa so với ngày nay, những vấn đề kĩ thuật cụ thể có thể đã không còn gần gũi với bạn đọc của thế kỉ XXI.
+For instance, Brooks writes about (1) creating paper manuals with documentation about the system that get updated daily for the engineers, (2) strategies for time-allocation on centralized computers, and (3) about optimizing for compiled code size.
+Those simply aren't problems anymore outside of niche applications.Additionally, Brooks' main thesis about man-months is most often misquoted and misunderstood.
+The details of that aphorism are incredibly important, but always forgotten.It would be nice to see a new, updated book on this topic that includes actual data and measures concepts from this century.
+Interesting book with a pretty narrow focus, a collection of essays on the management and planning of good software engineering.
+There is no silver bullet - software is inherently complex and there will never be a single technology which makes it fast/easy/cheap/error-free.A large portion of the knowledge contained is more useful large companies or large projects, where you have 100 to a 1000 programmers working at the same time, so for me as a lonely bioinformatician toiling on my own code not everything is applicable.
+But if I look through failed projects at, for example, Kickstarter, I realize that they often just repeat mistakes people already solved in the 70s.
+I can't say the same thing about the Mythical Man Month.
+However much of his advice fell flat in the face of the more recent agile development movement and still more recent devops movement.
+The Mythical Man Month ultimately fell flat in my estimation, though I can understand why at one point it was a highly lauded book.
+It would be better I think if someone pulled out the true bits of wisdom from Mythical Man Month and wrote a new book that took into account the state of the art, and had a tone that was less self-laudatory.
+
+04/23/11Dr. Brooks is the founder of our department, more than enough reason to read his book.The recent extension to our department building was named after Dr. Brooks. Apparently the money for the building came as an anonymous donation from an alumnus, on the condition that it be named after Dr. Brooks. That is the kind of respect he has won from several people.
+* Estimating software project completion time is really hard.
+This causes poor estimation.* If a project is delayed - rescheduling or reducing scope is recommended.
+Pay strict attention to even the slightest delays, Projects get delayed one day at a time.* Hard part of building software is: specification, design, & testing* Creative activity has three steps: 1.
+Interativity with users in real uses* "Conceptual integrity of the prodcut as percerived by user is the most important factor in ease of use"* Use keyboard shortcuts to design for power users and novices* "People with more time take more time"* Recommeded books: Peoplware: Productie Project teams, and Small is Beautiful
+Fascinating series of essays about building software and managing teams.
+Some bits really resonated, especially about the craft of software engineering.
+He also had the most apt description of what it feels like to actually write code, and the differences between the essential work of building software and the "accidental" work imposed by poor tools, process, and the quirks of computers.
+Every pronoun was "he," except for the occasional references to secretaries and nurses, who of course are women.
+In addition, the book makes oblique references (a few) to women's place in the home.
+This is a master piece of software engineering.
+Many people have read this one because this one is an extremely approachable account.
+Since then, I have heard many people talk and swear by this book.
+I have one gripe against the readers and people who talk about this.
+They use this book to support their stances and most often these people do not possess the kind of expertise and experience which Fred Brooks possessed.
+I hope we all read this as entertaining account and try to get some insights in the process of software development.
+Everybody should read this book, not just programmers or project managers.
+It's easy and fun.
+There are 9 chapters, but you only need to read 3 of them.
+You'll know which ones.
+When he starts slinging equations, skip over those parts.
+He uses cooking metaphors where most software books use building construction metaphors.
+The unconscious gender bias, typical of the time, is almost funny.
+He keeps saying how many "men" does it take to do a project.I'm frequently surprised at how many software professionals have never read this book, never heard of Brook's Law or Second System Syndrome (and suffer for it).
+I have read it as part of my PhD, since it's part of the classical books of software engineering.
+Yet the book tackles very important issues not only about management but how people interact during software development.
+I've recognised myself in many situations described by the author (even that I'm not part of a software development team).One might wonder, as I did, how many of the concepts explained by the author apply to current technology of the 21st century, but the author tackles that in the last chapters.
+However, almost everything applies, because the book focus are the general lessons that never get outdated.
+Originally written in 1975, prior to the PC explosion in the mid-1980s, Brooks book is still relevant today. The same systems management "rules-of-thumb" and potential pitfalls still exist in largely the same form. Many of his bigger lessons expand beyond just software development and apply to program management as a whole. A must read for anyone in that develops complex systems.
+Even for an inexperienced undergraduate student like me, this book made a lasting impression and left me pondering on the various human dynamics involved in software engineering. Definitely a must-read.Warning: It does get a little dry at times, and most of the examples are very outdated,but the principles explained are timeless.
+I just leave my rating at here and dont say anyfuckinthing.
+So much of this book is quaint. The descriptions of documentation that needs to be printed out to be shared, computer systems that can barely run the programs that are being built...with all of the technical advances, you’d think we’d be further along in our understanding of how to build this stuff. O the contrary, teams still fall subject to the same issues that are described and the advice given is just as applicable.
+Most of the general ideas listed by the author are interesting, but he's focusing on very large teams (developing operating systems, compilers etc) working with now very outdated technology, solving very different set of problems.
+2/5.Second part of the book is a summary of the original book and reflections of the author after 20 years.
+This was much easier to read since thoughts from 1995 are more relatable.
+After getting 20 years worth of feedback, Brooks also changed some of his opinions on matters described in original book, which was nice to read from a historical perspective.
+Obviously, this is a classic. However, it's so much a classic, that I think most of its ideas have already entered into modern software engineering practices. I ended up skimming a lot of this.
+Read it a long time ago and it really should be required reading for all eng-managers and pms.
+As true in 2018 as it was in 1976.
+As the chapter puts it, "As soon as one freezes a design, it becomes obsolete in terms of its concepts." Yet, as it goes on to observe, "The obsolescence of an implementation must be measured against other existing implementations, not against unrealized concepts" (p.
+Here, the author explains that most programming projects have gone awry because of unrealistic scheduling.
+He also highlights the fallacy of thinking that adding more programmers to a team will decrease the amount of time needed to complete a project: "Adding more men then lengthens, not shortens, the schedule" (p.
+In this chapter, the author suggests a composition for a programming team.

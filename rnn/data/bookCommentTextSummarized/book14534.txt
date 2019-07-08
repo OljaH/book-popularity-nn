@@ -1,0 +1,87 @@
+https://www.goodreads.com/book/show/150731.Alan_Turing
+Alan Turing 23 June, 1912 - 7 June, 1954Proximate Cause & Goodness of FitI'm not too proud to admit that the impetus for my picking up this biography was a trailer for the upcoming film on  Alan Turing  and his involvement with cracking the Enigma code during WWII (  The Imitation Game  ). However, if you are interested exclusively (or even primarily) in the cryptanalytic exploits of Turing et al. at  Bletchley Park  then this is probably not — repeat  not  the Turing book for you.While   An
+However, though Hodges is clear that this was not an easy life, it seems that it was much easier in the context of King's College.Decidability, Computability & the EntscheidungsproblemIt is because of my own descriptive shortcomings that I won't be saying much about the content of the foundational problems (and paradoxes) in math and logic being asked and addressed by Turing and his contemporaries in the 1920s and 1930s.
+So, when Turing turned down a position at Princeton, and went back to Cambridge in 1938, his experiences stateside came in handy.The Enigma & Bletchley ParkPrior to Britain's declaration of war, Alan Turing was (surprisingly) the first and only mathematician recruited to work at the super secret 
+So it was time to tackle this volume and I chose to tackle it by audiobook.Firstly I want to cover the book and it's difference to the movie, because looking at the words on the print cover, "The Book That Inspired the Film 'The Imitation Game'", it leads you to a sense that a biopic from a biography should be fairly accurate.
+The large sections on mathematical logic I did follow the gist of somewhat, helped along by my greater understanding of maths than the average person.
+Large sections of this book would only be completely understandable by people with degrees in mathematics.
+This was a fascinating book. I'm not really recommending it because I thought it was overly complicated and I'm not sure that a lot of people will want to spend half of their reading time on Wikipedia the way I did. I only understood about a quarter of the many, many mathematical concepts that were discussed, at exhausting length, in the book. Still, I'm glad to know more about the man who contributed so much to computer science. He had a fascinating, tragic life. Great book, but be prepared for some headaches.
+Although this is not something that Hodges speculates about, Turing did indeed feel his own life was something of a imitation game.He was most famous of course for his brilliant work at Bletchley during WW2 in cracking the Enigma codes, and Hodges places him very well at the centre of the decryption effort – but at the same time on the periphery, surprisingly, of the actual development of the Colossus which was the actual precursor of the computer.
+If math had been taught this way in my schools, I would have enjoyed it a lot more.
+I even read some of the maths bits to my husband!As to Turing's life, I very much enjoyed reading about that, too.
+The way his mind works just took my breath away.
+I found myself going back over paragraphs, just to make certain I would always remember his ideas, and the way he expressed them.The book covers his entire life ...
+If you're not 'into' math, you can skim those parts, and still enjoy the rest of Alan's interesting life.5 Stars = It made a significant impact on my heart, and/or mind.
+That's certainly cleared up a lot of the questions I had following the film.
+The film paints him in a dangerously stereotypical way, as the lone genius, unable to work well with others and with little care for his fellow humans.
+It would seem the Turing was a well-liked person, albeit one who didn't care very much what people thought of him, especially concerning his sexuality.
+Although we still have a long way to go, it's certainly interesting to see how much attitudes have changed.
+For me the human story was what kept me reading.
+(view spoiler)[Bettie's BooksThe shelving, status updates and star rating constitute how I felt about this book. (hide spoiler)]
+I watched The Imitation Game last week and I was left in awe, and slightly ashamed of myself for not knowing the contribution of Alan Turing to the war efforts and the advent of the computer age. After the film i bought this book and a few others in order to get to know more about the brilliant man and the code-breaking that went on during WW2. This is an extremely well-written and detailed book, and while a little heavy of the maths side there is nothing not to be expected from a biography about a genius mathematician.
+I feel that some digressions into the politics at his boarding school, for example, weren't worth diving into to explain the effect it had on his presence there.
+Very full picture of Turing's life, public and private (and it was mostly private), from troubles as a schoolboy, his sexuality, his codebreaking during WWII, groundbreaking work toward modern computing, and his eventual academic fading, conviction for 'indecency' and sudden suicide.Few minor bugs, not really worth noting, though surprised they haven't been removed in subsequent editions (book was published in the eighties, right?)
+I didn't immediately realise how long and thorough it would be, though I knew I was venturing into a topic I knew very little about.Here's the thing -- the parts of this biography that deal with Alan Turing's personal life are EXTREMELY interesting and well researched.
+I know they were absolutely relevant, but they got so technical that someone like me, with very little ability in math or computer sciences, couldn't make heads nor tails of what was being talked about.That being said, the story of Alan Turing's life was interesting enough that I kept going through all 30+ hours of the audiobook and I *really* enjoyed the parts that I could understand.
+A movie was made based on this book - The Imitation Game (2014) with Benedict Cumberbatch, Keira Knightley, Matthew Goode.
+Una biografia sicuramente esaustiva e particolareggiata, ma che tende a esaurire un po’ il lettore, almeno quello che, come me, non è ferratissimo in campo scientifico, e che penalizza in parte l’effettivo emergere della personalità di Alan Turing, che fino alla fine, comprese le motivazioni del suo suicidio, resta un enigma.
+D’altro canto, come ben chiarisce l’autore nella sua nota finale, il materiale a disposizione è relativamente scarso.
+Questo, unito all’indubbia riservatezza e ritrosia che caratterizzava il matematico inglese, non consente forse di potersi spingere oltre nel tentativo di comprenderne le ragioni.Resta, comunque, una lettura molto interessante, anche per quanto riguarda il panorama storico in cui si colloca.
+HOWEVER, I used my mathematics to write computer programs (and deserted that after a few years) whereas Alan Turing invented computers and computer programming.
+In short Alan Turing was a genius and I am not.I read this book partly motivated by a desire to learn more about Turing to help me understand more of Will Eaves’ book Murmur, but also because Turing has long been a hero of mine so it was a perfect opportunity to find out more.
+You have been warned!The second reason this is a difficult book to read relates to another fundamental difference between me and Alan Turing.
+Good stories can tell themselves so why does Hodges have to butt in all the time with his clumsy attempts to link everything in Alan's life to childhood stories and experiences?
+Less would have been more.Having got my irritation out of the way - and I was at times very irritated reading this book - I take my hat off to Hodges when it comes to explaining the mathematics and other technical stuff.
+With a good and ruthless editor this could have been the great book Turing deserves.
+Always awkward; always shy in social situations, he grew to be "a man with a quite powerful build, yet with with the movements of an ' undergraduate' or a 'boy', without an attractive face.A scholarship boy to a "public (i.e., private) school", Turing suffered the humiliations familiar (since Arnold's day) to any boy who was a loner and terrible at team sports.
+Alan was rewarded by a Kings Fellowship and a one-year Fellowship at Princeton (amidst the great and the greater, yet, on the whole, Alan was too shy to interact with Einstein, or any of the others -- neither public school, nor Cambridge nor Princeton deflected Alan from being "a confirmed solitary."How much this has to do with being a homosexual is unknown--Turing was remarkably frank about disclosing that fact to his friends.
+And to those who understand, I tend to say that Alan Turing would have been a much happier and more productive person had he been born a Buddhist in a Buddhist culture.
+I wish Hodges will write a biography of another great mathematician of whom I have come to know recently, and admire, namely, G.
+If so, I'll be the first to buy that book.If you like this book, I highly recommend you watch the British film "Breaking the code", in which Derek Jacobi plays Turing.
+I also can't wait to see the new version of it come out (apparently Leonardo Di Caprio is tipped to play Turing in it).
+(At times, Alan Turing seems a history of Britain's contribution to the development of computing.) Finally, after Turing's suicide in 1954, he provides a long polemic about the role of gays in science in a world that was paranoiac about the Cold War and various spy scandals.
+What held me was the character of Turing himself, his abortive attempts to break out of his loneliness -- all the while shortening the Second World War by his brilliant contributions to cryptanalysis using computer prototypes.
+Perhaps it is possible to write a better book about Turing, but among all the other stuff, I think Hodges did a respectable job.
+The whole was not as well written as I was expecting, and it did not feel very consistent in places.
+The intricate mathematical details placed here and there did not always seem necessary, and it read almost like a Further Maths textbook at times.
+It is quite a difficult book to categorise, and it is by no means a straightforward biography, nor a critique of Turing's work.
+It occupies a strange middleground, which consequently means that it does not sit quite right with the reader.Turing was undoubtedly a fantastically bright man, but I thought that the telling of his story would be more compelling than it turned out to be.
+31/03/2015: I NEED THIS RIGHT NOW
+in the early days of computing, a number of terms for the practitioners of the field of computing were suggested in the Communications of the ACM — turingineer, turologist, flow-charts-man, applied meta-mathematician, and applied epistemologist. - wiki In a man of his type, one never knows what his mental processes are going to do next. - JAK Ferns, Turing's coronerThere have been two big films about Turing (three if you count the uselessly fictionalised Enigma (2001)). All of them are more or
+In the 1950s we attacked a superlatively profound person, because we were certain it was the right thing to do.Hodges, whose book began the great public rehabilitation of Turing and served as the source for the films, bears no blame for this: it's one of the best biographies I've ever read (better even than Kanigel on Ramanujan and Issacson on Einstein).Begin with his achievements:  1935: Mathematical statistics: An independent proof of the Central Limit Theorem.
+1936: Mathematical logic: One of the all-time great papers, an answer to Hilbert's halting problem and an elaboration of the incompleteness of all mathematics, and the formal statement of a single machine that can perform all computable work.
+في هذه الفترة بدأ تورنج يتخلى عن الروحانيات ولم يعد يؤمن بوجود إرادة حرة، بل آمن بالتفسيرات المادية البحتة حتى أنه توقف عن الإيمان بوجود إله.تبدأ المرحلة التالية من حياة تورنج مع ظهور بوادر الحرب العالمية الثانية وهي المرحلة التي ركز عليها الفلم، حيث توكل إليه مهمة قيادة الفريق المسؤول عن تفكيك الشفرة الألمانية "الإنجما" والتي كان يعتقد أنها غير قابلة للاختراق، ولكن تورنج ينجح في ذلك بمساعدة فريقه، وهو ما يسهم في تقدم بريطانيا وأمريكا بشكل ملحوظ في الحرب، خصوصًا فيما يتعلق بمواجهة الغواصات الألمانية في المحيط الأطلسي والتي كانت تستهدف قافلات المؤمن القادمة من أمريكا التي شكلت شريات حياة الجزر البريطانية.
+Winston Churchill said WW2 would not have been won except for Turing's invention of the Enigma, a code breaking machine.
+His work is credited as leading to the modern personal computer.
+I read this in preparation for the upcoming movie The Imitation Game, and also managed to find and watch an earlier movie, Breaking the Code starring Derek Jacobi as Alan Turing, online.
+Turing, himself, was an enigma and with a brilliant,fascinating mind.
+The author deserves a lot of credit for the research, but I found that for the person not versed in mathematics and physics, like myself, much of it lacked readability.
+This is a very, very in depth biography.
+So much that there were parts that I had to skip -admittedly mostly the actual mathematics portions which go quite a bit over my head.
+I can see what this was so well received, especially considering when it was written originally.
+If you're looking for something that really gets down the nitty gritty with regards to Alan Turing this is definitely your best bet.
+If you're looking for something to read to feel prepared to head into the film that's loosely based on it (The Imitation Game) you may find this a bit overwhelming.
+I just bought an ebook version of this book because I couldn't wait for delivery of the paper version. I've been interested in Alan Turning years before this sudden mass media burst; and delighted to see his intelligence and accomplishments be recognized. I'm almost done reading the intros and preface, which are unusually long, but give great background to this man and the world in which he lived. This information is extremely important because his times were so different than they are now in many respects. I shall read on with pleasure and curiosity.
+I just saw the film tonight and was blown away. I really want to learn more about this man and his footprint on history. And before seeing the credits, I had no idea it was based in this book.*grabby hands going wild*
+And, indeed, a Turing Machine can be used to determine whether some problems are computable at all, or would take an inordinate amount of time to solve, and whether the computation process ever ends (the last is called "The Halting Problem").This conceptual machine consisted simply of a paper tape of infinite length to the left and right of a read/print head.
+I feel that a valid version of the Turning Test would be if humans could not determine whether or not a computer is a machine or person, but only if the computer programmed itself by its own volition>.
+This is a biography, and if you are at all curious about the book, you should know a bit about his death.As I read about his death, I thought the author was leaning toward accidental death.
+Before reading this book, I only knew that he had committed suicide.
+Well, this author gave me the strong impression that Turing could have had Asperger's.
+It's nothing to be ashamed of, but the article (I cannot remember where I saw it) indicated that this other author felt negative about the idea.I can see that this is a rambling review, but hey, it's a biography.
+Clearly, it is impossible for any biography to be written from a totally objective stand-point, but it is clear that Hodges stands in awe of Turing, and constantly tries to explain and justify anything that could be seen as a fault in him.
+This, to me, is one of the most profoundly interesting parts of the work completed at Bletchley, and of cryptography, yet this is given relatively short shrift in this biography.
+Perhaps this reflects a wider criticism of the book - it's difficult at times to pick out Turing's character amongst the reams of detailed mathematical and computational theory.
+This biography of Turing, that eventually spawned the recent biopic The Imitation Game starring Benedict Cumberbatch, is a solid read and in some ways better than the movie.The book focuses on more than just Turing's contributions around cracking the Enigma Code which is interesting in and of itself.
+There are enough letters from Turing's own writings and sources quoted in the book that speak to the contrary.
+I think the book also does a good job describing in tech speak many of Turing's mathematical insights and breakthroughs, mostly in layman's terms.
+For that reason alone this book is a must read.
+Alan Turing has always been a fun historical figure.
+The Turing Test and Turing Machines are both tributes to his unending contribution to the world of science fiction.
+I mean science and mathematics.
+The real stuff, not books about robots at all.
+But he was, apparently, a great deal more than that.
+He was instrumental in decoding Enigma messages during WWII.
+He was a gay man alienated from society by early twentieth century mores.
+Hodges does a brilliant job of exploring Turing for the man that he was as well as his many accomplishments.
+It was a beautiful book.

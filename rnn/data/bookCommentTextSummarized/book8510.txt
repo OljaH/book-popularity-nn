@@ -1,0 +1,50 @@
+https://www.goodreads.com/book/show/433443.An_Introduction_to_Information_Theory
+It explores topics of entropy, information as bits, noisy channels and other technical issues with plenty of examples, elaboration and analogy.
+For example, there is no mention of the internet or cell phones which have tackled newer challenges in communication and information theory.Positives: Clearly, J Pierce put a lot of thought in the order of the content starting with a prolonged discussion on entropy in both statistical physics and information theory.
+This is a great alternative to reading a text book on the subject.
+It is certainly worth another read.
+It's always fun to delve into something written in the '80s.
+It was a nice attempt from Mr. Pierce to give an intro into communication theory.
+That's not an easy task since communication theory is a mathematical as well.
+Let's put it as, encoding was an average, with a little be too many binary bits...although, let us admit, that from point of view of mathematical readiness, the channel was perhaps too noisy.
+But, the message came through.Generally speaking, there was some intentional degree of obfuscation that did some part appear pretty Cimmerian, and prolonged reading and comprehending a bit longer, yet the read is enjoyable.
+A gentle yet solid introduction to information theory.
+Perhaps the best takeaway from the book is clearing of the nonsense and confusion that permeates 95% of "entropy" discussions in print and digital media.
+He proceeds to construct a single-molecule variant of Maxwell demon where we can seemingly escape 2nd law of thermodynamics, if we know just one bit of information (which of course has certain communication-theory entropy).
+In Pierce's construction we need just 1 bit of information, and then we can reduce the statistical-mechanics entropy of the system and get free energy, but that free energy is exactly equal to the energy we would need to transmit that 1 bit over a fundamentally thermally-noisy channel!
+I learned a bit and enjoyed the read. Another reviewer said it was a 'gentle thorough' introduction to the topic. I can't speak to the thorough, not my field, but it was gentle. Pierce has a sense of humor, and by golly, I believed that I could do the math if I took a real course in information theory. What made it truly interesting to me was the date of revision, 1980, before the big revolution in IT. In 1990 I still had to create a program in order to use a program. Reading this book was a bit nostalgic.
+Interesting with a lot of applications. With moments somewhat old fashioned.
+It is certainly more easy to read than many examples of the former, with careful explanations in plain language of the phenomena being discussed, and intuitive explanations of any important equations or discoveries, yet it is also certainly a deeper treatment than a swathe of modern books which present only gaudy tidbits of information and some patronising examples.
+Certainly a great read for anyone with an interest in the topic, and I daresay a valuable guide to understanding for an undergraduate in communications or computing, or a professional moving from another field.
+They were entertaining to read, the author waxes poetic on the ideas of cybernetics (with a meaning pulled from the 1960s that the reader will likely have to acclimate to) and art, and not without some skill, just don't expect more coverage of technical topics there.I've been meaning to double-back on the first handful of chapters while taking notes, as I'd like to get the specifics to really sink in, and follow it up with one of Shannon's original papers, which I'm told I should now have enough context to really appreciate.
+This was a bit of a tough read for me.
+I appreciated the author's conversational tone, but some of the writing was difficult to parse.
+And when it came to the maths, I am woefully unprepared to ingest it.
+However, there were a few morsels I was able to extract, such as information theory's variation on the idea of entropy, that will lead me to explore other books on this topic that I hope are more approachable for me.
+I may even brush up on my maths so I stand a chance of interpreting future texts' use of it to explain these theories.
+Good introduction to information theory.I'm quite certain I'd have been more benefited by this book if I had taken the time to also do the math, but it was a worthy read nonetheless.
+A surprisingly accessible yet fairly in depth introduction to Claude Shannon’s Information Theory, getting both into the nitty gritty details, while also giving a broad overview of it’s usage within a broad range of fields...
+Great introduction to the field. Wide ranging and no more math than necessary.
+Perhaps another way to say it is that this book is better fit for students in a college course, not casual readers with a passing interest in information theory.
+He even says exactly this in the Appendix ("On Mathematical Notation"): "The reader will find a fairly liberal use of mathematical notation in this book, including a number of equations.
+This many incline him to say that this book is full of mathematics.Of course it is.
+If you have a passing interest in communication or information theory, you might want to start off with a more accessible text.
+I meant to buy this years ago when I saw it on the shelf at Borders(!) and I regret not doing so.
+After building the foundational concepts and vocabulary, Pierce leads us into relationships between information theory and physics, psychology, and even art.
+I was surprised at the how well the discussion about computers held up thirty-five years later, but then, this isn't just any pop-science writer: Pierce named the transistor and led the team that first built it.If you want a mathematical basis for understanding how communication works and the limits of what is possible, this is an excellent starting point.
+
+The author describes the history of information theory (before it was coined) starting with Alexander Bell, Morse, Binary / Boolean.
+He explains in a very straight forward and retail manner, concepts such as ergodicity and the units of measurement known as bits and the mathematics behind calculating bits per message.
+Information theory is a hammer that allows almost any discipline and topic to be a nail.
+Some argue it is the most robust unifying theory we know.
+Great introduction for those wanting to learn about this very important concept.
+This was an okay book but it could have been a lot shorter. I was trying to review my information theory stuff but what I got here was too little review and too much "speculation" outside information theory proper. I *did* get all the basics from the book, and some of the "speculation" was somewhat interesting. But the book didn't meet my goals. Might of course be my fault for picking it in the first place. Meh.
+We are in 1980, Pierce is showing off Information Theory to layperson like myself. You may very much appreciate his introductory discourse on mathematical models and "informed ignorance" (his is humble but setting the boundaries of Shannon’s work). The text is warm and he dares to knit together language, cybernetics, psychology and art. Low entropy everywhere and exciting sometimes.
+Beautiful explanation of various concepts related to information theory. Instead of seeking to be technical and rigorous, the author aims to deliver a good intuition behind solid ideas. Worth reading even though some of the discussions at the end of the book is outdated.
+Good recap from my RF engineering days where Nyquist and Shannon's work were often applied to sat-com ...I was hoping for a bit more on the metaphysical front but that was probably unrealistic given the chapters listed in the TOC.
+Terrific introduction to information theory. Not only gave clear and concise examples, but provided numerous applications of which information theory is apparent.
+A good intro to IT. Recommended as a first.
+An interesting introduction to information theory, with philosophical discussion of language and data.
+A gentle, but someone dated (1961) introduction to information theory.
+Classic intro text, recommended by Chris Willmore. I read it mostly at the kitchen table in 1998. Useful stuff!
+Maybe more of a 3.5. A solid not-very-technical introduction, which also explores the relation between Information Theory and other disciplines. Well-explained and easy to read.

@@ -1,0 +1,72 @@
+https://www.goodreads.com/book/show/18197267-don-t-make-me-think-revisited
+عندما فتحت المساحة المخصصة للمراجعة كنت أنوي الكتابة بالإنجليزية، لكن دافع قومي ربما جعلني أكتب بالعربيةالكتاب جيد و دمه خفيف، وشرحه واضح جداً، لكن موجه بشكل كبير للمواقع التجاريةلكن مثلا المواقع الحكومية، المواقع التعليمية كلها تحتاج معايير لقابلية الاستخدام تختلف عن الموجودة في الكتاب، لكن المجال كما بدا لي مفتوح وفي البدايات و يحتاج للكثيرأيضا مصممي الأنظمة و قواعد البيانات، و واجهاتها بحاجة لقابلية الاستخدام وتحديد بعض المعايير لقابلية الاستخدام أيضا
+I picked this up the day after finishing Beautiful Code and to be honest, really wasn't in the mood for any more particularly heavy content for a few days.But Steve Krug makes the topic of web usability genuinely entertaing.
+He uses a adequate number of examples to illustrate his points, and even helps to demonstrate how various stakeholders in web projects can all contribute to the usability of the site.For me, the most interesting idea was of usability testing.
+Steve presents a framework for running these sessions that elimates all excuses for usability testing to be included in a project lifecycle.Who would I recommend the book to?
+A classic book about web design. Everyone should read it. A few notes:
+كتاب مميز و بسيط جداً فكرته قائمة على العنوان " لا تجعلني أفكر " فهو يعطي فكرة لكل مبرمج أو مطور للمواقع أن يقدم موقع للزائر بحيث يكون الموقع بسيط و سلس و واضح دون حاجة ذلك الزائر لإن يدخل - بالحيط - حتى يتمكن من فهم قصدك كمبرمج للموقع .و حتى إن لم تكن مبرمجاً يمكنك بكل بساطة التعامل مع الكتاب
+It is a great bookEvery programmer needs to read it.It makes me think deeply about usability and accessibility.For example after I read a chapter on accessibility, I decided to design a website which could be helpful for blind people. It's main purpose is to help us have a better life. Because we use software more than anything else now. You are reading my review on a website or on an application. Steve Krug's style makes me have a smile on my face while reading and understand it very well.
+I read this handbook on Web usability for work related reasons.
+It was originally published in the early 2000’s, shortly after Jakob Nielsen’s Designing Web Usability.
+Krug insists on the importance of usability testing: one chapter is actually a cookbook on how to conduct user tests without getting top-heavy on the matter.
+This recent republication also includes a chapter on designing for mobile and accessibility.A very enjoyable, casual (and oftentimes fun) read, that the staff at Goodreads should consider rereading from time to time: a word to the wise is enough!Thus far, I'd say our old bookahs are still more usable than anything digital… or aren’t they?
+MUST READ for anyone with any say over the look & feel of a commercial web page (designers, managers, marketing people, executives, etc.). It's a quick and easy read and is like having my own web usability consultant. Goodreads and LOTS of other sites should have their managment teams read this.
+The introduction says that this chapter was abridged from three chapters in an earlier version of the book and some of the content was moved to Krug's site and expanded upon in a later book, which I am now interested in reading.Some other (less useful) things this book says are:(view spoiler)[- The function of every element on the page should be as obvious as possible.
+این کتاب رو خودم یه نگاهی فقط بهش انداختم اما یکی از دوستان خلاصهای رو ازش در اختیارمون گذاشت.درسته که کتاب نسبتا قدیمی محسوب میشه اما نکات مهمی توش هست و به عنوان لیستی از چیزهایی که باید/نباید رعایت کنیم رو در بهمون میده. برای شروع یو ایکس میتونه مفید باشه.
+این کتاب رو خودم یه نگاهی فقط بهش انداختم اما یکی از دوستان خلاصه‌ای رو ازش در اختیارمون گذاشت.درسته که کتاب نسبتا قدیمی محسوب میشه اما نکات مهمی توش هست و به عنوان لیستی از چیزهایی که باید/نباید رعایت کنیم رو در بهمون میده. برای شروع یو ایکس میتونه مفید باشه.
+Even inspired me to write a review, on the web.
+I don't even NEED to think twice to say this was a VERY GOOD * e^3 read!!It really is a book that can stand the test of time, though all three iterations, it keeps the tone and message: "good web design starts with instinct of the user."Krug's book focuses on web usability, fundamentals of good design, and user experience testing.
+Every web designer should get their hands on this as it is a reference for the mind about the mind!
+give it a go, it will have you thinking differently.
+Users muddle through a web page, no matter how well thought out the layout, and menus are.And as a designer, your task is to take these two facts into account when designing your website.The author, Steve Krug, is very perceptive.
+The first one is a nice call-out, the second - I've been burnt by it so many times!The section that talks about how to resolve "design" (people) problems, when members of different teams prefer one design over another, is a life-saver for any Project / Development / Product Manager.
+As the title states, every website’s design and functionality should be so simple that people barely need to think to use it.
+This was a fun read due to its straightforward style and Krug’s humor.When I started looking for web design books, Steve Krug’s classic on web usability frequently appeared at the top of most lists, along with Designing with Web Standards by Jeffrey Zeldman (see my review).
+Have each user think out loud as they use the site.
+Review the results as soon as possible.Additional notesNavigation helps users find things, tells them where they are, reveals content, and tells how to use the site.
+Even for people with only interest on the area of web usability they may find that they already know, or at least thought in a very similar way when they browse daily;- I understand that this isn't a scientific book and the author does refer to Nielsen a couple of times but all in all the knowledge in this book comes directly from the writer's mind with very little scientific sources to confirm what it's being said;- Even the second edition is from 2005, almost 8 years have passed and most of the webpage elements he focus on the book, aren't really that used anymore.
+The book was a short, quick and easy read that can easily be finished on a plane ride.
+A lot of what Krug brings up in the first half seems like common sense, but he does delve deeper into some points, which may be helpful for some.The most valuable information I found in Don't Make Me Think was the little quizzes in the middle of the book where readers are presented with sample websites and asked what was wrong or needed improvement.
+I wish that more of the book was made up of examples like those.
+Ironic that this book makes the reader think - think about design and views on life, all at once. An excellent book for stimulating the brain to think and view the world in new ways.
+4.5 stars. I’ve been busy traveling for work and not getting the chance to read as much for fun, but managed to read the update to this timeless reference book for basic website (and now mobile) usability. It’s very basic (and even calls itself out as such), but I think it’s a great introduction to the areas of web and mobile usability and is something anyone who is a fan of well-designed products would enjoy!
+Books about design need to pass one critical test.
+They must be well-designed, and this book is.
+Among the bits of knowledge Krug sprinkles, good web design is like the layout in a big box store, you should be able to look up and find signs that point you in the right direction.
+Here’s an insight: most people think users hate making lots of clicks to find their way to way to what they want.
+Users want to know that the search will be fruitful.
+They also want to find the right links intiatively and they want to be able to retrace their steps quickly if they turn down a wrong alley.
+In this book, Krug shows you how to make things easy for visitors to your site by making sure everything on it is obvious at a glance and easy to find and get to.
+It's a quick read, but you may want to take your time on it a bit to make sure you fully register everything he says.There are applications of what he says far beyond web design.
+Those who say the listener should do some of the work too are not thinking about how competition for attention and resources works in the real world.If you have a web site, blog, or any other online presence, I highly recommend you get and read this book NOW!
+For example, if the visitor is looking for employment information, it should use the most obvious words to describe employment like jobs or resume.The other point it makes is that people don't read websites they do magazines or books, they scan through a website quickly.
+For example, some of the elements which generate goodwill are making it easy to recover from errors, putting in printer friendly pages, and knowing what the main thing people want in your website then implementing it.The last few pages have several books which he recommends you read to improve your web site usability.
+The actual Average User is kept in a hermetically sealed vault at the International Bureau of Standards in Geneva.What they actually do most of the time (if we’re lucky) is glance at each new page, scan some of the text, and click on the first link that catches their interest or vaguely resembles the thing they’re looking for.
+I think every Web development team should spend one morning a month doing usability testing.
+In a morning, you can test three users, then debrief over lunch.
+I had a pact with some fellow web nerds at work to read a book on usability to improve our websites.
+Steve Krug's time- and money-saving method of web testing alone is worth the read for developers.
+Even casual web designers can benefit from the simple concepts and step-by-step “effective websites use this” lessons and examples.Reading this book generated more ideas and interest in a needed web redesign than I thought possible.
+This book will benefit anyone who is putting together a website, offering tips on making it more logical and informative, thus more popular among users.
+“It’s a fact: People won’t use your web site if they can’t find their way around it.” Here we get proof again, that user experience is the key to any successful type of website.While some of the stuff may be obvious, or maybe just be obvious to me, I found his style to be amusing and a reflection of what really goes on in the head of the designer when it comes to designing and the politics surrounding it.
+Perhaps Steve Krug willl explain those in another book.More than finding the book useful for myself, the book is actually a good way to bridge understanding between yourself and non-designers.
+Usability hardly concerns strictly web use.
+Also, makes many design decisions easy by providing research based and diplomatic responses to many territorial squabbles that arise when sites are designed/redesigned.
+It provides logical guided procedures for any stakeholder to understand the overall objectives of the website and make business decisions with full disclosure of usability consequences.
+This book is an endless champion for improving and maintaining users' "goodwill reservoir"Even with professional background and experience in this topic for the past 5 years (not so long considering the way to go) and the historic printing of this book (even by web standards) of 2005, there is still much insight to glean and historical lessons concerning accessibility.
+I bought this book because I needed a quick overview on usability testing.
+Great overview of a lot of topics, including pointers for where to dig more deeply into usability testing, accessibility considerations, etc.
+Very high-level, simple, clearly-written advice and easy on the eyes in terms of reading and knowing what topic you're reading about.
+He follows his own advice, especially about cutting out unnecessary words---this book is dense with information not because it's written at a really high level but because he doesn't waste your time making you read sentences you don't need.Cons: second edition published in 2005, most of the screenshots are still of websites from 1999.
+This was a great book for a starting point to website UI design.
+It was quick and to the point at only 197 pages, with great examples of what to do and what not to do and WHY (the important part).The only hang up on this book that I had was the content seemed a little outdated as things quickly do for web related topics.But over all this will be a book that I recommend to our staff at RinoSoftware.
+
+A no nonsense approach on how to design web sites to be as effective as possible.
+It has been a number of years since I first skimmed this book and I found the changes welcome.
+While the book is concise enough to easily skim through I frequently found myself wishing for some more than just the index to find material when I wanted to review a topic.
+If even half the advice given in the book was followed the web would be twice as easy to use.
+I absolutely love it when non-fiction books don't try to be so heavy in their content, and are able to communicate fascinating material with humour, tact and intelligence, and this book fits the bill to a tee.
+I loved the style of writing, and for a book that was required reading for university, came away actually learning something and not feeling like it was a chore to pick it up, I even looked forward to it.I loved the length too - too many authors seem to love the sound (sight?) of their own words, and ramble where not necessary, only causing confusion and more work for the reader (apt for the title of the book).
+I'm seriously considering buying this book as reference material.
+An excellent book that makes the reader think. Some quick highlights: 1. Use conventions unless you are genius.2. Use visual hierarchies. 3. Break pages into clearly defined areas. 4. Make it obvious what’s clickable and what’s not. 5. Eliminate distractions. 6. Format content to support scanning. Favourite quote – “Clarity trumps consistency”
+I'd bet most people could pick up a thing or two from it no matter how much web experience you have. Also, its a fairly short book, which was good. Still I think i was thinking it would have been more focused on best practices in web design, and it was a bit broader than that. More of a jumping off point than anything else.

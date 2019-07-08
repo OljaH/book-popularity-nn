@@ -1,0 +1,60 @@
+https://www.goodreads.com/book/show/515601.The_C_Programming_Language
+The time was right to worship at Hindley and Milner's altars, and much joy was had hacking away in SML and OCamL -- still wonderful languages, to which I return when my code needn't, say, read or write data.
+It's likely the only usable language I'll ever have truly memorized in all its detail.
+The greatest of these have shared one feature all: they were set down in the language of Kernighan and Ritchie, the syntactic heritage of systems programmers since the minicomputer era.
+If you're into stuff like this, you can read the full review.RIP Ritchie (1941-2011): "The C Programming Language" by Kernighan and Ritchie//Cenesis, chapter 1#includeint main(){ puts("In the beginning, when Ritchie created the Unix and the C"); puts("and the UNIX was without form or shape, with darkness over the abyss and a mighty wind sweeping over the waters"); puts("Then Riche said: hello, world, and there was code"); puts("Riche saw that the code was good. Ritchie then separated the code from the bug."); puts("Riche called the code \“day,\” and the bug he called \“night.\”"); return 0;
+If you're a geek, you have to prostrate yourself in the direction of Bell Labs whenever this book is mentioned. I'm not really a geek, so it's optional. Well, perhaps I'd better do it anyway. Just in case.
+Well, for the internet, for Facebook, for LinkedIn, Twitter, Instgram, Snapchat, WhatsApp, Pornhub amd even the odious website for Justin Bieber would never have existed without Kernigan and Ritchie (more affectionately known as K&R)'s classic, The C Programming Language.
+What language was TCP/IP written in?
+C. What language are most libraries on most operating systems written in if not assembler?
+This book is highly readable (ok a bit dry but did you try reading Darwin or Newton?
+If you want to geek out on just one book then this is the one.
+Certainly a book hyped by many folks, calling it the to read when learning C.Well, in reality it's just that, hyped. There is no objective reason why this book is a must-read or good at all. Sure, it does cover the important aspects of C, but it's very shallow, never going into details. As such, it's as good as every "Learning $language in $small_amount days".
+Excellent A+++++++ Would read again!The C Programming Language is THE VERY BEST way to learn the C programming language. Starting with the basic "Hello World" program, this book covers everything (of course, as the official guide to the language this is expected). As any programmer worth his salt will tell you, C is one of the most useful languages, and at least basic knowledge is mandatory.
+I read this years ago when I was first taking C. I don't have this edition, but an earlier one. After wading through several other books, I kept coming back to this one as a reference while programming. It is deceptively short & sweet. Re-reads constantly found me more avenues to explore using their basics.I gave a copy to my son & he came to the same conclusion. While other, larger, & more specific books come & go as C evolves, this basic work is a must for any serious programmer.
+You Say You Want to Learn to Program, Well, You've Got to Read This Book...The C Programming Language (1978, rev.
+In reading it you not only learn the basics of C programming, but "absorb" an introduction to the style of thinking once known as "MIS", the practical business of Informatik more concerned with quantifiable success than the big dreams we read about today.
+Although there has been "price creep" for a basic trade paperback in recent years, it is still worth the price if you want to be a computer professional.
+Ok dudes, this is THE book.
+If you want to know how to program in C, the once and future language of all computing, you must buy this book.EFF this C#, CLI, J#, VB, and all those other abominational languages that are trying to kill good programming skills.
+If you want to learn how to really program you need to DO this book.You don't read this book, you DO it!
+As a general rule, shorter books are better than those SAMS-type 1000 page tomes, teach you more, and are harder to write.
+When looking for a good technical book on any subject, make sure you try to find the small ones!
+Regardless of the fact that the architect of the language is a co-author, this book is simply not a good book on discussing the intricacies of C, a language replete with low-level details defining its behavior.Everything, including a discussion on sequence points and side effects, among other topics, is included in Peter Prinz's and Tony Crawford's C in a Nutshell, which is masterful in its coverage of the language. Combine C in a Nutshell with Summit's C Programming FAQs and you have the entire language at your disposal.
+I can't say I learned how to program C using this book -- that distinction goes to the long-forgotten Microsoft Quick C for Windows manuals and a reference manual put out by the Waite Group.
+This book is the ideal presentation of a language.
+(When was the last time you saw both the grammar and standard library of a language tucked into a couple of appendixes?) Don't read this book to learn C -- that a skill fewer and fewer people need to master.
+Read this book to learn how documentation ought to be written.
+The book is missing many important parts of the subject. Also the explanations are not so good. Not suitable for someone who wants to learn the subject from scratch. May be an experienced professional might be able to benefit from the book better. As for me I was just trying brush up the knowledge I had about this subject but didn't find the book that useful.
+Truly the C BibleIf only all programming books were this succinct and to the point...
+Oldschool but still relevant, just as the language.
+It's not a thick book, compared to the four times heavier C++ Primer and that's exactly how I feel about both languages.
+The C Prog.
+lang.
+does a fine job at explaining the key components of the C language using rudimentary code - and I like that, because that's what you'll encounter in the C world.
+The quicksort implementation using pointers for example.
+There's not much to say: it's a great introduction and reference, although learning C can easily be done on the internet.
+Pitfalls and strange usages of preprocessor flags are also covered.
+Yet despite this, I believe there are alternative books which would have made the learning experience at first much easier.If you have zero experience with programming or C in general, C Programming Absolute Beginner's Guide by Greg Perry and Dean Miller would be the best place to start. It does not get any simpler than this and the book is written with this in mind.
+** Pointers - how I miss thee...
+ThemeIn The C Programming Language, Brian went through from basics to advanced structures of C Programming language including data types to pointers. He also discussed some variants of programming in C on Linux.Pros1. He used excessive amounts of Preprocessor Macros in his codes which make code readable and easily understood.2. His explanation of structures is of advanced level (which is a requirement).3. File handling is also explained properly and extensively with the help of advanced level codes.Cons1. Arrays and Strings are not explained in detail.
+This is a great book, definitely worth reading.It's not my first pass through it, but I still learned new stuff.
+It covers the language well, although it does not go into as much depth as I would like.
+It does not cover the practical aspects of system programming either.The best thing about this book is the brevity.
+Everything is explained clearly and with as little text as possible.
+It might not be the best first book for C, but it is definitely a great second one.Finally, this book is old.
+C hasn't change much, but there is some new development that is (obviously) not covered.
+This book (together with Kochan) helped me learn C, which quickly became my favorite programming language and remained so for many years. Contains the original 'hello, world' program which has been copied ad nauseum ever since. I know the authors released a second edition but I never looked at it, the first one was fine. I suspect the main reason for the second edition was to replace the classic K&R syntax with the ANSI standard.
+Any software (hell, even hardware) engineer has hopefully heard about this book. If you don't own it, buy it right now! You won't find a single engineer on Earth telling you this is something less that awesome. This book achieves the perfect balance between terseness and exhaustiveness.Computer Science book writers and publishers: can we go back to a writing style where computer books are in the 150 - 200 pages range, instead of the regular 600 - 900? Come on.
+One of the things that I like about the C programming language is that it is very small and simple to learn. This book is correspondingly small, yet it is comprehensive.I already knew some C when I read this book, but reading this book gave me an appetite for understanding more about how compilers work and about the theory and design of programming languages.
+Reading this again, I'm finding that a lot of the coding style and practices are outdated, but it's still a good foundation for programming, and the C language in general is a good starting point if you want to work with native apps.
+A classic. If you want to learn how to program, start here.
+This is a really good introduction to C programming language with clear and concise explanations.
+it's a little bit more than just C! it taught me about computer
+A hard and a bit difficult programming language.
+My very first computer programming book. Welcome to programming, here's C.
+Having a basic understanding of how this Turing machine works gives, in addition to an appreciation of how the complexity of all the software we use emerges from simple principles, another set of tools to debug the next annoying problem.(5) In addition to C, K&R have given the world Unix, the operating system specification which is currently pretty much everywhere.
+It thus serves as a light introduction to programming on and for Unix, something most backend developers are doing these days anyway.(5) Due to the specific way the language is designed, C requires a certain programming style.
+This book is a fascinating read and has great discussions about the implementations of classic UNIX commands and other systems programming topics.With that being said, I think the 21st-century introductory C programmer should start somewhere else.
+In other words, I wish this book didn't tell me so much how, for example, malloc() might be implemented, but rather give me a more abstract view of how I might use it.My advice: If you're a new guy to the C programming language, look for a more modern reference that will focus on standard library usage, compilers, modern idioms, etc.
+Ubiquitously known as "Kernighan and Ritchie", this slim volume was the must read of its day and despite its deceptively few pages, was a marvellous cure for insomnia. Adopted as the definitive bible of C this harks back to the good old days of real seat-of-your-pants programming BQE (before quiche eaters) so is thankfully devoid of the dreadful mess that object oriented programming made of this most simplistically elegant of programming languages. (Beaten only by the even more minimalist Coral-66 in my 'umble opinion).Spoiler alert - the ending is }

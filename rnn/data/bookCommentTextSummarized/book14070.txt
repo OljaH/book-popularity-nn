@@ -1,0 +1,80 @@
+https://www.goodreads.com/book/show/67825.Peopleware
+The book is straightforward, short, practical and influential.
+Below I have summarized some of the major points of the book:1.
+Protect your workers personal lives3.
+Turnover is an expense which is seldom measured.
+Moving causes turnover.
+Training prevents turnover.4.
+Workers will work for quality, to be and make the best.5.
+Interruption is expensive for mind workers (measure uninterrupted hours)6.
+Workers need space.
+Give workers the tools to measure their productivity w/o threat of raises.8.
+Require portfolios for hiring, bring the team that will work with them into the hiring process.11.
+Instead offer training, tools, and peer review.
+A must-read, one of the best books I have ever read. I recommend it for everyone that would wishing get out from the comfort zone in our development. This book presents the forgot notion that people are the core of development process. And the most incredible fact of this book is that he has more than forty years since his first publication and keeps unknown for a great part of our managers.
+سال ۱۹۸۶، محصولات نرمافزاری از دو وجههی سختافزار و نرمافزار تشکیل شده بودن. از سال ۱۹۸۷، با انتشار این کتاب، محصولات نرمافزاری از سه وجههی نرمافزار، سختافزار و فردافزار تشکیل شدهن.این کتاب عزیز که همینطور بی فکر و دلیل دوست دارم اسمش رو فردافزار بذارم، کتابیه که مروری بر تمام جنبههای مدیریت، با تمرکز بر مدیریت پروژههای نرمافزاری داره، و حول یک محور و یک شعار: موانع بر سر راه پروژههای نرمافزاری، بیش از اون که فنآورانه و تکنیکی باشن، جامعهشناختیان. کتابیه که شاید باید هر سال خوندش و ازش استفاده کر
+از سال ۱۹۸۷، با انتشار این کتاب، محصولات نرم‌افزاری از سه وجهه‌ی نرم‌افزار، سخت‌افزار و فردافزار تشکیل شده‌ن.این کتاب عزیز که همینطور بی فکر و دلیل دوست دارم اسمش رو فردافزار بذارم، کتابیه که مروری بر تمام جنبه‌های مدیریت، با تمرکز بر مدیریت پروژه‌های نرم‌افزاری داره، و حول یک محور و یک شعار: موانع بر سر راه پروژه‌های نرم‌افزاری، بیش از اون که فن‌آورانه و تکنیکی باشن، جامعه‌شناختی‌ان.
+کارمند یه انسانه و کاری که داره انجام می‌ده شاید یکی از علایقش و در بهترین حالت بزرگترین علاقه‌شه، نه تمام زندگیش.
+Because they're afraid of us and don't trust us, essentially.This book has helped me plan out a few things I will do differently (take off my headphones when the background is bearable, be stricter about keeping long uninterrupted blocks of time free to work, mute my phone completely and set the answer message to "email me"), some ways in which I will approach my colleagues differently (realise that our bonding over non-work topics isn't goofing off, it's building connections that help us function as a team), and some things I will try approaching my manager about (that I won't post here ;) ).
+I will probably reread this book every time I change roles and become more senior: I hope that someday I will be able to do a better job fighting the Furniture Police and creating environments for teams to jell and thrive than any manager I've ever had.
+بر هرکسی که در دنیای نرمافزار کار میکنه، خوندن این کتاب واجبه.
+بر هرکسی که در دنیای نرم‌افزار کار می‌کنه، خوندن این کتاب واجبه.
+What I got was a book full of tips & tricks for large scale organizations on how to tell managers not to disturb people who are working.
+The whole book can be summed up in one sentence: Managers work by letting other people work - they need to simply keep off al disruptive events so the team can do it's "thing".
+A lot of other tricks are not really related to practical productivity tips but rather abstract.
+It's still a good book to read, but a lot of it can be reduced into the same thing.
+DeMarco/Lister sound so reasonable that it's hard not to take their theories as facts, but it's mostly anecdotal and should be taken with a grain of salt. In particular, some things that they treats as "teamicidal" are useful for other reasons.I think clarifying how information is passed around in an organization would be useful–they point at it when they mention "coaching" but could be more explicit.In general, a good book, and if you're a software engineer or a software engineering manager you should read it, but make sure not to take it as gospel.
+Неплохие наблюдения по продуктивности команд разработчиков. Не теория, но ряд полезных принципов.
+I would say that this is an essential read for everyone.
+And it doesn't matter whether you manager or being managed.
+This book in a very concise and straightforward manner tells about building successful and effective teams.
+And while there is no single recipe for building a great team, it could help find and eliminate obstacles in this way.
+Not once while reading this book I wanted to shout "I knew it!", because somewhere deep I felt that open space is the best way to kill productivity or that without spending some time together it is really hard to build a team.
+Written for software developers in a project sense, it is of much more global impact to skills managers & leaders need.
+This is the reference book (among several) that any working person should read, as it provides insight into how our managers can work better and how eventually we can be better managers.
+The snapshot it provides is the reference managers need to work effectively.What DeMarco and Lister have provided is what could be read as a field manual for managers.
+Авторы этой книги как будто хотят перевернуть все компании, заставить кардинально измениться и практически полностью преобразоваться.Если внимательно присмотреться, то практически каждые советы и решения, которые предлагают авторы очень даже полезные.
+Но акценты авторов на преобразования таковы, что создаётся такое впечатление, как будто других решений и компромиссов просто не существует.Вывод.
+Книга правильная, но решения предлагаемые авторами нужно применять с учётом картины мира, опыта, навыков и знаний не только одних подчинённых компаний, но и также их руководства, исходя из текущей обстановки, жизненного цикла, целей, приоритетов и многих других факторов.Например книга Тома ДеМарко «Deadline Роман об управлении проектами» ( http://www.goodreads.com/book/show/12...
+
+I wish two of my bosses had read this book back in the 1999
+Methodologies, risk management, meetings or communication are policies that are usually beyond the area of control of a team, but they have a huge impact on people.The last Part, VI, gives some hints about why people feel that their work is a dull, old-fashioned “job”, and how can you fight against it, including activities (war games), approaches to new projects, ad-hoc positions… And it ends with a manifesto about pushing changes.EvaluationThe whole book succedes presenting several common underlying trends: Embrace human nature, don’t fight against it: encourage natural interactions, understand that people is opinionated… Fragmentation is often wrong.
+Quick read. Message is very clear (no longer new).Just make sure to differentiate between the data being offered and the opinions of the writers.I like that they touch quite a lot of subjects, though on the ones where I'm like 'Yeah! Now what kind of solutions are out there?' they fall a bit short, saying, we don't really know either. So I guess, in a way, that's also not a bad thing for me.
+Wonderful book. Covers many principles we know to be true on some deep level, yet are often forgotten or ignored. Full of wisdom, kindness, and gentleness. Deeply inspiring. It has influenced how I think and help shape the goals for my life and career.
+A great book on office culture and how to build a work culture that is fun and productive. I will definitely try to action some of the points in this book, and definitely worth reading again in the future to remind myself of some of the points. Love it.
+very practical book with many examples of bad and good workspaces and work-cultures.
+Несмотря на то, что некоторая информация, представленная в книге заметно устарела, все же есть много фундаментальных вещей, о которых многие даже не задумываются.
+Книга прежде всего рассчитана на менеджеров 2ого и 3го уровней, но при при этом книга полезна и для исполнителей, таких как программисты, аналитики, тестировщики и пр.
+Такие параметы как шумность обстановки, недоступность окон, неуютность, маленькое рабочее пространство не позволяют в нормальной качественной мере сфокусироваться на проекте, работать производительно и в итоге успешно завершить проект...
+В данной книге повествуется об этом, а также о причинах текучки кадров, необходимости составления портфолио, ошибки корпоративной этики.
+Рекомендую к прочтению всем, кто работает или планирует работать в сфере высоких технологий.
+Pseudo-aesthetic motivations and focus on keeping up appearances shouldn't override people's natural tendencies to express their individuality in at least some small ways in their work environment.An individual in a team is not a self-contained unit of production power.
+Steady-state metrics alone can't be an effective representation of a person's productivity.There can be plenty of people on the team that are smarter than their manager.
+Tailoring the environment to people and the task at hand can be one of the most effective things management can do for their workers.
+Кто-то скажет "много воды", а я скажу - отлично задает настрой!В книге по сути одна важная мысль, которая рассматривается с самых разных сторон - социология в команде важнее любых технологических примочек.
+
+На троечку. Пафосно и непрактично, много обвинений сложившемуся порядку без рецептов что с этим делать.Это распространенная убежденность людеи, имеющих дело с любым аспектом новои технологии (а кто из нас не имеет?), что они работают в сфере деиствительно высоких технологии. Они потворствуют развитию этои иллюзии, объясняя на какои-нибудь вечеринке, что работают «в области компьютеров» или же «в области телекоммуникации» или занимаются «электронным переводом денежных средств». Намекая тем самым,
+Пафосно и непрактично, много обвинений сложившемуся порядку без рецептов что с этим делать.Это распространенная убежденность людей, имеющих дело с любым аспектом новой технологии (а кто из нас не имеет?), что они работают в сфере действительно высоких технологий.
+(Очевидно, начальные затраты тем выше, чем сложнее выполняемая работа.) Общая стоимость замены каждого сотрудника – от четырех с половиной до пяти его зарплат или примерно 20% стоимости его пребывания на этом месте за два года.В компаниях с высокой текучестью кадров люди склонны к деструктивным рассуждениям ближнего прицела, поскольку знают, что не слишком долго еще задержатся на своих местах.Лучшие организации – это не категория; они заметны скорее своими различиями, чем подобием.
+(2nd edition from 1999).First off, this is not a book summarizing personal psychology for industry managers.
+It is much closer to a blog turned book, on the subject of large software organization management.
+Remote work has become more common, and agile sprint deadlines gives teams the feedback and closure they need to know their efforts are making a difference.But despite all their exhortations to the contrary, the authors treat people as more or less motivated by the same things: quality, family, and status.
+Instead we are explained the needs of one specific personality type: the high Conscientiousness, the engineer, the INTP.
+The biggest take-aways I got were: it's best to organize small teams in quiet offices; allow the team to shoot for perfection instead of letting the schedule dictate the quality of the product; and hire the best people and do whatever you need to make them happy.
+The best part about this book is that most of the ideas were backed up with actual data, something you don't get much of in a book of this type.Here are a few of my favorite quotes that I could instantly identify with: With talented people, the manage can almost coast from that point on.
+They chose to write a management book about a different subject than most management books, that is, about the people instead of methodologies and techniques.The book is extremely easy to read through.
+As mentioned above, the book focuses on the people and as an employee in a knowledge company I can definitely see the parallels between the principle espoused in the book and my own work life.
+By focusing on the people instead of the technologies, Peopleware has already become such a book.
+Classic of software engineering that no one seems to read.
+Thus rendering this practice vulnerable to overseeing the most important part of the practice: there are other people who work on the same software, in the vast majority of cases.I will not go into how the ideology of the ruling class has also tarnished this book.
+Most chapters pretty much read like an instigation to workplace mobilization, yet the authors shy away from the red language.
+I will neither try to speculate, nor read too much into it.
+Needless to say, the book gets extra points for quoting communists in a partially serious, and partially satirical manner.
+An absolute must read for anyone who works with engineers.
+The premise of the book is something I want to nail to my wall, in size 200 font: We spend most of our time managing technical aspects of projects, when most issues that lead to project failure are human, not technical.I'll re-read this once a year.With that said, I do have one gripe - A large chunk of the book is dedicated to environment & office space.
+Although it is already a slim book, I felt that this section could have been shorter.A few complementary articles:Maker's Schedule, Manager's Schedule - http://www.paulgraham.com/makerssched...The Joel Test - http://www.joelonsoftware.com/article...Field Guide to Developers - http://www.joelonsoftware.com/article...
+Personally I think the works of DeMarco & Lister should all go down in the annals of software literature.
+Take for example this excellent work, Peopleware, 1st edition in 1987 followed by 2nd edition in 1997, and now 25 years later (2012) the subject is still very much fresh and relevant to modern day software management.
+The challenges still remain, companies are still stuck and making classic mistakes with organizational structures, team formations and managing projects...This is by far one of the best books I've read in a while.
+A must read by anyone involved in the software business, not just managers, but everyone, even office facilities administrators :-)
+

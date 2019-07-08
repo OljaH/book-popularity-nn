@@ -1,0 +1,100 @@
+https://www.goodreads.com/book/show/61179.Ringworld
+After reading a few of his books, I have to say that Larry Niven's attitude towards women, what they are like and what they are capable of, is sadly lacking.
+Though his male characters seem to be pretty well fleshed out (human--even if they are alien--fallible and interesting), his female characters are sadly one-dimensional.
+Ok, I'm off my soapbox now.Though this little issue nearly spoils it for me, the convoluted plot is well thought-out and the concept of the novel is interesting...blah blah blah...I will say that it's still worth reading.
+The narrative is equally confusing; at times it was impossible to visualize what was happening (e.g. with the shadow square wire) or what anything looked like.The protagonists have nonexistent emotional ranges, and when they do emote (each always in the same way, since all four are completely one-dimensional), the reader is told through adverbs and adjectives exactly how they feel (how many times is "fear" used in reference to Nessus, for example), eliminating any sense of complexity.
+By the end, the reader learns that (view spoiler)[Teela was bred for "luck" and her luck drove the entire plot, as Teela was meant to come to and stay on Ringworld (hide spoiler)].
+I gotta say that I’d have liked it more if the Master Chief would have shown up and started chucking some plasma grenades around.Set in 2855, human Louis Wu is recruited by an alien named Nessus to go on a hazardous mission to explore a strange structure that rings a distant star.
+After an accident strands them on the world, they start exploring to find a way to get their ship back out into space.This had some really big sci-fi ideas in it, most notably the Ringworld itself.
+But this is one of those books where the social attitudes of the time it was written have become really painful to read.
+A ginormous artificial ring-shaped planet encircling a star is an amazing concept, especially as Larry Niven is able to back up the concept with real world science.
+Having built this amazing world I don’t think the events that take place on it make for a very compelling narrative.
+Real aliens may turn out that way I don’t know but it is hard to believe in a species with one personality.
+Anyway, for all of the details given to deceleration and the math involved in figuring out the size of the ringworld (for those who don't really give a shit, it's really really big), Niven knows shit about evolution which would be fine except that he ties up the whole story in selective breeding nonsense that makes no sense at all, and actually works as a cheap literary device to get the characters out of any situation they might happen to find themselves in.
+It blew my mind.In order for you to truly appreciate Ringworld you would have to mentally backtrack forty-odd years.
+Big Ideas in Science Fiction are a dime a dozen.
+Today.But in 1970…?Perhaps Niven’s vision upstaged his characters.
+This novel made authors sit up and pay attention to just how big you could think if you really applied your imagination.
+Also, I’ve spent years wracking my mind trying to think just how that horizon must look, curving up like that for millions of miles…Hugo Award – 1970Nebula Award – 1971Locus Award – 1971RespectLoved it thenLove it nowFavourites
+
+Being 200 years old, Luis has seen his share of the universe, so he is a bit skeptical when Nessus asks him to join a force of beings to explore the mysterious Ringworld.
+If you’re the type of reader that likes to have a solid plotline throughout a story, with nice resolutions at the end, you’re going to be disappointed.
+Basically, RINGWORLD is a novel about the characters insofar as the Reader is allowed to understand them.
+Like I said, this is a story about ideas.
+I digress.Niven had an idea with this story.
+For those who do think that, there is Hard Sci Fi. It's a subgenre where the author actually knows something about scientific theory and tries to use that knowledge to make his world seem more reasonable to other people who know something about science.It can be delightful to hear someone tell Commander Shepard that such communication is possible due to 'Quantum Entanglement', especially if you already know what that means (even if Shepard doesn't know, meaning you are now playing a character dumber than you).
+A lot of readers might not even consider him to be real 'Hard Sci Fi' today--he's got faster-than-light travel, after all, and without a complex explanation or anything.
+We finally meet one of the Ringworld over-race whatever and it's a woman who is not too bright and there were only three women there in a crew of 36 on the spaceship she worked on so obviously she is some kind of prostitute.
+Why else would a woman be on a spaceship?
+She knew a terribly ancient secret: that every women is born with a tasp, and that its power is without limit if she can learn to use it..." And she will use it to enslave and control her man, of course she will, she has no other options.
+If you're into stuff like this, you can read the full review.R(t) = sqrt(r**2+dr**2-2*r*dr*cos(t)): "Ringworld" by Larry Niven(Original Review, 1980-08-26)A short analysis of the (in)stability of a Ringworld (digging deeper into the Math):Let the Ringworld have radius r, mass m, and mass/length p.
+Let the parent sun have mass M.
+Call the distance from the sun to the part of the Ringworld at angle t, R(t).
+By one of the triangle formulas, we know that R(t) = sqrt(r**2+dr**2-2*r*dr*cos(t))Using the well known formula for the gravitational potential energy between two masses, we find that the potential energy in the ringworld-sun system is: / 2 pi | r dt U = | --------------------------------- * (-GMp) | (r**2+dr**2-2 r dr cos(t))**(1/2) / 0
+the ringworld was a cool idea, and the interplay between the species was intriguing, but there were a lot of strikes against this book.* anthropomorphic cat people that are fierce proud warriors; i imagine the furry contingent had a field day with this one* not much happens in the latter half of this book - mostly a lot of traveling across the ringworld* at several points there are lengthy sections where i'm unable to tell what's going on because i can't visualize the strange concept the author's pushing - for example, my conception of the shadow squares was totally f'ed.
+
+I can read dozens of recent books without a single description of body type and size.
+As far as Niven’s failings of hard science go, it doesn’t bother me in the slightest that the Ringworld is an impossible structure.
+I loved this exchange between Tila and Speaker-to-animals - a giant Klingon cat: Tila:  Why, does that challenge your manhood?
+Ringworld  left me cold though and I think it is because Niven’s writing style is so devoid of clear description (other than his memorable recounting of the shape of the women's boobies).
+The concept of a ringworld is wonderful - Niven's story, not so much, yet good enough to entice me back into after the mega-structure on't otherside of the universe is currently topical (if indeed, anyone could use the term 'otherside' when talking about our curving and folding universe).
+Great fun for sci-fi week here on goodreads.A Dyson sphere is a hypothetical megastructure that completely encompasses a star and captures most or all of its power output.
+Tabetha Boyajian is best known for her research on KIC 8462852, a puzzling celestial body that has inspired otherwise sober scientists to brainstorm outlandish hypotheses.
+There is a 200 year old human (in perfect physical condition due to an age extension substance called boosterspice) that has become bored with his life, a two headed, tripedal alien that comes from an extremely advanced civilization yet is painfully and comically afraid of everything, a tiger-like warrior species who has become semi docile after their species were nearly wiped out by mankind, and a young woman who is so lucky that she doesn't know what fear or pain is.
+Or maybe its going back to that much simpler time in science fiction where aliens spoke English, the speed of light could be broken, and we could come to understand the biggest mysteries of the universe.
+"Read Ringworld you lazy muthafucka!" I chided myself.
+I'll read it.
+It's mostly about exploration, some space theory and some alien character development.
+but perhaps it is a bit silly at times.
+The preponderance of theory tends to drag down the excitement level at times, so I was glad for a bit of lightheartedness now and then.
+They were enjoyable people to spend a novel's worth of time with, and I could see myself moving on to the next book to see where their lives lead them.
+Classic science fiction has always been hit or miss for me. I have always been told how great Ringword is, but I found it to be mediocre and kind of blah. It is a somewhat interesting story, but I never really cared about the characters or what they were doing, which is disappointing because the premise sounded really interesting.
+Being an engineer by nature, and by training (10 yrs at MIT), when I read this book (in the 1970s) I went supernova. Massive engineering on an unimaginable scale, made real by Niven. Fabulous!
+I find it hard to believe anyone got through this one, let alone its whole legion of sequels and spin-offs.The Ringworld is such a cool concept but it's SO poorly described, I defy anyone to picture what the hell Niven is on about.
+It was black and on the horizon blue, a ribbon, several squares were hovering there like...
+Take some time to do this thing justice, mate!
+We're gonna be spending a deal of time there...
+It takes too long to get to Ringworld, then when they do, nothing happens.
+More like "flattered YOURself"!)—it just came outta nowhere and ended just as abruptly.Can't recommend.
+The magic intersection point of the old and new styles of SF...
+basically, Golden Age space opera with cool aliens, but also including sex.
+(The sex isn't with the cool aliens, in case you were wondering - that's James Tiptree Jr. you're thinking of).
+If you are an SF fan and have never been to the Ringworld, try and visit them some time!
+If you're not particularly into SF, well, these days Iain M.
+Banks does the same kind of thing better, so I would recommend reading "Consider Phlebas", "Player of Games" or "Use of Weapons" instead.
+But Ringworld is still a fun book.
+Niven is so much fun because of his fascinating ideas, and the playfulness with which he approaches them.
+I love Puppeteers and Pak Protectors, Kzin, Outsiders, and Gummidgy Reachers.
+His aliens are delightfully non-human.I did find myself surprised by how sexist many of the underlying assumptions were, which I don't remember thinking the first few times I read these books back in the 70s.
+=) I love thinking of how ludicrous some of our own ideas of the future will seem in 30 more years.This and Protector are my two favorite Niven books.
+Niven makes good use of the time it takes to reach and explore the Ringworld itself to show us his version of the future.Alas, once the action is restricted to the Ringworld and the new goal is to discover any remaining pockets of Ringworld Engineer civilization, the only thing remarkable about the story is the alacrity with which it becomes unremarkable.
+If only Niven hadn't similarly ignored the most interesting part of Ringworld itself: its inhabitants!I'm talking about the fallen descendants of Engineers, of course, not the original inhabitants.
+I was right.After shrouding it in so much mystery, Niven reveals that the demise of Ringworld civilization wasn't nearly so mysterious.
+I don't remember anything of the story, let me say at the outset. I think it was entirely forgettable.The only things I remember are the kzin - the huge catlike alien - and Ringworld itself. From an engineer's point of view, this world is an absolute delight: a ring circling a sun at the centre, a whole world existing on it; with shades provided at uniform intervals to simulate night...What I wouldn't have given to be part of the engineering team that designed it!
+Oh TANJ! Why did I read this book?! It should have been titled BoRingworld!
+What is Ringworld? Ringworld is a curiously contradictory science fiction novel. For a novel so concerned with the finer details of the exact science of alien technology it also features some bizarrely pseudo-scientific fantasy conceptions. However, it's use of technology and its ideas are an indication alone as to why it should be read despite some major flaws which become more obvious as the reader delves further into the story.Larry Niven's novel is claimed as a major influence of the critic
+However, it's use of technology and its ideas are an indication alone as to why it should be read despite some major flaws which become more obvious as the reader delves further into the story.Larry Niven's novel is claimed as a major influence of the critically acclaimed Halo videogame series.
+Yet, unfortunately the flaws detract from this and make it a slog at times to read through the book.Deus Ex Machina: Niven, unfortunately, relies upon this heavily criticised literary technique in several key moments of the book, creating a patchy conclusion to his novel.
+A lot of the dialogue of the book was delving into and expounding scientific theories and ideas which will appeal to the hard scifi crowd I imagine, but I would prefer the weight of dialogue to lean more in favour of character development than it did.
+Also the book focuses a lot on the engineering of the Ringworld which is great, but I would also have liked to delve more into the culture of the people/alien groups they meet, even if it meant adding a hundred pages or even two hundred with a more developed plot.
+Niven's Ringworld idea is really, really cool.
+Cool enough that he got the Hugo for this book in 1970.
+I know he got the Hugo for the Ringworld concept, because nothing else in the book conceivably justifies it.
+Wading through the book was very difficult for me mostly because of Niven's Dirty Old Man Syndrome.
+The big reveal (SPOILERS!) is that she's very, very lucky.
+So lucky that everything that has happened in the book so far has been for her benefit.
+They are so awesome!" Frankly, the Ringworld idea IS cool, but the plot just doesn't live up to the concept.
+Ringworld - a Young Adult book that exemplifies the key elements of technology-driven fiction, and so embodies the new generation of science fiction and SF writers.  Ok, that may be how the review would start if this book were written in the 2010s. But Ringworld is from a different era (the 1970s), a different world altogether (pre-Microsoft Earth). What was then hailed as an innovative narrative style may now be viewed as stunted and disjointed. But for a young mind just opening to the wonders
+Ringworld - a Young Adult book that exemplifies the key elements of technology-driven fiction, and so embodies the new generation of science fiction and SF writers.
+But for a young mind just opening to the wonders of science and discovery, Ringworld was like a door into a new way of thinking, out-of-the-box and imaginative.
+Without a doubt, it made its mark on me, and even today, I think of it as the best SF novel ever-written.But, I realize this may not be the case for those weaned on Peter Hamilton and Neal Stephenson, so suffice it to say, it's a worthy read despite the datedness.
+Executive Summary: This book is a lot of big ideas, and not a lot of depth of character or plot.
+If you like that sort of thing, you may enjoy this.
+Full Review This book was a tough one for me.
+It makes it a tough one to review as well.I had been meaning to check this one out for awhile, but didn't make time for it.
+It ended up being one of the picks for July in Sword & Laser so I finally fit it in.I read it over the course of 2 weekends, which with the way I've been lately is a really long
+Executive Summary: This book is a lot of big ideas, and not a lot of depth of character or plot.
+The book is only 340 pages, and I read nearly half of it in one day.
+Or I wouldn't even pick the book up to begin with.I haven't read a lot of "classic" Sci-Fi, but most of them seem to be big on ideas, and little on much else.
+I liked the characters for the most part in this book, but there wasn't a ton of depth there.
+I haven't really used most of that in over 10 years, but I do find Hard Sci-Fi a bit interesting.

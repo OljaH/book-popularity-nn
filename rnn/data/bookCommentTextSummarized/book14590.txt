@@ -1,0 +1,80 @@
+https://www.goodreads.com/book/show/276249.Naming_and_Necessity
+Those ways of reading it are interesting, but I think that what Kripke is saying is, in the end, quite simple, which is why the book has enjoyed such lasting popularity.
+He argues persuasively that names refer to things by virtue of causal processes in the world.
+The Web is full of names; many of them refer to something in the world.
+Suppose we're looking at a table on a web page, we see a name, and we wonder what it refers to.
+Even if the table has been automatically generated, it is often perfectly clear what the name's reference is because of the way the page connects to the world.
+Let me state then what the cluster concept theory of names is. (It really is a nice theory. The only defect I think it has is probably common to all philosophical theories. It’s wrong. You may suspect me of proposing another theory in its place; but I hope not, because I’m sure it’s wrong too if it is a theory.) Like many other works of philosophy (and those of other subjects, for that matter), Naming and Necessity will likely be perplexing if you don’t know what the author is arguing against.
+Thus, the essential property of a type of thing need not be the qualities by which we normally identify the thing; we normally identify lions and tigers by the way they look and act, but the above example shows that even those qualities are contingent; it’s their respective essences (their genotypes) which are the necessary qualities of tigers and lions.This leads Kripke to disagree with another engrained philosophical idea (the second N of the title): that 'necessary' and 'a priori' are synonyms.
+Napoleon was originally known by his contemporaries, and through a causal chain the connection of the name to the historical personage has been inherited by us without any confusion.Kripke also talks about “natural kinds,” what we might think of as scientific categories, and says that our names for them are rigid designators, in the same way as proper names are.
+Kripke says that with “natural kinds” we are just naming what is there.I’m still digesting the import of Kripke, but I think he is a kind of corrective to the “linguification” of philosophy, the analytic trend to say that we are trapped inside of language.
+It has to be said, although it's too much said, that Naming and Necessity revolutionized philosophy of language and is probably the most influential book in analytic philosophy in the past half-century.
+I've read Naming and Necessity four times now and am still surprised by it.
+Kripke's style is, particularly in relation to his peers, strikingly clear.
+In fact, if I have one criticism to mention offhand, it's that Kripke's style is too seductive.
+That having been said, Kripke's claims often seem to work out even under scrutiny.
+Naming and Necessity is sufficiently good that I'm sure I'll be rereading it sometime soon.
+سول كيربكي فيلسوف تحليلي يُعتبر أحد أفضل الفلاسفة المعاصرين وكتابه هذا يعد من أهم الكتب في أخر قرنين
+An extremely important book for the philosophy of language, and also very relevant in philosophy of mind.
+The book consists of 3 transcribed+edited lectures which Kripke apparently gave extemporaneously.
+This lecture format means that the book is rather quick and easy to read, and almost entirely free of (symbolic) logic (!).But beware: this is probably not a good place to dive into analytic philosophy without any background.
+Plenty of the existing reviews of this book on Goodreads will give you an introduction to the prior art of Frege and Russell, which is really necessary (no pun intended) to understand at a basic level before you can do an effective read of Kripke.
+
+If we looked at the situation from the Frege-Russell view we could argue that since “Hesperus” and “Phosphorus” each have their reference fixed by a certain description (each being the celestial body at a specific position in the sky at a specific time), that because it’s possible that those descriptions could fit two different entities (even though in the actual world they both refer to just one, the planet Venus), that statement is only contingently true.
+I suppose it's interesting for people who already accept notions like necessity and the a priori, and for those who think that the notion of "meaning" is clear enough to lean on for any substantive philosophical work.
+So it's a good book for philosophers who like to let their assumptions do all the philosophical work for them.
+If I had known that all it took to be successful in philosophy was the hunch that the discipline's most influential figures are idiots, then I would not have ever wasted my time pursuing it.
+What I cannot tell you with certainty is whether I agree with Kripke's assertion that a name is a "rigid designator." I know that I need more history to fully understand Kripke's argument, and that he's responding to Russell (whom I haven't read enough of) and Frege (whom I haven't read at all), and I'm trying to figure out how Kripke's arguments about philosophy of language relate to Hilary Putnam's especially (they seem like fellow travelers).
+But I've been spending a lot of my time thinking about names of things at weird and inopportune moments (sweeping the floor, swimming laps), which means I know this is on my mind.
+While I'm not particularly an analytic guy, I do think that Kripke's lectures are extraordinarily important for understanding how names function. For an interesting time, read lecture one in conjunction with Michel Foucault's "What is an Author?"
+Kripke’s thesis is that rigid designators are true, we have an intuition of them, and that they are the same in every possible world (Kripke 48).
+What properties of x would remain in that world and which would be different?Example: “The man who invented bifocals is Benjamin Franklin.”“Benjamin Franklin” is a rigid designator.
+one of the things i love about philosophy is that, just like in real life, you can't have everything you want.
+this is even true of our most cherished beliefs-- or, at least, it's been this way for me.
+another thing i love about philosophy is the way it exercised my imagination.
+but the whole thing makes me a little suspicious.
+i'm going to give it a little more time.
+i'm technically done reading this, but i feel like i'm at the very beginning of understanding what's going on.
+I had this book recommended to me as a classic of modern philosophy. As such I am a bit disappointed. It is possible the books greatness is over my head but to me it's a short inconclusive discussion of implicit assumptions in the use of nouns. The writing is not very impressive either. All in all not a must read at all unless this is your field of specialty or you just want to read highly regarded modern philosophy.
+Fast read for a philosophy book and interesting ideas, particularly as regards how names work, the necessity of certain traits, and the existence of a posteriori analytic knowledge. Gets bogged down at the end with the mind body problem, but that might have just been me.Glad I read it, but probably missed a lot by not reading it for class and discussing it.
+humbug.
+Inoltre, per fare ciò, non è necessario essere coscienti né della fonte, né di ciò che ha originariamente battezzato il tal referente.
+Così facendo, non solo cambiano le referenze, ma queste possono essere addirittura affinate, portandoci a scoprire come cose che prima venivano considerare essere uguali, in realtà, fossero diverse.
+mostra come esistono caratteristiche necessarie a posteriori, poiché queste possono essere scoperte solo tramite scoperte scientifiche non così evidenti da essere a priori.
+La realtà mostra una sola di queste possibilità, ciononostante si possono calcolare anche le altre secondo determinati criteri.Nonostante la natura analitica del ragionamento, K.
+Apparently this book is considered one of the most influential works of 20th century Analytical Philosophy.
+I am appreciative of the fact that Kripke clearly outlined the descriptive theory of reference more clearly than the theories founders, something which Kripke himself proudly stated.
+And I agree with his refutations(which I have to admit are quite intriguing) and even his argument that the casual theory of reference is a better description of names than the descriptive theory, but I find it hard to make myself agree with the fact that it is the correct description.
+Kotatko's lecture about problems of theory of Descriptions in which he praised this book I gave up my resistance.It's quie amusing, very interesting and suprisingly easy to understand (but not as easy as people tend to tell you).
+Although being transcription of lectures it looks like carefully written book.
+There's so many interesting ideas delivered with well-chosed, sometimes funny examples.
+On the other side, as in the case of all influencial books, some of "revolutionary ideas" are today quite well-known.
+And becouse of being transcription of lectures it lacks clear division to intelligeble chapters.
+To conclude: it's really great but not as great as people tend to tell.
+Kripke outlines really well the history of philosophical theories of naming and then argues for his own theory (and then talks about some interesting extensions of it).
+It's easy to accept Kripke's argument solely based on how easy he is to read and understand rather than based on his actual argument.
+I've discussed him with my class, and re-read some sections, and now the book seems a little sketchier than it did the first pass.
+(his idea of possible worlds is kinda suspect b/c names are necessary in all worlds because that's the way it's stipulated, not totally confident that his modal logic works wrt scope distinctions i.e.
+In the wake of Kripke, analytical philosophy rediscovered or reconstructed metaphysics in the sense that we could talk of the genuine logical properties and relationships in things themselves rather than in discourses.
+People are cornered by his argument into the conclusion that the triviality of identity can not lie in the contingent structure of our language, but rather it's embedded in the transcendental conditions of our ways of making sense of this world.
+To put it in a disputable way, this is the Kantian motif of Kripke's magnum opus.
+(as some contemporary interpreters suggest, the transcendental argument in KrV despite Kant himself leads to a version of transcendental realism.)
+Wittgenstein once spoke of a man who, despite pushing as hard as he could, could not open a door. Unbeknownst to the man, a simple pull was sufficient. In reading Naming And Necessity, it is clear that Saul Kripke stands in a similar position. A great deal of the book's brilliance lies in the astonishing simplicity of his solution to some of philosophy's most fiendish puzzles and the ease with which he lectures reveals the powerful grasp he has on the issues he describes. One of the most enjoyable and important works of philosophy the 20th century has to offer.
+Naming and Necessity is an unusual thought experiment in relation to metaphysical reasoning and a priori thought of the things around us. It explores the connections between our deduction and reasoning processes as to why we name objects, qualities, and even people. Kripke argues the origins of words and references that have become so ingrained into society that we only see or perceive these things in a sort of collective memory and to think of them in other ways would become an unnatural process. Our thoughts concerning these things are always abstract, a priori, instead of logical and well reasoned.
+To be honest, this is the first philosopgical book that I've read thoroughly.
+thank god for a philosophy book with no equations. kripke seems like a cool dude
+Ever since the concepts of sense and reference displaced the the use of genus and differentia, how do we determine reference, especially in the case of counterfactuals?
+As a result, there can be such a thing, for example, as an a posteriori concept that is nevertheless a necessary one.An important outcome of Kripke’s use of rigid designators is that talking about possible worlds (counterfactuals) becomes easier.
+It occurs to me that rigid and non-rigid designators may have analogs in our cognitive notions of percepts and concepts.I don’t usually give non-fiction five stars, so I give this book four.
+Este livro consiste na transcrição de três palestras de Saul Kripke, filósofo americano responsável pela retomada das discussões metafísicas na filosofia contemporânea.
+Neste sentido, a tese da designação rígida é utilizada por Kripke para defender uma forma de essencialismo, que é a possibilidade de atribuição de determinadas propriedades essenciais a alguns tipo de objetos.
+Kripke defende que além dos nomes próprios (e.g, Aristóteles, Goiânia, e Sol) os tipos naturais (e.g., os elementos químicos da tabela periódica, as partículas das teorias físicas, as espécie de animais da biologia) são designadores rígidos e determinam propriedades essenciais.
+Supongamos que Bush nunca hubiera tenido actividad política: el nombre "Bush" aún se le aplicaría incluso en la ausencia de todos los rasgos descriptivos que actualmente asociamos con él y, a la inversa, si surge un nuevo individuo que de hecho posee la totalidad de esos rasgos, afirmaríamos, no obstante que no es Bush.
+Lo mismo se aplica a los nombres comunes: el oro -para usar uno de los ejemplos de Kripke- seguiría siendo oro si se probara que todas las propiedades que tradicionalmente se le atribuyen son una ilusión.
+La razón populista página 132 ...la referencia de un nombre a un objeto no puede basarse en el contenido de ese nombre, en las propiedades las que alude.
+I particularly relish his criticism of Russel and Frege, and their 'definite description' account of naming, where Aristotle= the man who taught Alexander, or the student of Plato.
+As far as a theory of naming goes, that is ,the 'upshot of the thing, i'm highly skeptical about including counter-factuals in the discussion--regardless of how successful the metaphysical criticism works against Frege and Russel.
+I am an essentialist, and an externalist, but i am not keen on modality in the same way (or so i hear) that Quine is not keen on it.
+And i am afraid that Kripke sneaks essentialism into his account through the very types of modalities he considers.
+Well, the style is informal for starters- the guy was young and giving a talk (this 'book' is a transcript) NOTE- this has it's own set of drawbacks- some of the points are not clearly made- most are though; also some digressions are unnecessary and some phrasing unfelicitous or downright irritating.Mainly though because it instills a sense of wonder into previously dry fields of logical meaning.
+(This is as far as I got in philosophical logic so cannot really comment on critiques of Kripke- but for me it could all end here in this elegance).You have to wonder at the man's command of his subject: this lecture was given without notes and although the language is simple enough and the initial arguments beguile you into thinking that you can easily understand the thrust.
